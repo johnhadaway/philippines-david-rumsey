@@ -1,0 +1,40 @@
+Date	1883
+Country	[Indonesia, Philippines]
+Series No	109
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Width cm	38
+Scale 1	10,771,200
+Publication Author Initial Sort	Letts, Son & Co.
+Pub Reference	Cf P900 and World 435 (4 v. in 2, 1881-1883)
+Author	Letts, Son & Co.
+Georeferencer Status	georeferenced
+Browse Title Sort	Asiatic Archipelago. Letts's popular atlas. Letts, Son & Co. Limited, London. (1883)
+Ownership Statement	Copyright 2006
+Obj Height cm	35
+Publisher	Letts, Son & Co.
+Pub Title	Letts's popular atlas, being a series of maps delineating the whole surface of the globe, with many special and original features; and a copious index of 23,000 names. Complete edition. Letts, Son & Co. Limited, 33, King William Street, London Bridge, E.C. Factory and works at New Cross, S.E. 1883.
+Region	Southeast Asia
+Note	Colored map. Relief shown by hachures; depths by bathymetric tints. Shows cities, British consulates, vice-consulates and consular agents, submarine telegraph lines, lights and lighthouses, rivers, etc. Inset map: England on same scale.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1883
+Short Title	Asiatic Archipelago.
+Pub Type	World Atlas
+Pub Height cm	45
+Authors	Letts, Son & Co.
+World Area	East Indies
+List No	5371.104
+Media item filename	5371104.jpg
+Publication Author	Letts, Son & Co.
+Image No	5371104
+Publisher Location	London
+Page No	107
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0115/5371104.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	5371.000_109
+Full Title	Asiatic Archipelago. Letts's popular atlas. Letts, Son & Co. Limited, London. (1883)
+Obj Width cm	42
+Pub List No	5371.000
+Pub Maps	153
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

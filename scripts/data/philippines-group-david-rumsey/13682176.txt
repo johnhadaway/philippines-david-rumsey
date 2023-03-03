@@ -1,0 +1,36 @@
+Date	1954
+Country	Philippines
+Series No	176
+Subject	Physical
+Type	Atlas Map
+Pub Note	First edition of the Atlas Mira (Atlas of the World) was published in 1954. Prepared under the cooperative editorship of A. N. Baranov; V. N. Lysiuk, S. I. Shurov and Sioviet Union. Main Directorate of Geodesy and Cartography; et al. A second edition of Atlas Mira was published also in English as "The World Atlas" in 1967, Pub list #: 1603.000, with fewer maps of the USSR. First edition published in 1954, it provides complete picture of Earth's hydrography, physical, political and administrative division, settlements, transport and communication. The atlas is divided into 4 main parts: 1- World maps. 2- Maps of the USSR. 3- Maps of the continents. 4- Maps of the Polar regions and Oceans. On the first page of the atlas is a vignette with a world map inside a five-pointed star, depicting the Soviet Union. On reverse of title Page “Издан по постановлению Совета Министров СССР" = Published by decree of the Council of Ministers of the USSR. The atlas consists of pages of editorial board, preface, table of contents and key to map symbols, with a duplicate sheet, and 283 maps in attractive full color with tints for elevation and sea depth values, most double page with title page and key map and notes. Showing political and administrative boundaries, capitals, major cities, regions, railways, major airports, air routes, submarine communication cables, shipping and exploration routes, distances, canals, rivers, lakes and forests. Bound in the embossed coat of arms of the USSR on the cover, and the title embossed in gold on the cover and on spine.
+Pub Width cm	34
+Scale 1	2,500,000
+Author	[Baranov, Anatolij Nikolaevič, Soviet Union. Glavnoe upravlenie geodezii i kartografii]
+Obj Height cm	27
+Image Order	.2434 batch018
+Publisher	Glavnoe Upravlenie Geodezii i Kartografii
+Pub Title	Glavnoe Upravlenie Geodezii i Kartografii MVD SSSR. Atlas Mira : Moskva 1954. (on verso) Izdan po postanovleniyu Soveta Ministrov SSSR.
+Note	Physical map of Philippines. Relief shown by gradient tints, contours and spot heights. Depth shown by bathymetric tints, isolines and soundings.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1954
+Short Title	163. Filippiny
+Pub Type	World Atlas
+Pub Height cm	51
+Authors	Baranov, Anatolij Nikolaevič; Soviet Union. Glavnoe upravlenie geodezii i kartografii
+List No	13682.176
+Media item filename	13682176.jp2
+Publication Author	[Baranov, Anatolij Nikolaevič, Soviet Union. Glavnoe upravlenie geodezii i kartografii]
+Image No	13682176.jp2
+Publisher Location	Moskva
+Page No	163
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/13682176.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	13682.000_176
+Full Title	Филиппины = Filippiny. 163. Atlas Mira : 1954.
+Obj Width cm	44
+Pub List No	13682.000
+Engraver or Printer	[Lysiuk, Vasilii Nikolaevich,, Shurov, S. I.]
+Pub Maps	283
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

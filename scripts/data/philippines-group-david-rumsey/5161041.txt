@@ -1,0 +1,36 @@
+Date	1848
+Country	[Indonesia., Cambodia, Philippines, Thailand]
+Series No	41
+Type	Atlas Map
+Reference	Tooley Dictionary p.401; British Museum World, p. 400; Tooley Australia, p. 117.
+Pub Note	John Lothian was an Edinburgh geographer and publisher who issued atlases of Scotland and its counties from 1825 to 1835, and a General Atlas in 1834 (R. Baskes). Tooley and British Museum list and 1846 edition of this atlas, probably the first. This 1848 second edition is a late production for Lothian, engraved in the style of the Society for the Diffusion of Useful Knowledge (SDUK), but lithographed, with considerably less detail. On first glance the maps appear to be derived or copied lithographically from other maps of the period, but no engraver credit is given and we can not find any source maps. The mountains and rivers plate is unusual - it is a schematic representation that is decidedly "modern" in style. Outline color.
+Pub Width cm	34
+Scale 1	14,700,000
+Pub Reference	Tooley Dictionary p.401; British Museum World, p. 400; Tooley Australia, p. 117.
+Author	Lothian, John
+Georeferencer Status	georeferenced
+Obj Height cm	32
+Image Order	054 batch015
+Publisher	James MacLeod and Francis Orr & Sons
+Pub Title	The People's Atlas, Shewing The Relative Extent And Divisions, The Boundaries, And Other Geographical Details Of The Various Empires, States, And Quarters Of The World, Agreeably To The Best Authorities, And In Accordance With A Comparative View Of The Heights Of Hills And Lengths Of Rivers, Revised By J. Lothian. Glasgow: James Macleod, 20 Argyle Street, And Francis Orr & Sons, William Tait, Edinburgh; Simpkin, Marshall, & Co. London; A. Heywood, Manchester; And J. Cumming, Dublin. MDCCCXLVIII.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1848
+Short Title	East India Islands with Bengal Dependencies. (New Holland).
+Pub Type	World Atlas
+Pub Height cm	42
+Authors	Lothian, John
+List No	5161.041
+Media item filename	5161041.jpg
+Publication Author	Lothian, John
+Image No	5161041
+Publisher Location	Glasgow
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/5161041.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	5161.000_041
+Full Title	East India Islands with Bengal Dependencies. (New Holland).
+Obj Width cm	40
+Pub List No	5161.000
+Engraver or Printer	[Simpkin, Marshall & Co., Heywood, A., Cumming, J., Tait, William]
+Pub Maps	46
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

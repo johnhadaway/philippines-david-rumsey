@@ -1,0 +1,40 @@
+Date	1849
+Country	[China, Philippines]
+Series No	33
+Type	Atlas Map
+Reference	P4327.
+Collection	Rumsey Collection
+Pub Note	Unusual Map projections. Outline color.
+Pub Width cm	38
+Scale 1	16,600,000
+Pub Reference	P4327.
+Author	[Lowry, J.W., Sharpe, J.]
+Georeferencer Status	ungeoreferenced
+Ownership Statement	Copyright 2009
+Obj Height cm	34
+Publisher	Chapman & Hall
+Pub Title	Sharpe's Corresponding Atlas, Comprising Fifty-Four Maps, Constructed Upon A System Of Scale And Proportion, From the most Recent Authorities. Engraved On Steel By Joseph Wilson Lowry. With A Copious Consulting Index. London: Chapman And Hall, 186 Strand. MDCCCXLIX.
+Region	South East Asia
+Note	Relief shown by hachures. Countries outlined in color.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1849
+Short Title	South Eastern Asia.
+Pub Type	World Atlas
+Pub Height cm	49
+Authors	Lowry, J.W.; Sharpe, J.
+List No	2175.028
+Media item filename	2175028.jpg
+Publication Author	[Lowry, J.W., Sharpe, J.]
+Image No	2175028
+Publisher Location	London
+Page No	27
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0121/2175028.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2175.000_033
+Full Title	Sharpe's Corresponding Maps. South Eastern Asia. Birmah - China - Japan. London - Published by Chapman and Hall, 186 Strand, 1847. Continental Series.
+Obj Width cm	44
+Pub List No	2175.000
+Engraver or Printer	Lowry, Joseph Wilson
+Pub Maps	54
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

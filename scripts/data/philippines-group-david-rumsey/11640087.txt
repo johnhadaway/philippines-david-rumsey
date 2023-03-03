@@ -1,0 +1,38 @@
+Date	1888
+Country	[Indonesai, Philippines]
+Series No	87
+Type	Atlas Map
+Reference	Espenhorst I, 539. Perterman's Planet Handatlases 4.1.28 (S.226).
+Pub Note	8th. edition, first printing in 1888, with pages having no printed page numbers, instead ms numbers New revision by F. Handtke. Glogau. Carl Flemming Publisher. Atlas printed in 1888, 1891, 1892, 1894, 1895, special edition 1908. With 100 chrome lithographs colored double-sheet maps, table of contents in 2 pages. In the 1891 edition (see our copy) there is added an extensive alphabetical index in a separate volume " Ortsweiser zu Sohr-Berghaus Hand-Atlas uber alle Theile der Erde ..." The index volume contains 74 pages with abbreviations and a list of place names with location in the map grid. The 8th. edition includes astronomy and world maps, maps of Europe, regional maps of European countries and map of other continents and countries. Maps are chrome lithographs double page, numbered 1-100. mostly outline or partially colored or some full colored maps. Name of cartographer on first 4 maps only. Maps showing seas, bays, ports, rivers, islands, mountains, cities, townships, villages, roads, railroads, telegraph cables, forts, mines, canals etc., including explanation, color coded key to colonies, European possessions, legend and tables. Prime meridians are Ferro, Paris and Greenwich. Relief shown by hachures. This set of the atlas with the maps and text loose and laid into a box.
+Pub Width cm	26
+Scale 1	13,000,000
+Author	[Sohr, Karl, Berghaus, Heinrich, 1797-1884, Handtke, Friedrich, 1815-1879, Klein, H.J.]
+Georeferencer Status	not_found
+Obj Height cm	34
+Image Order	.533 batch017
+Publisher	Carl Flemming
+Pub Title	Sohr-Berghaus Hand-Atlas uber alle Theile der Erde. Neu bearbeitet von F. Handtke, Achte vermehrte und verbesserte Auflage. Ausgabe in 100 Blattern. Glogau. Verlag von Carl Flemming.
+Region	Southeast Asia
+Note	Outline color lithograph engraving double page map, color coded by region. Relief shown by hachures. Prime meridians are Greenwich, Paris and Ferro. Includes legend and tables.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1888
+Short Title	No.79. Hinter-Indien und Ostindische Inseln
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Sohr, Karl; Berghaus, Heinrich, 1797-1884; Handtke, Friedrich, 1815-1879; Klein, H.J.
+World Area	East Indies
+List No	11640.087
+Media item filename	11640087.jp2
+Publication Author	[Sohr, Karl, Berghaus, Heinrich, 1797-1884, Handtke, Friedrich, 1815-1879, Klein, H.J.]
+Image No	11640087.jp2
+Publisher Location	Glogau
+Page No	79
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11640087.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11640.000_087
+Full Title	Hinter-Indien und Ostindische Inseln. Druck und Verlag von C. Flemming in Glogau. (to accompany) Sohr-Berghaus Hand-Atlas uber alle Theile der Erde. Neu bearbeitet von F. Handtke, Achte vermehrte und verbesserte Auflage. No. 79. (inset) Mergui Archipel.
+Obj Width cm	42
+Pub List No	11640.000
+Pub Maps	100
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

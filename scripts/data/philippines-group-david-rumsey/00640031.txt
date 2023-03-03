@@ -1,0 +1,41 @@
+Date	1801
+Country	[Indonesia, Philippines]
+Series No	49
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Note	The 1st ed., with a list of subscribers. Fordham lists eds. of 1808, 1811 (reissue of 1808, no maps changes other than the 1811 date appearing on some of the maps), 1819 (one third of the maps amended), 1824 (maps unchanged from 1819 except for the date), 1828 (same as 1824, except for date changes, with reissues in 1833, 1836 (Baskes), and 1844). This is a fine atlas, one of the best of its period, and a source for American mapmakers (Tanner directly copied the World and continental maps for his New American Atlas). Fordham: (The maps) "are finely engraved, with full details, showing especially the water-ways and roads, and hill-shading, and are usually coloured. The work is very clear and delicate and of a uniform character throughout." Maps are hand painted in outline color and bound in half leather brown boards with "Cary's Atlas. 1808" stamped in gilt on the new leather spine.
+Pub Width cm	38
+Scale 1	8,700,000
+Publication Author Initial Sort	Cary, John, ca. 1754-1835
+Pub Reference	Phillips, 714; Fordham, J.C. John Cary, p. 77-82; The map collector, 43, p. 40-47; National Maritime Museum. Catalog, v. 3, no. 311.
+Author	Cary, John, ca. 1754-1835
+Georeferencer Status	georeferenced
+Browse Title Sort	A new map of the East India Isles, from the latest authorities. By John Cary, engraver, 1801. London: Published by J. Cary, Engraver & Map-seller, No. 181, Strand, Decr. 21, 1801
+Ownership Statement	Copyright 2005
+Obj Height cm	47
+Publisher	John Cary
+Pub Title	Cary's new universal atlas, containing distinct maps of all the principal states and kingdoms throughout the World. From the latest and best authorities extant. London: Printed for J. Cary, Engraver and Map-seller, No. 181, near Norfolk Street, Strand, 1808.
+Region	Southeast Asia
+Note	Engraved map. Boundaries in outline hand col. Relief shown pictorially. "44" pasted on verso.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1808
+Short Title	East India Isles.
+Pub Type	World Atlas
+Pub Height cm	57
+Authors	Cary, John, ca. 1754-1835
+World Area	East Indies
+List No	1657.046
+Media item filename	00640031.jpg
+Publication Author	Cary, John, ca. 1754-1835
+Image No	1657046
+Publisher Location	London
+Page No	44
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0064/1657046.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1657.000_049
+Full Title	A new map of the East India Isles, from the latest authorities. By John Cary, engraver, 1801. London: Published by J. Cary, Engraver & Map-seller, No. 181, Strand, Decr. 21, 1801
+Obj Width cm	52
+Pub List No	1657.000
+Pub Maps	60
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

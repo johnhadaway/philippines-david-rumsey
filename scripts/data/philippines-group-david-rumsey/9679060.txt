@@ -1,0 +1,37 @@
+Date	1886
+Country	[Philippines, Indonesia]
+Series No	60
+Type	Atlas Map
+Reference	Espenhorst 1.1.6 49th edition.
+Pub Note	49th edition and one of the latest editions we have seen. At this point in the publishing history of this atlas, most if not all of the maps are in color lithography. But the quality of the lithographic printing is declining. Maps often show countries color-coded to indicate the colonizing European country. Relief in hachures.
+Pub Width cm	38
+Scale 1	10,000,000
+Author	Geographisches Institut (Weimar, Germany)
+Georeferencer Status	ungeoreferenced
+Obj Height cm	65
+Image Order	.874 batch016
+Publisher	[Weimar Geographisches Institut, Weimar Geographisches Institut]
+Pub Title	Grosser Hand-Atlas des Himmels und der Erde. (Great Hand-Atlas of Heaven and Earth.) Weimar. Geographisches Institut. Thueringen. 49te Auflage. 72 Blatt in Kupfestich, mit Farbendruck und Colorit. 1886 Bearbeitet von H. Kiepert, C.F. Weiland, C.u.A. Graef, C. Bruhns, O. Delitsch.
+Region	[Southeast Asia, East Asia]
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1886
+Short Title	Southeast Asia, Japan, China, and East Indies.
+Pub Type	World Atlas
+Pub Height cm	60
+Authors	Geographisches Institut (Weimar, Germany)
+World Area	East Indies
+List No	9679.060
+Media item filename	9679060.jp2
+Publication Author	Geographisches Institut (Weimar, Germany)
+Image No	9679060.jp2
+Publisher Location	[Weimar, Weimar]
+Page No	54
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9679060.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	9679.000_060
+Full Title	Das Suedoestliche Asien oder China, Japan, und Hinter-Indien mit dem Indischen Archipelagus. (The south-eastern Asia or China, Japan, and rear-India with the Indian Archipelago.)
+Obj Width cm	55
+Pub List No	9679.000
+Pub Maps	67
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,38 @@
+Date	1924
+Country	Philippines
+Series No	377
+Type	Atlas Map
+Reference	P6563.
+Pub Note	This edition has excellent auto route maps of the entire United States. Maps often with printed color.
+Pub Width cm	41
+Scale 1	2,471,000
+Pub Reference	P6563.
+Author	Rand McNally and Company
+Georeferencer Status	georeferenced
+Obj Height cm	66
+Image Order	batch002
+Publisher	Rand McNally and Company
+Pub Title	Rand McNally & Co.'s Commercial Atlas Of America. Fifty-Fifth Edition ... Engraved, Printed, And Published By Rand McNally & Company, Chicago, U.S.A., 1924. (on verso) ... Copyright, 1924, by Rand, McNally & Co. Made In U.S.A.
+Note	Regional inset at scale 1:14,542,000. Manila inset at scale 1:423,000. Batan map is a continuation of main map.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1924
+Short Title	Philippine Islands.
+Pub Type	National Atlas
+Pub Height cm	53
+Authors	Rand McNally and Company
+World Area	Pacific
+List No	5028.195
+Media item filename	5028195.jpg
+Publication Author	Rand McNally and Company
+Image No	5028195
+Publisher Location	Chicago
+Page No	638-639
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/5028195.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	5028.000_377
+Full Title	Commercial Atlas of America. Rand McNally Standard Map of Philippine Islands. (with) Philippine Islands and China Sea. (with) Manila and Vicinity. (with) Batan and Babuyan Is.
+Obj Width cm	50
+Pub List No	5028.000
+Pub Maps	201
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,37 @@
+Date	1952
+Country	Philippines
+Series No	1
+Subject	Physical
+Type	Wall Map
+Reference	Current editions available from http://store.randmcnally.com/wall-maps.html UC Berkeley, Geography Department Call Number 255-A-3.
+Pub Note	Current editions available from http://store.randmcnally.com/wall-maps.html
+Pub Width cm	98
+Scale 1	1,200,000
+Pub Reference	UCBGEOG1
+Author	Rand McNally
+Georeferencer Status	not_found
+Obj Height cm	138
+Image Order	batch013
+Publisher	Rand McNally
+Pub Title	Phillipines, Western Pacific Region.
+Note	Suitable for use in a standard classroom; viewable up to 40 feet. Language(s): English. Map is paper. Mounted on wood rods. Prime Meridian is Greenwich. Projection is Lambert's conformal conic. Topics include: topography, hydrography, cities and towns, transportation routes, internal political boundaries. Department of Geography, University of California at Berkeley, Call Number 255-A-3.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1952
+Short Title	Philippines -- Physical-Political.
+Pub Type	Wall Map
+Pub Height cm	138
+Authors	Rand McNally
+List No	7001.000
+Media item filename	7001000.jpg
+Publication Author	Rand McNally
+Image No	7001000
+Publisher Location	Chicago
+Download 1	Map may not be downloaded, for viewing only.
+Pub List No InitialSort	7001.000_001
+Full Title	Phillipines, Western Pacific Region.
+Obj Width cm	98
+Pub List No	7001.000
+Pub Maps	1
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

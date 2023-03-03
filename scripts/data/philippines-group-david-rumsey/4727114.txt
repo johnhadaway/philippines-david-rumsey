@@ -1,0 +1,39 @@
+Date	1889
+Country	[Indonesia, Malaysia, Philippines, Papua]
+Series No	114
+Subject	Railroad
+Type	Atlas Map
+Reference	P950.
+Pub Note	The third edition. See note field above.
+Pub Width cm	33
+Scale 1	9,579,000
+Pub Reference	P950.
+Author	Cram, George Franklin
+Georeferencer Status	ungeoreferenced
+Obj Height cm	42
+Image Order	batch006
+Publisher	George F. Cram
+Pub Title	Cram's Standard American Atlas Of The World. Accompanied By A Complete And Simple Index ... Maps Of The United States Are The Largest Scale And Clearest Print Of Any Atlas Maps Published. Foreign Maps Are Compiled Largely From Charts Of The Royal Geographical Society, And Are Geographically Correct. George F. Cram, No. 19 Park Place, New York. Wm.M. Goldthwaite, Manager.
+Note	Prime meridians Washington D.C. and Greenwich. Relief shown by hachures. With printed color.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1889
+Short Title	East Indies.
+Pub Type	World Atlas
+Pub Height cm	45
+Authors	Cram, George
+World Area	East Indies
+List No	4727.114
+Media item filename	4727114.jpg
+Publication Author	Cram, George Franklin
+Image No	4727114
+Publisher Location	Chicago
+Page No	336-337
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/4727114.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	4727.000_114
+Full Title	East Indies, Engraved Expressly for the Standard World Atlas.
+Obj Width cm	57
+Pub List No	4727.000
+Pub Maps	118
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

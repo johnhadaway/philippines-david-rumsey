@@ -1,0 +1,40 @@
+Date	1827
+Country	Philippines
+Series No	354
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Note	A complete set of the six volume Atlas Universel in original bindings of half red leather teal cloth covered boards with title "Vandermaelen. Atlas Universel..." embossed in gold on the spine. This monumental work was the first atlas of the world with all maps on the same scale (and a large scale at that - about one inch to 26 miles) and the first lithographed world atlas. If all the maps were joined together they would form a globe of 7.75 meters in diameter (such a globe was made in Brussels). The maps were published originally in parts of ten maps each, beginning in 1825 and ending in 1827. Vandermaelen's maps are frequently misunderstood because each map is usually best comprehended in the context of its neighboring maps - the maps do not function well on their own, since they were all meant to be joined. Koeman states that "His atlases, although unique in concept and size did not possess that fine touch of cartographic style which make them attractive for a collector..." We strongly disagree - the graphic art of the maps must be appreciated in the context of lithography, a developing art at the time; as lithographs, they are very well done. For many of the areas depicted, these maps are the largest scale maps made at the time, and the most detailed (particularly in the American West). Maps are hand painted in outline color.
+Pub Width cm	38
+Scale 1	1,641,836
+Publication Author Initial Sort	Vandermaelen, Philippe, 1795-1869; Hassel, S. G. H., 1779-1829
+Pub Reference	Phillips, 749; Koeman Vdm 1; National Maritime Museum, 179; Wellens-De Donder, L. Philippe Vandermaelen 1795-1869, 4-5.
+Author	Vandermaelen, Philippe, 1795-1869
+Georeferencer Status	ungeoreferenced
+Browse Title Sort	Partie des Iles Philippines. Oceanique no. 7. (Dresse par Ph. Vandermaelen, lithographie par H. Ode. Sixieme partie. - Oceanique. Bruxelles. 1827)
+Ownership Statement	Copyright 2005
+Obj Height cm	47
+Publisher	Ph. Vandermaelen
+Pub Title	Atlas universel de geographie physique, politique, statistique et mineralogique, sur l'echelle de 1/1641836 ou d'une ligne par 1900 toises, dresse par Ph. Vandermaelen, Membre de la Societe de Geographie de Paris, d'apres les meilleures cartes, observations astronomiques et voyages dans les divers Pays de la Terre; Lithographie par H. Ode, Membre de la Societe de Geographie de Paris. Premier partie. - Europe. Bruxelles. 1827 ... Deuxieme partie. - Asie ... Troisieme partie. - Afrique ... Quatrieme partie. - Amer. sept. ... Cinquieme partie. - Amer. merid. ... Sixieme partie. - Oceanique. (with) Statistique de l'Europe d'apres Hassel.
+Note	Hand col. lithographed map. Relief shown by pictorially and by hachures. Covers eastern Mindanao and adjacent islands. Includes text: Note sur les iles Philippines. Pour le commencement voyez la carte no. 5. Prime meridian: Paris.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1827
+Short Title	Partie, Iles Philippines. Oceanique no. 7.
+Pub Type	World Atlas
+Pub Height cm	55
+Authors	Vandermaelen, Philippe, 1795-1869
+List No	2212.335
+Media item filename	01010021.jpg
+Publication Author	[Hassel, S. G. H., 1779-1829, Vandermaelen, Philippe, 1795-1869]
+Image No	2212335
+Publisher Location	Bruxelles
+Page No	6:7
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0101/2212335.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2212.000_354
+Full Title	Partie des Iles Philippines. Oceanique no. 7. (Dresse par Ph. Vandermaelen, lithographie par H. Ode. Sixieme partie. - Oceanique. Bruxelles. 1827)
+Obj Width cm	56
+Pub List No	2212.000
+Engraver or Printer	Ode, Henri
+Pub Maps	389
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,36 @@
+Date	1904
+Country	[Indonesia, Singapore, Philippines]
+Series No	82
+Type	Atlas Map
+Pub Note	First issued in 1887, this atlas is the successor to John Arrowsmith's London Atlas of 1858 (Stanford acquired Arrowsmith's plates upon his death). The first issue of the second edition appeared in 1893, with updated second editions of 1896, 1898, and this 1901. The third edition was issued in 1904 (see our #949) and Phillips (mistakenly) shows the next and last edition as 1928--actually 1931 according to Herbert in Imago Mundi p. 120. This is a magnificent atlas, in full color lithography, certainly the premier atlas of its day. Relief shown by hachures.
+Pub Width cm	42
+Scale 1	94,000,000
+Pub Reference	cf P1029 (1898 ed.), World (1894, 1904 eds.); Herbert, F. Imago Mundi 41 (1989), p. (98)-123 and Association of Canadian Map Libraries Bulletin no. 62 (March 1987), 1-16.
+Author	Stanford, Edward
+Obj Height cm	51
+Image Order	.416 batch017
+Publisher	Edward Stanford
+Pub Title	Stanford's London atlas of universal geography exhibiting the physical and political divisions of the various countries of the world. Folio edition. One hundred and ten maps, with a list of latitudes and longitudes. Third edition, revised and enlarged. London, Edward Stanford, Geographer to Her Majesty, 12, 13 & 14 Long Acre, W.C. 1904.
+Note	Full color. Relief shown by hachures and spot heights. Shows settlements, roads, railroads, sea lanes, submarine cables, etc.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1904
+Short Title	Asiatic Archipelago.
+Pub Type	World Atlas
+Pub Height cm	57
+Authors	Belcher, Edward; Edward Stanford Ltd.; Gordon, D. M.; Stanford, Edward
+World Area	East Indies
+List No	0949.082
+Media item filename	0949082.jp2
+Publication Author	Stanford, Edward
+Image No	0949082.jp2
+Publisher Location	London
+Page No	(pl. 70)
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/0949082.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	0949.000_082
+Full Title	Asiatic Archipelago, on Mercator's projection. (insets) Singapore. Labuan Island.
+Obj Width cm	62
+Pub List No	0949.000
+Pub Maps	110
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

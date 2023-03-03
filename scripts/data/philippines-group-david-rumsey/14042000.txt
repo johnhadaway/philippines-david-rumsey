@@ -1,0 +1,33 @@
+Date	1902
+Country	[United States, Philippines]
+Subject	Railroad
+Type	Separate Map
+Pub Note	Map of the United States showing railroads in red lines, with stations. Map 70 x 108 cm, on sheet 77 x 115 cm. With 5 insets: Alaska -- Yellowstone Park -- Philippine Islands -- Guam -- Hawaiian Islands.
+Pub Width cm	108
+State/Province	[Alaska, Hawaii]
+Author	New England Railway Publishing Company
+Obj Height cm	70
+Image Order	.295 batch017
+Publisher	New England Railway Publishing Company
+Pub Title	ABC, The pathfinder railway guide map : Western section. Issued by the New England Railway Publishing Company, 67 Federal St., Boston, Mass. Copyright, 1902.
+Region	[Yellowstone National Park, Guam]
+Note	Map of the United States showing railroads in red lines, with stations. Map 70 x 108 cm, on sheet 77 x 115 cm. With 5 insets: Alaska -- Yellowstone Park -- Philippine Islands -- Guam -- Hawaiian Islands.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1902
+Short Title	The pathfinder railway guide map.
+Pub Type	Separate Map
+Pub Height cm	70
+Authors	New England Railway Publishing Company
+List No	14042.000
+Media item filename	14042000.jp2
+Publication Author	New England Railway Publishing Company
+Image No	14042000.jp2
+Publisher Location	Boston
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/185/14042000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	14042.000_000
+Full Title	ABC, The pathfinder railway guide map : Western section. Issued by the New England Railway Publishing Company, 67 Federal St., Boston, Mass. Copyright, 1902.
+Obj Width cm	108
+Pub List No	14042.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

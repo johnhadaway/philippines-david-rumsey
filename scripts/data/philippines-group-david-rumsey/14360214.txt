@@ -1,0 +1,35 @@
+Date	1863
+Series No	214
+Type	Atlas Map
+Pub Note	The dispatch atlas, in two volumes: Vol. I : British and .Vol. II : Foreign. Published by the Weekly Dispatch, London, 1863. Includes a preface, directions for binding and a table of contents for both volumes, which lists the maps in order of appearance, with plate numbers handwritten beside map titles. Preface begins: The subscribers to the Weekly Dispatch have in this collection the most full and accurate survey of the world's surface that has yet been presented to the public in any single series. Both volumes bound in board covered in dark green linen, with spine and corners in calf. Gilded spine titles, as well as ornamentation on spines and front and back covers. With marbled end papers and gilded page edges. Collation: Volume I: [6] pages, 129 leaves of plates (some double); Volume II: 147 leaves of plates (some double). The work’s total 276 plates contain 300 maps. Each plate number handwritten in ink above map. First volume focuses on the British Isles, especially England. Second volume covers the larger globe, featuring Europe, the Middle East, Asia, Africa, North America, Central America, South America, Australia, New Zealand, the Pacific Ocean and the Arctic. Maps show political boundaries, cities, fortresses, railways, roads, bridges, canals, ocean routes, topography, glaciers, bodies of water, drainage, coastlines, shoals, islands and water depths. Maps of the Americas include territories of indigenous peoples. Maps of the United States south delineate between Federal, Border and Confederate States. Some maps feature English translations of terms from other languages that describe geographic features, including the “Explanation of Arabic words" - such as nahr for river - in the Map of Syria. Maps created by Edward Weller, J. W. Lowry, B. R. Davies, John Dower and T. Ettling; printed by Edward Weller and Day & Son, Lithographers to The Queen.
+Pub Width cm	38
+Scale 1	5,500,000
+Author	[Weekly Dispatch, Weller, Edward, 1819-1884]
+Obj Height cm	30
+Image Order	.2492 batch018
+Publisher	Weekly Dispatch
+Pub Title	The dispatch atlas. London : published at the "Weekly Dispatch" Office, 139, Fleet Street, London, and sold by all booksellers and news agents. 1863.
+Region	[Borneo, Philippines]
+Note	Two maps of Borneo and the Philippines. Maps show cities, bodies of water, drainage, coastlines, shoals and islands. Maps include latitudinal and longitudinal lines, as well as bar scales given in English and geographical miles (scales differ). Hand-colored lithograph. Maps are each 30 x 21 cm, on sheet 33 x 48 cm. Plate number handwritten in ink at upper left corner of sheet; "9/6/61" in pencil at bottom of sheet. Maps appear in Vol. II : Foreign.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1863
+Short Title	Borneo ...
+Pub Type	World Atlas
+Pub Height cm	50
+Authors	Weekly Dispatch; Weller, Edward, 1819-1884
+List No	14360.214
+Media item filename	14360214.jp2
+Publication Author	Weekly Dispatch
+Image No	14360214.jp2
+Publisher Location	London
+Page No	93
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/14360214.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	14360.000_214
+Full Title	Borneo -- The Philippine Islands / by Edwd. Weller ; engraved by Edwd. Weller, 34 Red Lion Square ; E. Weller, Lithogr.
+Obj Width cm	42
+Pub List No	14360.000
+Engraver or Printer	Weller, Edward, 1819-1884
+Pub Maps	300
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

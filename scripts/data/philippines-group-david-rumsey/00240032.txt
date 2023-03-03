@@ -1,0 +1,38 @@
+Date	1875
+Country	[India, Indonesia, Philippines]
+Series No	75
+Type	Atlas Map
+Reference	P4352.
+Pub Note	Stieler's Atlas is extraordinarily detailed. Close examination of the maps shows many features that one would expect to find only on much larger maps. This atlas was first published in 1817, with editions continuing well into the 20th century. It was one of the most comprehensive and best executed 19th century German atlases. In this edition, the maps are dated 1871-5; Phillips says this was issued in parts. 8 pages of text accompanies the index. Atlas is bound in half leather brown cloth covered boards with "Stieler's Hand Atlas" stamped in gilt on the front cover and spine. Maps are both hand painted and printed in full and outline color.
+Pub Width cm	50
+Scale 1	18,500,000
+Pub Reference	P4352.
+Author	[Stieler, Adolf, Stulpnagel, F.v.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	32
+Publisher	Justus Perthes
+Pub Title	Hand Atlas Uber Alle Theile Der Erde Und Uber Das Weltgebaude. Herausgegeben Von Adolf Stieler. Gotha Justus Perthes.
+Note	In outline color showing India, China, Indonesia and the Philipinnes. Uncolored inset map of Great Britain.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1875
+Short Title	Ost-Indien.
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Stieler, Adolf; Stulpnagel, F.v.
+World Area	Asia
+List No	2449.072
+Media item filename	00240032.jpg
+Publication Author	Stieler, Adolf
+Image No	2449072
+Publisher Location	Gotha
+Page No	66
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0024/2449072.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2449.000_075
+Full Title	Ost-Indien. Gezeichnet von F. v. Stulpnagel. Nachtr v. Hm. Bgs. Alt sc. Gotha: Justus Perthes 1874.
+Obj Width cm	40
+Pub List No	2449.000
+Engraver or Printer	[Alt, W., Berghaus, Hermann, Stulpnagel, F. von]
+Pub Maps	89
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

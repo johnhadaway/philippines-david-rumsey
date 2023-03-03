@@ -1,0 +1,39 @@
+Date	1929
+Country	[Indonesia, Philippines]
+Series No	102
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Note	See note field above.
+Pub Width cm	33
+Scale 1	10,000,000
+Publication Author Initial Sort	Touring club italiano
+Pub Reference	P6715; World 477.
+Author	Touring club italiano
+Georeferencer Status	ungeoreferenced
+Browse Title Sort	Indocina, Siam e Arcipelago Malese, Indochine, Maleische Archipel. Propr. Artistico-letteraria del T.C.I. Ufficio cartografico del T.C.I. (1929)
+Ownership Statement	Copyright 2007
+Obj Height cm	46
+Publisher	Touring club italiano
+Pub Title	Atlante internazionale del Touring club italiano. (3. ed.). Centosettanta tavole principali, centrotrenta carte parziali e di suiluppo. Opera redatta ed eseguita nell'Ufficio cartografico del T.C.I. sotto la direzione di L.V. Bertarelli, O. Marinelli, P. Corbellini. Milano: Touring club italiano. MDCCCCXXIX/VII.
+Region	Southeast Asia
+Note	Color map. Relief shown by hachures and spot heights; depths by isolines. Includes insets at 1:1,500,000 scale of the Singapore and Manila regions and at 1:5,000,000 of Java and Madura.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1929
+Short Title	95-96. Indocina, Siam, Arcipelago Malese.
+Pub Type	World Atlas
+Pub Height cm	50
+Authors	Touring club italiano
+List No	1012.051
+Media item filename	1012051.jpg
+Publication Author	Touring club italiano
+Image No	1012051
+Publisher Location	Milano
+Page No	pl. 95-96
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0116/1012051.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1012.000_102
+Full Title	Indocina, Siam e Arcipelago Malese, Indochine, Maleische Archipel. Propr. Artistico-letteraria del T.C.I. Ufficio cartografico del T.C.I. (1929)
+Obj Width cm	54
+Pub List No	1012.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

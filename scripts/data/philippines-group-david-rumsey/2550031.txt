@@ -1,0 +1,39 @@
+Date	1825
+Country	[Burma, Indonesia, Philippines]
+Series No	31
+Type	Atlas Map
+Reference	cfP6059.
+Pub Note	Portrait of A.Arrowsmith Sr. Issued in year following the elder Arrowsmith's death, and dedicated to him. Atlas is bound in half leather dark teal cloth covered boards with "Outlines Of The World" stamped on the spine in gold. Maps are hand painted with outline color.
+Pub Width cm	30
+Scale 1	19,000,000
+Pub Reference	cfP6059.
+Author	Arrowsmith, Aaron Jr.
+Georeferencer Status	ungeoreferenced
+Obj Height cm	23
+Image Order	batch013
+Publisher	A. & S. Arrowsmith
+Pub Title	Outlines Of The World. By A. Arrowsmith, Hydrographer to His Majesty. 1825. London; Published Jany 4th 1825, by A. & S. Arrowsmith, No. 10, Soho Square. (title page portrait) Aaron Arrowsmith ... Obiit. 1823. H.W. Pickersgill A.R.A. Pinxt. T.A. Dean Sculpt.
+Region	South East Asia
+Note	Hand color map, with colored boundaries. Shows regions, Place names, rivers, etc. Relief shown by hachures. Prime meridian is Greenwich.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1825
+Short Title	Eastern I
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Arrowsmith, Aaron Jr.
+List No	2550.031
+Media item filename	2550031.jpg
+Publication Author	Arrowsmith, Aaron Jr.
+Image No	2550031
+Publisher Location	London
+Page No	28
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2550031.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2550.000_031
+Full Title	Eastern I. London, Published Jany. 4.1825 by A. & S. Arrowsmith, No.10 Soho Square.
+Obj Width cm	32
+Pub List No	2550.000
+Engraver or Printer	[Pickersgill, H.W., Dean, T.A.]
+Pub Maps	44
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

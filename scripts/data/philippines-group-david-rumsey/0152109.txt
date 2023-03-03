@@ -1,0 +1,39 @@
+Date	1869
+Country	[Malayasia, Philippines, Indonesia, Singapore]
+Series No	109
+Type	Atlas Map
+Reference	cfP4348.
+Pub Note	This edition changes the U.S. map, adds Wyoming to the North America map, adds the map of the northwest states and several other maps (but not to the U.S. map). Has an unusual Alaska map. In several of the western maps (Iowa, etc.) the phrase "Township Map of..." that appeared in the 1868 atlas, is dropped. Florida and New Jersey are enlarged to double page. Relief shown by hachures. Political units (mostly counties) shown in color.
+Pub Width cm	39
+Scale 1	11,000,000
+Pub Reference	cfP4348.
+Author	Colton, G.W.
+Georeferencer Status	georeferenced
+Obj Height cm	36
+Image Order	batch005
+Publisher	G. W & C. B. Colton & Co.
+Pub Title	Colton's General Atlas, Containing One Hundred And Eighty Steel Plate Maps And Plans, On One Hundred And Nineteen Imperial Folio Sheets, Drawn By G. Woolworth Colton. Letter-Press Descriptions, Geographical, Statistical, And Historical, By Richard Swainson Fisher. New York: G.W. & C.B. Colton, No. 172 William Street. 1869. Entered ... 1863, by J.H. Colton ... New York.
+Region	East Indies
+Note	Prime meridians are Greenwich and Washington D. C. Relief shown by hachures.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1869
+Short Title	East Indies.
+Pub Type	World Atlas
+Pub Height cm	45
+Authors	Colton, G.W.
+World Area	East Indies
+List No	0152.109
+Media item filename	0152109.jpg
+Publication Author	[Fisher, Richard Swainson, Colton, G.W.]
+Image No	0152109
+Publisher Location	New York
+Page No	128
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/0152109.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0152.000_109
+Full Title	Colton's East Indies. (inset) Island and strait of Singapore. Published By G. W & C. B. Colton & Co. No. 172 William St. New York.
+Obj Width cm	40
+Pub List No	0152.000
+Pub Maps	101
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

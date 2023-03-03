@@ -1,0 +1,38 @@
+Date	1808
+Country	[Indonesia, Malaysia, Philippines, Vietnam]
+Series No	37
+Type	Atlas Map
+Reference	P6028.
+Pub Note	.The first edition; Phillips shows editions of 1808, 1816, 1818, 1826, 1830, and 1836. The last edition had 46 maps on 56 sheets. This was obviously a popular atlas that had a long publishing run. Smith also made globes, several of which were used (with credit given) as sources by Josiah Loring of Boston. Maps are hand painted with outline color.
+Pub Width cm	33
+Scale 1	14,000,000
+Pub Reference	P6028.
+Author	Smith, Charles
+Georeferencer Status	georeferenced
+Obj Height cm	27
+Image Order	071 batch014
+Publisher	C. Smith
+Pub Title	Smith's New General Atlas Containing Distinct Maps Of all the Principal Empires, Kingdoms, & States Throughout the World Carefully delineated from the best Authorities extant. London, Printed for C. Smith, Mapseller extraordinary, To his Royal Highness the Prince of Wales, No. 172, Strand. 1808. (title page only) Halliwell fect.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1808
+Short Title	East India Isles.
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Smith, Charles
+World Area	East Indies
+List No	0908.037
+Media item filename	0908037.jpg
+Publication Author	Smith, Charles
+Image No	0908037
+Publisher Location	London
+Page No	36
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/0908037.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0908.000_037
+Full Title	East India Isles.
+Obj Width cm	37
+Pub List No	0908.000
+Engraver or Printer	Jones, E.
+Pub Maps	43
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

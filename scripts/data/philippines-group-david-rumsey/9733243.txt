@@ -1,0 +1,34 @@
+Date	1894
+Country	[China, Philippines, Vietnam, Laos]
+Series No	243
+Type	Atlas Map
+Pub Note	Relief shown in hachures. Many sheets entitled, "Rand, McNally & Co's, Indexed, Atlas of the World. Map of [Location]. For each state or province, the text lists railroads, districts, creeks, islands, lakes, mountains and hills, rivers, and towns.
+Pub Width cm	37
+Scale 1	9,750,000
+Author	Rand, McNally & Co.
+Georeferencer Status	not_found
+Obj Height cm	53
+Image Order	.533 batch017
+Publisher	Rand, McNally & Co.'s
+Pub Title	Rand, McNally & Co.'s Enlarged Business Atlas and Shippers' Guide ... Entire Railroad System ... Ready Reference Index ... Complete Reference Maps ... Guide Maps showing the Streets, Transportation Lines, and Public Buildings of the Large Cities in the United States. Special Features ... and the Full Returns of the Census of 1890. Twenty-fourth Edition. Rand McNally & Company, Chicago, U.S.A., 1894.
+Region	Indo-China
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1894
+Short Title	China, Indo-China and part of Malaysia.
+Pub Type	World Atlas
+Pub Height cm	54
+Authors	Rand, McNally & Co.
+List No	9733.243
+Media item filename	9733243.jp2
+Publication Author	Rand, McNally & Co.
+Image No	9733243.jp2
+Publisher Location	Chicago
+Page No	395
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/9733243.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	9733.000_243
+Full Title	China, Indo-China and part of Malaysia.
+Obj Width cm	35
+Pub List No	9733.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

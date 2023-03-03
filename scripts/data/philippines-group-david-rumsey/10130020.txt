@@ -1,0 +1,38 @@
+Date	1587
+Country	[Indonesia, Philippines]
+Series No	20
+Subject	Art
+Type	Atlas Map
+Reference	Provenance of this copy: Sotheby's, May 12th, 1981, lot 53, sold to N. Israel; H.P. Kraus catalog 165 Cimelia: A Catalogue of Important Illuminated and Textual Manuscripts Published in Commemoration of the Sale of the Ludwig Collection, January, 1983; sold to private party; 2017 sold to David Rumsey Map Collection by Barry Lawrence Ruderman Antique Maps.
+Pub Note	“An important and extraordinary manuscript world map drawn up on a north polar projection to form the largest manuscript map of the world at 9 by 9 feet. This map is one of 3 examples extant (2 manuscript, 1 printed) that form the continuum of Urbano Monte's work on his ultimate world map. The other two examples were studied at length by Almagia: manuscript copy S is at the Bibliotheca Seminario Arcivisovale at Venegano near Milan is similar to this example with the map in 60 sheets. A second example, printed copy A, is at the Bibliotheca Ambrosiana in Milan, with the frontispiece dated 1590 and the map divided in 64 sheets making the division lines of the sheets easier to arrange. This printed version was published in 1604 on 64 plates, and is the only printed copy known.. Two other single sheet engraved world maps by Monte in North Polar projection are also known, published in Milan in 1603 and 1604, copies of both to be found in the Ambrosiana; an example of the 1603 is also in the Doria atlas from the Wardington Collection. Whilst unusual, the idea of a North Polar projection does have precedents in cartography, notably the beautiful world map of Postel first published in Paris in 1581, and one to be found engraved in ivory on a table top by Gennaro Picicaro, thought to be Naples, 1597 and probably borrowing from the ideas of Monte. The ideas for the projection can also be seen in the Contarini/Roselli map (Venice: 1506), the Ruysch map (Rome: 1507), and the Fine in Paris in 1531. All were attempts to capture the full extent of the world, in which much was still unknown. Of Monte little is known, except for the examples of his maps that have survived. He contributed to a 4 volume historical diary titled Delle cose piu notabili successe nella citta di Milano, the 4th volume of which describes the visit of the Japanese Embassy to Europe 1582-1590, in particular their stay in Italy. Monte would certainly have met the party when they visited Milan in 1582, and its presumed that the form of Japan depicted in this map stems from information provided by the Embassy. Monte's principal fame rests with his geographical treatise Trattato Universale descrittione et sito de tutta la terra sin qui consociuta descritto da Urbano Monte, which accomaanies the 64 sheet manuscript map in the Ambrosiano and would have been Libri primo and secondo to this volume; probably a separate folio volume of text to describe and relate the history and geography of the world. A particular point of interest is the small roundel portrait drawn under the dedication. Having drawn a nice small roundel portrait of himself in 1587, aged 43, he went back 2 years later to add a pasted-over portrait of himself, aged 45, suggesting that he came back to his work after signing off in 1587 (see sheet 42). The atlas has the feel of a work in progress, particularly because of the marginal annotations by Monte and the variety of papers used in its composition. Also, the make up of the atlas—particularly the non-sequential numbering of the earlier sheets, the wear to sheet 7 before binding, and the 17th century binding and guards—suggests that although in some form of binding from the late 16th century, it was reassembled in the present binding and form in mid or early 17th century. The geography of this map is essentially Mercatorial, using Mercator's world map of 1569 as the style guide. On tavola XXV, Monte claims his sources for the map, citing geographers Piccolomini, Pliny, Ptolemy, Cortes, Fernando Columbus, Juan Gonzalez de Mendoza, Giovanni d'Anania, various Jesuit letters, including Marco Polo, and cartographers Mercator, Gastaldi, Olaus Magnus, Giovio, Lopes and the brothers Zeno. Of great interest is the attempt Monte makes to make his map not just a geographical tool but to show climate, customs, length of day, distances within regions— in other words, to create a universal scientific planisphere. In his dedication on tavola XL he specifies how to arrange the sheets of the mappamondo and makes it explicit that the whole map was to be stuck on a wooden panel 5 and a half brachia square (3.25m) so that it could be revolved around a central pivot or pin through the north pole. Monte's wall map comes at a time when the map mural had been gaining popularity in Italian decoration. Indeed a treatise in 1510 by Paolo Cortese describes the appropriate decoration for a Cardinal's room as "a learned enjoyment of a picture representing the world." Between 1560 and 1580 four of the greatest map murals had been executed: fresco maps in Palazzo Vechia, Florence, two in the Vatican and another in Palazzo Farrnese in Caprarola. Almost certainly Monte had envisioned his opus as gracing the walls of a Ducal Palace in Milan, and the engraving of the 1590 sheets to make a printed wall map indicates that he had planned to distribute his geography to a wider audience. A monumental map, this little known work by Monte can take its place alongside Mercator, Waldseemueller, Gastaldi and other greats of 16th century world mapping.” Bonhams, 2012 (corrected). Digitization and compositing by Brandon Rumsey, 2017
+Pub Width cm	28
+Scale 1	Varies
+Pub Reference	Almagia, R. "Un prezioso cimelio della cartografica Itatiana: il planisfero di Urbano Monti." La bibliofilia XLIII, 1943, pp 156-193. [The present map unknown to Almagia.] Goss, J. (map specialist, Sothebys, cataloguer of this map 1981). "An Unusual Wall Map by Urbano Monti 1954-1613." Map Collector, June 1981, pp 18-22. Walter, L., ed. Japan: A Cartographic Vision, 1994, Nos 16a, 16b, and 17. Shirley, Mapping of the World, 1983. 239, 246, 247. D'Ascenzo, Annalisa, Cultura Geografica e Cartografia in Italia fine del Cinquecento: il "Trattato Universale" di Urbano Monte, 2012; Tooley, R.V., Dictionary of Mapmakers, pp 272-273. Read "A Mind at Work: Urbano Monte's 60-Sheet Manuscript World Map" by Dr. Katherine Parker, 2017, Forward by Barry Ruderman, Introduction by David Rumsey, https://s3.amazonaws.com/rumsey3/Monte/Urbano+Monte+Catalog.pdf
+Author	Monte (Monti), Urbano, 1544-1613
+Georeferencer Status	not_found
+Obj Height cm	40
+Image Order	.527 batch017
+Publisher	Manuscript
+Pub Title	(Manuscript Wall Map of the World)
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1587
+Short Title	Tavola XVIII. Che Ha Sua Superiore La Tavola Ottava. Libro Terzo.
+Pub Type	World Atlas
+Pub Height cm	42
+Authors	Monte (Monti), Urbano, 1544-1613
+World Area	Antarctica
+List No	10130.020
+Media item filename	10130020.jp2
+Publication Author	Monte (Monti), Urbano, 1544-1613
+Image No	10130020.jp2
+Publisher Location	(Milan, Italy)
+Page No	156
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/10130020.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	10130.000_020
+Full Title	Tavola XVIII. Che Ha Sua Superiore La Tavola Ottava. Libro Terzo.
+Obj Width cm	51
+Pub List No	10130.000
+Pub Maps	67
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

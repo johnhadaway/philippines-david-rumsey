@@ -1,0 +1,36 @@
+Date	1948
+Country	Philippines
+Series No	46
+Type	Atlas Map
+Pub Note	Most maps in full color. Many maps have an identification number in a bottom corner - meaning unknown since they are sometimes repeated on different maps.
+Pub Width cm	35
+Scale 1	1,547,000
+State/Province	Hawaii
+Author	Hammond, C.S.
+Georeferencer Status	ungeoreferenced
+Obj Height cm	43
+Image Order	batch004
+Publisher	Garden City Publishing Company, Inc.
+Pub Title	Hammond's New World Atlas. Containing New and Complete Historical, Economic, Political and Physical Maps of the Entire World in Full Colors with Complete Indexes and the Races of Mankind, Illustrated Gazetteer of the World, Illustrated Gazetteer of the United States and Territories. Garden City Publishing Company, Inc. Garden City, N.Y., U.S.A. 1948.
+Note	Philippines map at scale 1:6,190,000.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1948
+Short Title	Hawaii. Republic of the Philippines.
+Pub Type	World Atlas
+Pub Height cm	52
+Authors	Hammond, C.S.
+List No	1954.046
+Media item filename	1954046.jpg
+Publication Author	Hammond, C.S.
+Image No	1954046
+Publisher Location	Garden City
+Page No	108
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/1954046.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1954.000_046
+Full Title	Hawaii. Republic of the Philippines. 7441. (insets are extensions of main map).
+Obj Width cm	27
+Pub List No	1954.000
+Pub Maps	277
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

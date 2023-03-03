@@ -1,0 +1,33 @@
+Date	1942
+Country	[Philippines, Australia, Indonesia, New Guinea]
+Series No	1
+Type	[Covers, Separate Map]
+Pub Note	A row of combatant flags is across the top border of the cover side of the map, and the bottom border of the verso. Adjacent, in the margisn, is a line of instructions, "Follow the Action By Cutting off these Flags and Pasting them on Each Position as it is Won or Lost."
+Pub Width cm	29
+Author	LeNoir
+Georeferencer Status	not_found
+Obj Height cm	20
+Image Order	.629 batch017
+Publisher	McDuffee & LeNoir
+Pub Title	Progressive War Map of the Pacific.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1942
+Short Title	Covers: Progressive War Map of the Pacific. Philippines. Australia, New Guinea, Indonesia, Malaysia, Indonesia.
+Pub Type	Separate Map
+Pub Height cm	20
+Authors	LeNoir
+World Area	East Indies
+List No	9743.001
+Media item filename	9743001.jp2
+Publication Author	LeNoir
+Image No	9743001.jp2
+Page No	cover
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/9743001.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	9743.000_001
+Full Title	(Covers to) Progressive War Map of the Pacific. Philippines. Australia, New Guinea, Indonesia, Malaysia, Indonesia.
+Obj Width cm	29
+Pub List No	9743.000
+Pub Maps	3
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,41 @@
+Date	1771
+Country	[Philippines, Vietnam]
+Series No	60
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Note	Maps by Bonne, Janvier, & Rizzi Zannoni. Late edition which includes important maps of the United States, British America, and Mexico which do not appear in the earlier editions. Also has an excellent catalogue of Lattre's publications. The first edition of this atlas had 36 maps (see Baskes copy). Maps are with outline hand col. and bound in full brown leather covers embossed with "Atlas Moderne" on the spine.
+Pub Width cm	30
+Scale 1	10,000,000
+Publication Author Initial Sort	Lattre, Jean ; Bonne, Rigobert, 1727-1794
+Pub Reference	Cf. Phillips, 664; National Maritime Museum, 215; British Library. World, col. 384-385 (1762-1785 eds.)
+Author	Bonne, Rigobert, 1727-1794
+Georeferencer Status	georeferenced
+Browse Title Sort	Carte hydro-geo-graphique des Indes Orientales en deca et au dela du Gange avec leur archipel. Dressee et assujettie aux observations astronomiques, par M. Bonne, Hydrographe du Roi. A Paris, Chez Lattre, Graveur, ord. de M. Le Dauphin, rue S. Jacq. a la Ville de Bordeaux. Avec priv. du Roi. 1771. Indes IIIe feuille.
+Ownership Statement	Copyright 2005
+Obj Height cm	31
+Publisher	Lattre & Delalain
+Pub Title	Atlas moderne ou collection de cartes sur toutes les parties du globe terrestre ar plusieurs auteurs. Avec approbation & privilege du Roy. A Paris, Chez Lattre Graveur Ordinaire du Roy, de Mgr. Le Duc d'Orleans et de la Ville Rue St. Jacques No. 20. et Delalain Libraire, rue de la Comedie Francoise. (title page only) Monnet del. 1762. Prevost Sculp.
+Region	Southeast Asia
+Note	Engraved map. Sheet 3 (NE) of 4. Boundaries outlined in hand col. Relief shown pictorially. Shows wind direction, etc. Includes note. Prime meridians: Paris and Ferro. "XXVI."
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1791
+Short Title	Indes III.
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Bonne, Rigobert, 1727-1794
+World Area	Asia
+List No	2612.055
+Media item filename	00540083.jpg
+Publication Author	[Bonne, Rigobert, 1727-1794, Lattre, Jean]
+Image No	2612055
+Publisher Location	Paris
+Page No	C 26
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0054/2612055.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2612.000_060
+Full Title	Carte hydro-geo-graphique des Indes Orientales en deca et au dela du Gange avec leur archipel. Dressee et assujettie aux observations astronomiques, par M. Bonne, Hydrographe du Roi. A Paris, Chez Lattre, Graveur, ord. de M. Le Dauphin, rue S. Jacq. a la Ville de Bordeaux. Avec priv. du Roi. 1771. Indes IIIe feuille.
+Obj Width cm	42
+Pub List No	2612.000
+Pub Maps	75
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

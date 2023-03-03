@@ -1,0 +1,39 @@
+Date	1749
+Country	[China, Japan, Philippines]
+Series No	8
+Subject	[Exploration, Navigation]
+Type	[Atlas Map, Chart Map]
+Reference	Phillips, Atlases, 4146; Shirley, British Library, M.BROU-1a
+Pub Note	The First Prussian Sea Atlas. 1 map on 12 double page sheets. Copperplate outline hand colored map of the World on Mercator’s projection, accompanied by key map. Title of atlas on map III. Published in Berlin in 1749 with the approval of the Royal Prussian Academy of Sciences. Each map laid in loosely in folder, with a small ink stamp of crowned eagle in lower right corner, identified as a Prussian revenue stamp. The atlas includes 7 pages of descriptive text. Map no. [1]: Carte generale du globe terrestre, engraved by N.F. Sauerbrey. Maps showing political boundaries, major cities, rivers, lakes and mountains. Relief shown pictorially. Prime meridian: Ferro. The atlas was prepared by the Swiss cartographer, Isaac Brouckner, under the auspices of the Berlin Academy of Sciences and under the direction of Field Marshal Count Samuel von Schmettau, to whom it was dedicated. The information based on previously unpublished data which Count von Schmettau placed at Brouckner's disposal. This work is one of the first to show a cartographic reference to Bering's second voyage. From the Warren Heckrott collections.
+Pub Width cm	33
+Scale 1	9,300,000
+Pub Reference	Phillips, Atlases, 4146; Shirley, British Library, M.BROU-1a
+Author	Bröuckner, Isaak, 1686-1762.
+Obj Height cm	44
+Image Order	.312 batch017
+Publisher	Academie Royale des Sciences
+Pub Title	Nouvel Atlas De Marine Compose d'une Carte Generale, et de XII Cartes Particulieres, qui Representent Le Globe Terrestre jusqu'au 82.e Degre du Cote du Nord, et jusqu'au 60.e du Cote du Sud : Le tout Dresse sur les Observations les plus Nouvelles et les plus approuvees : Dedie Son Excellence M.gr Le Comte De Schmettau ... par son tres humble et tres obeissant Serviteur Isaac Brouckner Geographe de S.M.T.C. et Correspondant de l'Academie Royale des Sciences de Paris. Approuve par l’ academie Royale des Sciences a Berlin l’ Annee 1749.
+Note	Hand colored in outline nautical chart.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1749
+Short Title	No. VI. Carte marine d'une partie de l'Asie ou des Indes orientales et des isles au dessus de l'Equateur
+Pub Type	[World Atlas, Chart Atlas]
+Pub Height cm	48
+Authors	Bröuckner, Isaak, 1686-1762.
+World Area	Asia
+List No	13388.008
+Media item filename	13388008.jp2
+Publication Author	Bröuckner, Isaak, 1686-1762.
+Image No	13388008.jp2
+Publisher Location	Berlin
+Page No	No. VI
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13388008.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	13388.000_008
+Full Title	Carte mare. d'une partie de l'Asie ou des Indes orientales et des isles au dessus de l'Equateur. 1749. (to accompany) Nouvel Atlas De Marine... Par Isaac Brouckner ... Approuve par l’ academie Royale des Sciences a Berlin l’ Annee 1749.
+Obj Width cm	52
+Pub List No	13388.000
+Engraver or Printer	Schmettau, Samuel
+Pub Maps	13
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,36 @@
+Date	1874
+Country	[India, Indonesia, Philippines, China]
+Series No	88
+Type	Atlas Map
+Pub Note	1875, 6th. edition of Stieler’s Hand atlas of the world and of the universe. Published by Justus Perthes of Gotha. It went through ten editions from 1816 to 1945. The first edition, published in 1817 by Stieler and Christian Gottlieb Reichard, with editions continuing well into the 20th century. This is the 6th. edition, with 90 maps dated 1871–75, edited by August Petermann, Hermann Berghaus and Carl Vogel. With additional set of special map of Australia on 9 sheets. This copy is a series of outline color unbound loose maps published in separate paper folders (several of which are included) over several years, placed in hard cover slip case. Some maps on multiple sheets. Maps showing political and administrative boundaries, cities, roads, railroads, canals, rivers, lakes, and mountains. Also showing European possessions and exploration routes. Relief shown by hachures and spot heights. Depths showing by soundings. Prime meridians: Greenwich, Ferro and Paris. Includes legend, text, profiles, and color coded references. All scans made at 800ppi because the loose maps could be scanned though the sheet scanner at higher resolution than the overhead camera scanner for bound atlases.
+Pub Width cm	58
+Scale 1	18,500,000
+Author	[Stieler, Adolf, 1775–1836, Stulpnagel, F.von]
+Obj Height cm	31
+Image Order	.2663 batch018
+Publisher	Justus Perthes
+Pub Title	Adolf Stieler’s Hand – Atlas uber alle Theile der Erde und uber das Weltgebaude. Neu Bearbeitet von Dr. Aug. Petermann, Dr. Herm. Berghaus und Carl Vogel. 90 colorirte karten ... Gotha : Justus Perthes. 1875.
+Note	Outline color map of India, China, Indonesia and the Philippines. Showing European possession and route of expeditions in the region.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1875
+Short Title	Ost-Indien
+Pub Type	World Atlas
+Pub Height cm	43
+Authors	Stieler, Adolf, 1775–1836; Stulpnagel, F.von
+World Area	Asia
+List No	13563.088
+Media item filename	13563088.jp2
+Publication Author	[Stieler, Adolf, 1775–1836, Stulpnagel, F.von]
+Image No	13563088.jp2
+Publisher Location	Gotha
+Page No	66
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/13563088.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	13563.000_088
+Full Title	Ost-Indien. Gezeichnet von F. v. Stulpnagel. Nachtr v. Hm. Bgs. Alt sc. Stieler's Hand-Atlas No. 66. Gotha: Justus Perthes. 1874.
+Obj Width cm	40
+Pub List No	13563.000
+Engraver or Printer	[Berghaus, Hermann, Alt]
+Pub Maps	91
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

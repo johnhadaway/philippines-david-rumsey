@@ -1,0 +1,37 @@
+Date	1906
+Country	[Indonesia, Papua New Guinea, Philippines]
+Series No	109
+Type	Atlas Map
+Reference	P1078.
+Pub Note	First edition was in 1897. Color. Relief shown by hachures.
+Pub Width cm	26
+Scale 1	10,383,000
+Pub Reference	P1078.
+Author	W. & A.K. Johnston Limited
+Georeferencer Status	ungeoreferenced
+Obj Height cm	45
+Image Order	081 batch014
+Publisher	W. & A.K. Johnston Limited
+Pub Title	The Victoria Regina Atlas, Political, Physical & Astronomical. Containing Two Hundred Plates and Complete Index. Second Edition. W. & A.K. Johnston, Ltd. Established 1825. Edinburgh & London. 1906.
+Region	Tasmania
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1906
+Short Title	New Guinea. Philippine Islands. Tasmania. North Borneo, Brunei and Sarawak.
+Pub Type	World Atlas
+Pub Height cm	32
+Authors	W. & A.K. Johnston Limited
+List No	6921.109
+Media item filename	6921109.jpg
+Publication Author	W. & A.K. Johnston Limited
+Image No	6921109
+Publisher Location	Edinburgh; London
+Page No	148-149
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/6921109.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	6921.000_109
+Full Title	New Guinea. Philippine Islands. Tasmania. North Borneo, Brunei & Sarawak.
+Obj Width cm	27
+Pub List No	6921.000
+Pub Maps	200
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

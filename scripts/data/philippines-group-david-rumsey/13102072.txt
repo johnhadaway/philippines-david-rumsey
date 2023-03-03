@@ -1,0 +1,35 @@
+Date	1810
+Series No	72
+Subject	Nautical Charts
+Type	Chart Map
+Pub Note	French marine atlas of the eastern oceans, updated to 1810 using French admiralty charts to provide a full working atlas for officers navigating towards the east, with routes to the Red Sea, coasts of India, China, northern parts of Indonesia and South-East Asia. Atlas contains 69 maps, many double-page, bound in large nineteenth-century quarter calf and green papered boards, with "D'Apres - Hydrographie Francaise. 469 A 557", in gilt on spine. D'Apres de Mannevillette published the first edition of the Neptune Oriental in 1745, with 22 charts, as being superior to all previous maps of Southeast Asian coasts (Suarez p.238). Thirty years later, in 1775, he published a second edition, completely revised and greatly increased. This 1810 edition was published with 69 maps from three different sources: 46 maps derive from the 1775 edition of the Neptune Oriental; 6 maps are added from a separately published supplement of 1781; and 17 French admiralty charts are added, based chiefly on the work of d'Apres de Mannevillette, but many of them post dating his death and most of them updated with recent surveys and discoveries . This is the latest dated reference in the charts, suggesting a date of publication of around 1810. Despite their different sources, the maps are similar in appearance and printing, have the insignia of the Depot Generale de la Marine and some are priced at 1-3 francs. Most of the charts are engraved by De la Haye.
+Pub Width cm	42
+Scale 1	520,000
+Author	Apres de Mannevillette, Jean-Baptiste-Nicolas-Denis d', 1707-1780
+Obj Height cm	49
+Image Order	.436 batch017
+Publisher	Depot Generale de la Marine
+Pub Title	Neptune Oriental. De d'Apres.
+Note	Chart of the Bay and City of Manila, capital of the Philippines on the Island of Luzon. Depth shown by soundings. Prime meridian is Paris.
+City	Manila (Philippines)
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1810
+Short Title	Plan de la baye et ville de Manille
+Pub Type	Chart Atlas
+Pub Height cm	57
+Authors	Apres de Mannevillette, Jean-Baptiste-Nicolas-Denis d', 1707-1780
+List No	13102.072
+Media item filename	13102072.jp2
+Publication Author	Apres de Mannevillette, Jean-Baptiste-Nicolas-Denis d', 1707-1780
+Image No	13102072.jp2
+Publisher Location	Paris
+Page No	No.68
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13102072.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	.436_13102.000_072
+Full Title	Plan de la baye et ville de Manille, capitale des Isles Philippines situee en l'Isle Lucon. (to accompany) Neptune Oriental. De d'Apres.
+Obj Width cm	33
+Pub List No	13102.000
+Pub Maps	69
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

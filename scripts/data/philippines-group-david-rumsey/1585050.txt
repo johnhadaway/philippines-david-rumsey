@@ -1,0 +1,35 @@
+Date	1884
+Country	[Indonesia, Philippines, Myanmar, Vietnam]
+Series No	50
+Type	Atlas Map
+Pub Note	American edition. Maps are printed in full color. Page edges in gilt. Relief shown by hachures.
+Pub Width cm	36
+Scale 1	10,900,000
+Author	[Black, Adam, Black, Charles]
+Georeferencer Status	not_found
+Obj Height cm	44
+Image Order	.521 batch017
+Publisher	Adam & Charles Black
+Pub Title	Black's General Atlas Of The World. New And Revised Edition Embracing The Latest Discoveries, New Boundaries, And Other Changes Accompanied By Introductory Letterpress And Index. Edinburgh: Adam And Charles Black. MDCCCLXXXIV.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1884
+Short Title	Indian Archipelago and Further India including Burmah, Siam, Anam, &c.
+Pub Type	World Atlas
+Pub Height cm	47
+Authors	Black, Adam; Black, Charles
+List No	1585.050
+Media item filename	1585050.jp2
+Publication Author	[Black, Adam, Black, Charles]
+Image No	1585050.jp2
+Publisher Location	Edinburgh
+Page No	35
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/1585050.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	1585.000_050
+Full Title	Indian Archipelago and Further India including Burmah, Siam, Anam, &c.
+Obj Width cm	56
+Pub List No	1585.000
+Engraver or Printer	[Hall, S., Bartholomew, J.]
+Pub Maps	68
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

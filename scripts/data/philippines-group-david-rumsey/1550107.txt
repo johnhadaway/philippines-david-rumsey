@@ -1,0 +1,38 @@
+Date	1886
+Country	[Indonesia, Malaysia, Philippines, Singapore]
+Series No	107
+Type	Atlas Map
+Reference	not in Phillips.
+Pub Note	Very late edition of this atlas; last date in Phillips is 1888. Maps differentiate counties or states by full color. Relief shown by hachures.
+Pub Width cm	39
+Scale 1	11,000,000
+Pub Reference	not in Phillips.
+Author	Colton, G.W.
+Georeferencer Status	georeferenced
+Obj Height cm	33
+Image Order	batch005
+Publisher	G. W & C. B. Colton & Co.
+Pub Title	Golton's General Atlas Of The World, Containing Two Hundred And Twelve Maps And Plans, On One Hundred And Forty-Two Imperial Folio Sheets, Drawn By G. Woolworth Colton. Accompanied By Geographical, Statistical, And Historical Letter-Press Descriptions. New York: G.W. & C.B. Colton & Co., No. 182 William Street. 1886. Entered ... 1876, By G.W. & C.B. Colton & Co. ... Washington.eneral Atlas, Containing One Hundred And Eighty Steel Plate Maps And Plans, On One Hundred And Nineteen Imperial Folio Sheets, Drawn By G. Woolworth Colton. Letter-Press Descriptions, Geographical, Statistical, And Historical, By Richard Swainson Fisher. New York: G.W. & C.B. Colton, No. 172 William Street. 1874. Entered ... 1863, by J.H. Colton ... New York..
+Note	Prime meridians are Greenwich and Washington D.C.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1886
+Short Title	East Indies.
+Pub Type	World Atlas
+Pub Height cm	45
+Authors	Colton, G.W.
+World Area	East Indies
+List No	1550.107
+Media item filename	1550107.jpg
+Publication Author	Colton, G.W.
+Image No	1550107
+Publisher Location	New York
+Page No	139
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/1550107.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1550.000_107
+Full Title	Colton's East Indies. (inset) Island and Strait of Singapore. Published By G. W & C. B. Colton & Co., No. 182 William St. New York.
+Obj Width cm	41
+Pub List No	1550.000
+Pub Maps	105
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

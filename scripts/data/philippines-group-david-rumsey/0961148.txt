@@ -1,0 +1,36 @@
+Date	1902
+Country	[Philippines, Indonesia]
+Series No	148
+Type	Atlas Map
+Pub Note	Outline color. Relief shown in hachures. Alphabetical Index not scanned.
+Pub Width cm	28
+Scale 1	7,500,000
+Author	[Stieler, Adolf, Barich, C.]
+Georeferencer Status	not_found
+Obj Height cm	40
+Image Order	.531 batch017
+Publisher	Justus Perthes
+Pub Title	Stielers Hand-Atlas. 100 Karten in Kupferstich mit 162 Nebenkarten herausgegeben von Justus Perthes' Geographischer Anstalt in Gotha. Neunte, von Grund aus Neubearbeitete und Neugestochene auflage. Gotha: Justus Perthes. 1905.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1905
+Short Title	67. Ostindische Inseln.
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Stieler, Adolf; Barich, C.
+World Area	West Indies
+List No	0961.148
+Media item filename	0961148.jp2
+Publication Author	Stieler, Adolf
+Image No	0961148.jp2
+Publisher Location	Gotha
+Page No	67
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/0961148.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	0961.000_148
+Full Title	67. Ostindische Inseln. Philippinen. Sumatra. Borneo. Java. Celebes.
+Obj Width cm	45
+Pub List No	0961.000
+Engraver or Printer	[M. Schoer, A. Reichenbecher]
+Pub Maps	100
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

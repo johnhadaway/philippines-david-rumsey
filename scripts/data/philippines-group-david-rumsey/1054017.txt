@@ -1,0 +1,39 @@
+Date	1899
+Country	Philippines
+Series No	23
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Note	Maps drawn in Phillipines, published in U.S.
+Pub Width cm	34
+Scale 1	498,000
+Publication Author Initial Sort	U.S. Coast & Geodetic Survey; Algue, P. Jose.
+Pub Reference	P3225.
+Author	[Algue, P. Jose., U.S. Coast and Geodetic Survey]
+Georeferencer Status	georeferenced
+Ownership Statement	Copyright 2008
+Obj Height cm	30
+Publisher	U.S. Coast and Geodetic Survey
+Pub Title	Atlas de Filipinas. Coleccion de 30 Mapas. Trabajados por delineantes filipinos bajo la direcion del P. Jose Algue, S.J., Director del Observatorio de Manila. 1899. A Hoen & Co. Lith., Balto. Md.
+Note	Map in color. Details physical and cultural features. Relief shown by shading. Inset of Puerto de Palano.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1899
+Short Title	No. 17. Masbate y Ticao.
+Pub Type	National Atlas
+Pub Height cm	38
+Authors	Algue, P. Jose.; U.S. Coast and Geodetic Survey
+List No	1054.017
+Media item filename	1054017.jpg
+Publication Author	[Algue, P. Jose., U.S. Coast & Geodetic Survey]
+Image No	1054017
+Publisher Location	Washington, D.C.
+Page No	Plate No. 17
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0118/1054017.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1054.000_023
+Full Title	No. 17. Masbate y Ticao. Islas Filipinas Observatorio de Manila. United States Coast and Geodetic Survey. No. 17. Longitud E. del Meridiano de Greenwich. A. Hoen & Co., Baltimore. (1899)
+Obj Width cm	36
+Pub List No	1054.000
+Engraver or Printer	A. Hoen & Co.
+Pub Maps	30
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

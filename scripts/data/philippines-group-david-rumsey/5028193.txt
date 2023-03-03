@@ -1,0 +1,39 @@
+Date	1924
+Country	[Australia, Indonesia, New Guinea, Philippines]
+Series No	374
+Subject	Railroad
+Type	Atlas Map
+Reference	P6563.
+Pub Note	This edition has excellent auto route maps of the entire United States. Maps often with printed color.
+Pub Width cm	41
+State/Province	Hawaii
+Pub Reference	P6563.
+Author	Rand McNally and Company
+Georeferencer Status	ungeoreferenced
+Obj Height cm	50
+Image Order	batch002
+Publisher	Rand McNally and Company
+Pub Title	Rand McNally & Co.'s Commercial Atlas Of America. Fifty-Fifth Edition ... Engraved, Printed, And Published By Rand McNally & Company, Chicago, U.S.A., 1924. (on verso) ... Copyright, 1924, by Rand, McNally & Co. Made In U.S.A.
+Note	Relief shown by hachures.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1924
+Short Title	Oceania, Malaysia.
+Pub Type	National Atlas
+Pub Height cm	53
+Authors	Rand McNally and Company
+World Area	Pacific
+List No	5028.193
+Media item filename	5028193.jpg
+Publication Author	Rand McNally and Company
+Image No	5028193
+Publisher Location	Chicago
+Page No	634-635
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/5028193.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	5028.000_374
+Full Title	Commercial Atlas of America. Rand McNally Standard Map of Oceania and Malaysia. (with) Eastern Protion of French Polynesia. (with) Hawaiian Is. (with) New Caledonia and Loyalty Islands.
+Obj Width cm	67
+Pub List No	5028.000
+Pub Maps	201
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

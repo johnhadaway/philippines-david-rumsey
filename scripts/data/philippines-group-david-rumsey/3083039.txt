@@ -1,0 +1,37 @@
+Date	1780
+Country	[Thailand, Philippines]
+Series No	39
+Type	Atlas Map
+Reference	P5992 (atlas); Sabin 68081(text) and 68082 (atlas).
+Pub Note	Text is first edition; Atlas is 1820 revised edition. The atlas was first issued in 1780 with maps engraved by Andre, then reissued in 1783-4 (P5995) without Andre or Bonne on the maps, finally reissued in 1820 with the maps reengraved by Dien (Tooley Dictionary)(our copy of atlas). WH has copies of the 1780 and 1783-4 atlases. It is strange that map #2, the World map, in our copy is an earlier map than the first and second editions of the atlas. Sabin shows many reissues of the 1780 edition of the atlas, so there may be more editions and states than these three. The earlier editions of the atlas were accompanied by twenty three tables in the back. Our copy of the text is 12 mo. and was given as a student prize. Maps are uncolored. Atlas bound in quarter leather with "Raynal. Atlas." in gold on spine.
+Pub Width cm	22
+Pub Reference	P5992 (atlas); Sabin 68081(text) and 68082 (atlas).
+Author	[Raynal, G.T., Bonne, R.]
+Georeferencer Status	georeferenced
+Obj Height cm	22
+Image Order	051 batch015
+Publisher	Jean-Leonard Pellet
+Pub Title	Histoire Philosophique et Politique Des Establissements et Du Commerce Des Europeens Dans Les Deux Indes (with) Atlas De Toutes Les Parties Connues Du Globe Terrestre, Dresse Pour L'Histroire Philosophique et Politique des Etablissemens et du Commerce des Europeens dans les Deux Indes.
+Region	[Indochina, South East Asia]
+Note	Uncolored copper engraving map. Covering Thailand, Indo China, Taiwan, Philippines. Relief shown pictorially. Prime meridians are Ferro and Paris.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1780
+Short Title	Les Isles Phiilippines, Celle de Formose
+Pub Type	World Atlas
+Pub Height cm	27
+Authors	Raynal, G.T.; Bonne, R.
+List No	3083.039
+Media item filename	3083039.jpg
+Publication Author	[Raynal, G.T., Bonne, Rigobert, 1727-1794.]
+Image No	3083039
+Publisher Location	Geneva
+Page No	(24)
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/3083039.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	3083.000_039
+Full Title	Les Isles Philippines, celle de Formose, Le Sud de La Chine, Les Royaumes de Tunkin de Cochinchine, De Camboge, de Slam des Laos; avec partie de ceux de Pegu et d'Ava. Par M. Bonne, Ingenieur, Hdrographe de la Marine. (on upper margin) Liv. V.: No. 23. (to accompany) Histoire Philosophique et Politique Des Establissements et Du Commerce Des Europeens Dans Les Deux Indes. (insets) Isle de Guam ; Isles Marianes.
+Obj Width cm	32
+Pub List No	3083.000
+Pub Maps	50
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

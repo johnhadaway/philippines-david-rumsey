@@ -1,0 +1,38 @@
+Date	1866
+Country	[Indonesia, Philippines, Singapore]
+Series No	104
+Type	Atlas Map
+Reference	P6155.
+Pub Note	Several changes from our 1865 edition, especially in the western maps. This copy is missing the Hindoostan map. Full color used to differentiate the political boundaries.
+Pub Width cm	39
+Scale 1	12,000,000
+Pub Reference	P6155.
+Author	Colton, G.W.
+Georeferencer Status	georeferenced
+Obj Height cm	36
+Image Order	batch005
+Publisher	G.W. & C.B. Colton
+Pub Title	Colton's General Atlas, Containing One Hundred And Eighty Steel Plate Maps And Plans, On One Hundred And Nineteen Imperial Folio Sheets, Drawn By G. Woolworth Colton. Letter-Press Descriptions, Geographical, Statistical, And Historical, By Richard Swainson Fisher. New York: G.W. & C.B. Colton, No. 172 William Street. London: Bacon & Co., 48 Paternoster Row. 1866. Entered ... 1863, by J.H. Colton ... New York.
+Region	East Indies
+Note	Prime meridians are Greenwich and Washington D.C. Relief shown by hachures.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1866
+Short Title	East Indies.
+Pub Type	World Atlas
+Pub Height cm	45
+Authors	Colton, G.W.
+List No	4825.104
+Media item filename	4825104.jpg
+Publication Author	[Colton, G.W., Fisher, Richard Swainson]
+Image No	4825104
+Publisher Location	New York
+Page No	118
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/4825104.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	4825.000_104
+Full Title	Colton's East Indies. (inset) Island and strait of Singapore. Published by G.W. & C.B. Colton & Co., No. 172 William St. New York.
+Obj Width cm	40
+Pub List No	4825.000
+Pub Maps	119
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

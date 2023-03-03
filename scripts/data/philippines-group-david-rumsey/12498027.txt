@@ -1,0 +1,35 @@
+Date	1786
+Country	[Indonesia, Philippines, Cambodia, Malaysia]
+Series No	27
+Type	Atlas Map
+Pub Note	Massive atlas of German language maps covering the world. Apparently these maps were based on the best available maps from all sources and languages. Outline color.
+Pub Width cm	51
+Scale 1	7,010,000
+Author	[Schraembl, Franz Anton, D'Anville]
+Georeferencer Status	not_found
+Obj Height cm	49
+Image Order	.524 batch017
+Publisher	Joseph Philipp Schalbacher
+Pub Title	Allgemeiner Grosser Atlass Herausgegeben von F. A. Schraembl im Verlage bey Phil. Jos. Schalbacher in Wien. MDCCC.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1800
+Short Title	13. Zweiter Theil der Karte von Asien, (southern sheet).
+Pub Type	World Atlas
+Pub Height cm	65
+Authors	Schraembl, Franz Anton; D'Anville
+List No	12498.027
+Media item filename	12498027.jp2
+Publication Author	Schraembl, Franz Anton
+Image No	12498027.jp2
+Publisher Location	Vienna
+Page No	13
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12498027.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12498.000_027
+Full Title	13. Zweiter Theil der Karte von Asien, (southern sheet) welcher China, einen Theil der Tartarei, Indien jenseits des Ganges, die Inseln Sumatra, Java, Borneo, Moluken, Philippinen und Japon enthaet Verfass von Herrn D'Anville Nach den neueesten Karten Verbessert herausgegeben von Herrn F.A. Schraembl. MDCCLXXXVI.
+Obj Width cm	70
+Pub List No	12498.000
+Engraver or Printer	Jacob Adam
+Pub Maps	138
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

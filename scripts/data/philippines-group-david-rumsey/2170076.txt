@@ -1,0 +1,34 @@
+Date	1952
+Country	[Indonesia, Japan, Philippines]
+Series No	76
+Subject	[Thematic, Data Visualization]
+Type	Atlas Map
+Pub Note	No title page; this may be a proof copy or intended to accompany an encyclopedia or text. Instituto di Agostini is known for the beautiful maps and atlases it produced. Full color.
+Pub Width cm	28
+Author	Instituto Geographico di Agostini
+Georeferencer Status	ungeoreferenced
+Obj Height cm	41
+Image Order	batch005
+Publisher	Instituto Geographico di Agostini
+Pub Title	[Spendido Atlante Geografico de Agostini, Continenti e Paesi, 1952. Geografia Illustrata nel Mondo Moderno, Commento Carte e Indice dei Nomi Prof. Dr. Luigi Visintin. Pag. 496. Tenuto Veramento Bene! Copertina Come da Foto non Esitate ....]
+Note	Series of small maps showing, crops, minerals, land cover, products, and energy resources. Flags also shown.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1952
+Short Title	Japan. Indonesia and Philippines.
+Pub Type	World Atlas
+Pub Height cm	42
+Authors	Instituto Geographico di Agostini
+List No	2170.076
+Media item filename	2170076.jpg
+Publication Author	Instituto Geografico di Agostini
+Image No	2170076
+Publisher Location	Novarra
+Page No	148-149
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2170076.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2170.000_076
+Full Title	Giappone. Indonesia, Filippine.
+Obj Width cm	55
+Pub List No	2170.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

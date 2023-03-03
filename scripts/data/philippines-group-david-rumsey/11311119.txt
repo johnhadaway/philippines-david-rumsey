@@ -1,0 +1,36 @@
+Date	1561
+Country	[Indonesia, Philippines]
+Series No	119
+Type	Atlas Map
+Pub Note	The first edition of Girolamo Ruscelli's translation of Claudius Ptolemy's Geographia, published in Italian. It was printed by Vincenzo Valgrisi in Venice, with the text translated from Greek by Ruscelli. The 64 double page copperplate maps were partly based on those of Jacopo Gastaldo in the edition of 1548, with descriptive text on recto of first leaf and verso of last leaf. 27 Ptolemy maps and 37 'modern' map, including 3 world maps, 6 maps of America (South America, Mexico with Florida, Brazil, east coast of North America, Haiti, Cuba), 27 European maps (including the North-Atlantic map with parts of Labrador), 9 maps of Africa and 19 maps of Asia. Maps showing settlements, landmarks, rivers, mountains, ports, forests, illustrations of wildlife,etc. Includes index. Relief shown pictorially. Bound in half leather marbled paper covered boards, with title "Geografia di Tolomeo" on spine. Claudius Ptolemy (90-168 CE) was a Roman geographer and mathematician living in Egypt, who compiled his knowledge and theories about the world's geography into one seminal work. Although his maps did not survive, his mathematical projections and location coordinates did. Girolamo Ruscelli (c. 1504-1566) was a Venetian editor, whose maps are primarily based on those by Jacopo Gastaldi (1548) but with many of his own additions and reproduced on a larger scale. Ruscelli introduces several important innovations in this volume through his 37 "modern" maps, which cover Europe, Africa, Asia and the New World. Ruscelli includes a double hemisphere world map, which was the first of its kind to be used in an atlas, and "Carta Marina Nuova Tavola", a rare sea chart of the world.
+Pub Width cm	17
+Scale 1	30,000,000
+Author	[Ptolemy, Claudius, Ruscelli, Girolamo, Giuseppe Moletti, M.]
+Georeferencer Status	georeferenced
+Obj Height cm	18
+Image Order	.649 batch017
+Publisher	Vincenzo Valgrisi
+Pub Title	La geografia di Claudio Tolomeo Alessandrino, nuouamente tradotta di Greco in Italiano, da Girolamo Ruscelli ; con Espositioni del medesimo, particolari di luogo in luogo, & uniuersali sopra tutto il libro, et sopra tutta la Geografia, o modo di far la descrittione di tutto il mondo ; et con nuoue & bellisime figure in istampe di rame, oue, oltre alle XXVI antiche di Tolomeo, se ne son'aggiunte XXXVI altre delle moderne ; con la carta da nauicare, & col modo d'intenderla, & d'adoperarla ; aggiuntoui un pieno discorso di M. Gioseppe Moleto matematico ; nel quale si dichiarano tutti i termini & le regole appartenenti alla Geografia ; et con una nuoua & copiosa tauola di nomi antichi, dichiarati coi nomi moderni, & con molte altre cose utillissime & necessarie, che ciascuno leggendo potra conoscere. Al Sacratissimo et Sempre Felicissimo Imperator Ferdinando Primo. Con privilegio dell'Illustrissimo Senato Veneto, & d'altri Principi per anni XV. In Venetia, Appresso Vincenzo Valgrisi, M.D.LXI. (1561).
+Region	Asia, Southeastern
+Note	Engraved modern map of Southeast Asia, covers the region from the Gulf of Bengal to Canton, and south to include most of Indonesia and the Philippines. Relief shown pictorially.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1561
+Short Title	India Tercera Nuova Tavola
+Pub Type	World Atlas
+Pub Height cm	24
+Authors	Ptolemy, Claudius; Ruscelli, Girolamo; Giuseppe Moletti, M.
+List No	11311.119
+Media item filename	11311119.jp2
+Publication Author	[Ptolemy, Claudius, Ruscelli, Girolamo, Giuseppe Moletti, M.]
+Image No	11311119.jp2
+Publisher Location	Venice
+Page No	xxviiiEe
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/166/11311119.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11311.000_119
+Full Title	India Tercera Nuova Tavola. India terzera Ventesimaottava tavola nvova. (To accompany) La geografia di Claudio Tolomeo Alessandrino, nuouamente tradotta di Greco in Italiano, da Girolamo Ruscelli ... In Venetia, Appresso Vincenzo Valgrisi, M.D.LXI. (1561).
+Obj Width cm	24
+Pub List No	11311.000
+Pub Maps	64
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

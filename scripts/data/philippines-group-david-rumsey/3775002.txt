@@ -1,0 +1,38 @@
+Date	1825
+Country	[China, Japan, Philippines]
+Series No	2
+Type	Chart Map
+Reference	Lowery 749 (Espinosa issue of 1814); Texas State Historical Assoc. Catalogue Feb 1992 #54.
+Pub Note	First Mexican edition of Espinosa y Tello's chart of 1814, London. In two sheets, one covering the western coast of America, the other the eastern coast of Asia. The original London edition was in six sheets, and the two sheets of the Mexican edition have borders that suggest another four sheets, although it is not known if they were printed. Map is without color.
+Pub Width cm	149
+Scale 1	15,000,000
+Pub Reference	Lowery 749 (Espinosa issue of 1814); Texas State Historical Assoc. Catalogue Feb 1992 #54.
+Author	[Mexico Republica, (Espinosa y Tello, J.)]
+Georeferencer Status	georeferenced
+Obj Height cm	62
+Image Order	batch010
+Publisher	Republica Mexico
+Pub Title	Carta General Para Las Navegaciones a la India Oriental Por El Mar Del Sur Y el grande Oceano que Separa el Continente Americano del Asiatico, Construida Segun las derrotas, Observaciones y trabajos de los mas Celebres Naveganles Espanoles Y Publicada por Orden del Exmo Sr. D. Guadalupe Victoria Primer Presidente de la Republica Mexico Ano de 1825. Los numberos de la Sonda son braxas de 6 pics de Burgos. (inset map on sheet 2) Plano Geometrico del Embocadero De S. Bernadino ano 1792. (inset map) Parte De La Isla De Samar.
+Region	Pacific Ocean
+Note	One map on 2 sheets. East sheet. First Mexican edition of Espinosa y Tello's chart of 1814, London. In two sheets, one covering the western coast of America, the other the eastern coast of Asia. The original London edition was in six sheets, and the two sheets of the Mexican edition have borders that suggest another four sheets, although it is not known if they were printed. Map is without color. "Longitude oeste de Cadiz". Emblem with eagle perched on boat surrounded by 2 sails and 2 anchors in lower left corner of the east sheet. Relief shown by hachures. Depth by soundings. Shows routes of Spanish voyages and date of exploration in the Pacific, including the Northwest Coast of North America. Covers northwest coast of America, Kamchatka, Japan, the Philippines, Hawaii & most of Micronesia.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1825
+Short Title	Carta General Para Las Navegaciones a la India Oriental Por El Mar Del Sur Y el grande Oceano que Separa el Continente Americano del Asiatico
+Pub Type	Chart Map
+Pub Height cm	62
+Authors	(Espinosa y Tello, J.); Mexico Republica
+World Area	North America
+List No	3775.002
+Media item filename	3775002.jpg
+Publication Author	[(Espinosa y Tello, J.), Mexico Republica]
+Image No	3775002
+Publisher Location	Mexico
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/3775002.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	3775.000_002
+Full Title	Carta General Para Las Navegaciones a la India Oriental Por El Mar Del Sur Y el grande Oceano que Separa el Continente Americano del Asiatico, Construida Segun las derrotas, Observaciones y trabajos de los mas Celebres Naveganles Espanoles Y Publicada por Orden del Exmo Sr. D. Guadalupe Victoria Primer Presidente de la Republica Mexico Ano de 1825. Los numberos de la Sonda son braxas de 6 pics de Burgos. (inset map on sheet 2) Plano Geometrico del Embocadero De S. Bernadino ano 1792. (inset map) Parte De La Isla De Samar.
+Obj Width cm	149
+Pub List No	3775.000
+Pub Maps	2
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

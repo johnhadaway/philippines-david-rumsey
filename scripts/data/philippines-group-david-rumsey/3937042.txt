@@ -1,0 +1,37 @@
+Date	1841
+Country	[Indonesia, Philippines, Vietnam, Myanmar]
+Series No	42
+Type	Atlas Map
+Reference	P779.
+Pub Note	The second edition, the first appearing in 1840. Only the 1840 and 41 editions were engraved exclusively by Hall. Starting with the 1844 edition, Hall was joined by Hughes and other engravers. Outline color. Relief shown by hachures. Gilt edges on text and map pages. Every map faced with a sheet of bound-in tissue paper.
+Pub Width cm	34
+Scale 1	29,500,000
+Pub Reference	P779.
+Author	[Black, Adam, Black, Charles, Hall, Sydney]
+Georeferencer Status	georeferenced
+Obj Height cm	37
+Image Order	.603 batch017
+Publisher	Adam & Charles Black
+Pub Title	Black's General Atlas: A Series Of Fifty-Four Maps From The Latest And Most Authentic Sources. Engraved On Steel, In The First Style Of The Art, By Sydney Hall. Edinburgh: Adam And Charles Black, North Bridge; Longman & Co.; Simpkin, Marshall, & Co.; Whittaker & Co.; And Hamilton, Adams, & Co. London; And John Cumming, Dublin. M.DCCC.XLI.
+Region	Southeast Asia
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1841
+Short Title	Eastern Islands, Birmah &c.
+Pub Type	World Atlas
+Pub Height cm	46
+Authors	Black, Adam; Black, Charles; Hall, Sydney
+List No	3937.042
+Media item filename	3937042.jp2
+Publication Author	[Black, Adam, Black, Charles, Hall, Sydney]
+Image No	3937042.jp2
+Publisher Location	Edinburgh
+Page No	XL
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/3937042.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	3937.000_042
+Full Title	Eastern Islands, Birmah &c.
+Obj Width cm	28
+Pub List No	3937.000
+Pub Maps	54
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

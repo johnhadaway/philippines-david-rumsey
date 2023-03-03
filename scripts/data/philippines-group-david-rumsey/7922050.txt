@@ -1,0 +1,36 @@
+Date	1801
+Country	[India, Cambodia, Philippines, Indonesia]
+Series No	50
+Type	Atlas Map
+Reference	Espenhorst 1.4
+Pub Note	Two largely complimentary volumes bound together and dated 1799 and 1801 respectively. Some maps have scales. Hand colored in outline with little terrestrial information other than relief in hachures, basic hydrography, and product symbols, (see page I for legend). Both volumes were accompanied by text books by Gaspari that were more statistical works than geographies (Espenhorst). Both the atlases and the texts are some of the earliest works published by Gaspari and the publisher, Industrie Comptoirs eventually became the Weimar Geographisches Institut. Several pages stamped, John Cooper Jr., presumably an owner.
+Pub Width cm	28
+Author	[Gaspari, Adam Christian, Gussefeld, Franz Ludwig]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	20
+Image Order	012 batch016
+Publisher	Industrie Comptoirs
+Pub Title	A.C. Gaspari. Neuer methodischer Schul-Atlas, entworfen von Franz Ludwig Gussefeld. Erster Cursus. Weimar: Im Verlage des Industrie Comptoirs, 1799. (New methodological School Atlas, designed by Franz Ludwig Gussefeld. First Cursus. Weimar: The publishers of industry Comptoirs, 1799.)
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1799
+Short Title	East Indies.
+Pub Type	School Atlas
+Pub Height cm	21
+Authors	Gaspari, Adam Christian; Gussefeld, Franz Ludwig
+World Area	South Asia
+List No	7922.050
+Media item filename	7922050.jp2
+Publication Author	[Gaspari, Adam Christian, Gussefeld, Franz Ludwig]
+Image No	7922050.jp2
+Publisher Location	Weimar
+Page No	XXX
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/7922050.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	7922.000_050
+Full Title	Ostindien (East Indies).
+Obj Width cm	23
+Pub List No	7922.000
+Engraver or Printer	[F.L. Guessefeld, C. Westermayr]
+Pub Maps	51
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

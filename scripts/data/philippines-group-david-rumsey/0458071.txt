@@ -1,0 +1,40 @@
+Date	1837
+Country	[Indonesia, Philippines]
+Series No	83
+Type	Atlas Map
+Reference	P6079 (maps dated 1 year later generally).
+Collection	Rumsey Collection
+Pub Note	Compare to lithographic edition of 1839. Maps are hand painted with outline and full color.
+Pub Width cm	28
+Scale 1	18,500,000
+Publication Author Initial Sort	Malte Brun, Conrad.
+Pub Reference	P6079 (maps dated 1 year later generally).
+Author	Malte-Brun, Conrad, 1775-1826
+Georeferencer Status	georeferenced
+Ownership Statement	Copyright 2008
+Obj Height cm	31
+Publisher	Aime Andre.
+Pub Title	Atlas Complet Du Precis De La Geographie Universelle De M. Malte-Brun; Dresse Conformement Au Texte De Cet Ouvrage, Et Entierement Revu Et Corrige Par M.J.-J.-N. Huot ... (Cet Atlas est compose de 72 Cartes.) Paris. Aime Andre, Libraire-Editeur, rue Christine, 1; Ve. Le Normant, Libraire, rue de Seine, 8. 1837.
+Note	Engraved map. Countries and regions trimmed in color. Rivers and islands shown. Major relief shown by hachures. Includes 2 scales.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1837
+Short Title	Malaisie.
+Pub Type	World Atlas
+Pub Height cm	43
+Authors	Malte-Brun, Conrad, 1775-1826
+List No	0458.071
+Media item filename	0458071.jpg
+Publication Author	Malte-Brun, Conrad, 1775-1826
+Image No	0458071
+Publisher Location	Paris
+Page No	71
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0118/0458071.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0458.000_083
+Full Title	Carte de la Malaisie or Grand Archipel d'Asie, 1835. No. 55. Grave par Thierry.
+Obj Width cm	44
+Pub List No	0458.000
+Engraver or Printer	Thierry
+Pub Maps	70
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

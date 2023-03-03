@@ -1,0 +1,40 @@
+Date	1773
+Country	[Indonesia, Philippines]
+Series No	19
+Type	[Book Map, Chart Map]
+Collection	Rumsey Collection
+Pub Note	See note field above.
+Pub Width cm	24
+Scale 1	73,000
+Publication Author Initial Sort	Hawkesworth, John, 1715?-1773; Cook, James, 1728-1779; Banks, Joseph, Sir, 1743-1820; Byron, John, 1723-1786
+Pub Reference	Mitchell, 648
+Author	[Carteret, Philip, d. 1796, Hawkesworth, John, 1715?-1773]
+Georeferencer Status	ungeoreferenced
+Browse Title Sort	A dangerous shoal seen Septr. the 28, 1767. (with) Joseph Freewills Islands. (with) The south end of Mindanao. (London: printed for W. Strahan; and T. Cadell in the Strand, MDCCLXXIII).
+Ownership Statement	Copyright 2005
+Obj Height cm	19
+Publisher	W. Strahan and T. Cadell
+Pub Title	An account of the voyages undertaken by the order of His present Majesty for making discoveries in the Southern Hemisphere, and successively performed by Commodore Byron, Captain Wallis, Captain Carteret, and Captain Cook, in the Dolphin, the Swallow, and the Endeavor. Drawn up from the journals which were kept by the several commanders, and from the papers of Joseph Banks, Esq; by John Hawkesworth, LL.D. In three volumes. Illustrated with cuts, and a great variety of charts and maps relative to countries now first discovered, or hitherto but imperfectly known. London: printed for W. Strahan; and T. Cadell in the Strand, MDCCLXXIII.
+Region	[Mapia Island (Indonesia), Mindanao Island (Philippines)]
+Note	Three engraved nautical charts on 1 sheet. Depths shown by soundings.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1773
+Short Title	Dangerous shoal.
+Pub Type	Exploration Book
+Pub Height cm	28
+Authors	Carteret, Philip, d. 1796; Hawkesworth, John, 1715?-1773
+List No	3403.018
+Media item filename	00870035.jpg
+Publication Author	[Byron, John, 1723-1786, Cook, James, 1728-1779, Hawkesworth, John, 1715?-1773]
+Image No	3403018
+Publisher Location	London
+Page No	v. 1 (facing p. 609)
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0087/3403018.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	3403.000_019
+Full Title	A dangerous shoal seen Septr. the 28, 1767. (with) Joseph Freewills Islands. (with) The south end of Mindanao. (London: printed for W. Strahan; and T. Cadell in the Strand, MDCCLXXIII).
+Obj Width cm	19
+Pub List No	3403.000
+Pub Maps	13
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,33 @@
+Date	1824
+Country	[Indonesia, Philippines, Thailand, Vietnam]
+Series No	4
+Subject	Nautical Charts
+Type	Chart Map
+Pub Width cm	190
+Scale 1	3,000,000
+Author	Arrowsmith, Aaron
+Obj Height cm	65
+Image Order	.301 batch017
+Publisher	A. Arrowsmith
+Pub Title	Chart of the East India Islands, Exhibiting the several Passages between the Indian and Pacific Oceans; Inscribed to the Commanders and Officers of the British Ships Navigating those Seas, by A. Arrowsmith. Additions to 1812. engraved by S.I. Neele, 352 Strand.
+Region	Southeast Asia
+Note	In four large sheets. Map of Southeast Asia showing the coasts of Burma, Thailand, Malaysia, Indonesia, Vietnam, Philippines and West Papua. Depth shown by bathymetric soundings. Prime meridian: Greenwich. This issue appeared twelve years after the 1812 issue, see our 6711.000. Originally published in 1800.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1824
+Short Title	SW sheet: Chart of the East India Islands
+Pub Type	Chart Map
+Pub Height cm	130
+Authors	Arrowsmith, Aaron
+List No	10495.004
+Media item filename	10495004.jp2
+Publication Author	Arrowsmith, Aaron
+Image No	10495004.jp2
+Publisher Location	London
+Download 1	https://www.davidrumsey.com/rumsey/download.pl?image=/185/10495004.jp2
+Pub List No InitialSort	10495.000_004
+Full Title	(SW sheet of) Chart of the East India Islands, Exhibiting the several Passages between the Indian and Pacific Oceans; Inscribed to the Commanders and Officers of the British Ships Navigating those Seas, by A. Arrowsmith. Additions to 1812. engraved by S.I. Neele, 352 Strand.
+Obj Width cm	95
+Pub List No	10495.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

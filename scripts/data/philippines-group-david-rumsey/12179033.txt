@@ -1,0 +1,37 @@
+Date	1667
+Country	[Indonesia, Philippines]
+Series No	33
+Subject	[Nautical Charts, Oceans; Seas]
+Type	Chart Map
+Reference	Koeman Goos 2B. Second edition with French text.
+Pub Note	Outline color. Title page and index in French; maps in Dutch. Goos (1616-1675) was one of the leading engravers of the age, producing work for everyone from the house of Visscher to John Speed. His father, Abraham, worked with Henricus Hondius. After the success of both Willem Blaeu and Jacob Colom's pilot-books in the early seventeenth century, a host of imitators appeared, who mainly reworked the information available in existing books. Like many of his contemporaries, Goos bought, borrowed, and copied from his colleagues, and neither the texts nor the charts in his atlas are unique products of his work, but rather derived from many sources. It is unlikely that this atlas was used at sea given its fine coloring and engraving. Instead, it was probably used on land by business people and those who could afford to have it in their libraries.
+Pub Width cm	35
+Author	Goos, Pieter, 1616-1675
+Georeferencer Status	georeferenced
+Obj Height cm	45
+Image Order	.655 batch017
+Publisher	Chez Pieter Goos
+Pub Title	L'Atlas de la Mer, ou Monde Aquaticque, Representant toutes les Costes Maritimes de l'Univers descouvertes & cogneues. Tres necessaire & commode Pour tous Pilotes, Maistres de Navire & marchands. Mis nouvellement en Lumiere & Imprime. A Amsterdam, Chez Pieter Goos ... 1667.
+Region	Southeast Asia
+Note	North to the left.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1667
+Short Title	Paskaerte Zunde t'Oosterdeel Van Oost Indien.
+Pub Type	Chart Atlas
+Pub Height cm	54
+Authors	Goos, Pieter, 1616-1675
+World Area	[Indian Ocean, East Indies]
+List No	12179.033
+Media item filename	12179033.jp2
+Publication Author	Goos, Pieter, 1616-1675
+Image No	12179033.jp2
+Publisher Location	Amsterdam
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/166/12179033.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12179.000_033
+Full Title	Paskaerte Zunde t'Oosterdeel Van Oost Indien.
+Obj Width cm	55
+Pub List No	12179.000
+Pub Maps	39
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

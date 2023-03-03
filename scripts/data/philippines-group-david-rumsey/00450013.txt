@@ -1,0 +1,40 @@
+Date	1922
+Country	[Indonesia, Philippines]
+Series No	75
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Note	This is the second issue of the 1920 edition, which was the first edition to use Bartholomew's maps (the only earlier edition used maps by Andree, published in 1895 (see our #1010). Superb maps, beginning a run of Times Atlas editions that continues today. Cover title: The Times atlas & gazetteer of the world. Includes page of corrections from the 1920 ed.
+Pub Width cm	32
+Scale 1	10,000,000
+Publication Author Initial Sort	Bartholomew, J. G. (John George), 1860-1920
+Author	[Bartholomew, J. G. (John George), 1860-1920, John Bartholomew and Son]
+Georeferencer Status	georeferenced
+Browse Title Sort	Malay Archipelago. (with Manila Region). The Edinburgh Geographical Institute, John Bartholomew & Son, Ltd. "The Times" atlas. (London: The Times, 1922)
+Ownership Statement	Copyright 2005
+Obj Height cm	43
+Publisher	The Times
+Pub Title	Times survey atlas of the world.
+Region	Southeast Asia
+Note	Col. map with inset. Relief shown by hypsometric tints and spot heights; depths by bathymetric tints. Shows shipping routes with distances, etc. Inset at 1:1,115,000 scale.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1922
+Short Title	Malay Archipelago.
+Pub Type	World Atlas
+Pub Height cm	47
+Authors	Bartholomew, J. G. (John George), 1860-1920 ; John Bartholomew and Son
+World Area	East Indies
+List No	2113.070
+Media item filename	00450013.jpg
+Publication Author	Bartholomew, J. G. (John George), 1860-1920
+Image No	2113070
+Publisher Location	London
+Page No	Pl. 61
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0045/2113070.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2113.000_075
+Full Title	Malay Archipelago. (with Manila Region). The Edinburgh Geographical Institute, John Bartholomew & Son, Ltd. "The Times" atlas. (London: The Times, 1922)
+Obj Width cm	57
+Pub List No	2113.000
+Pub Maps	112
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

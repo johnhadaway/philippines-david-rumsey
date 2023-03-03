@@ -1,0 +1,35 @@
+Date	1832
+Country	[Indonesia, Malaysia, Philippines]
+Series No	148
+Type	Atlas Map
+Pub Note	Unrecorded Dower Atlas, Commentary by Higgins. See Tooley Mapping Australia for mention of these maps of Australia and Tasmania, though he misdated them and did not mention this Atlas as the source of the maps; perhaps they were published separately as well. 12 of the maps appear later in lithographic form in Dower's Short Atlas..for Schools. Unusual Mountains and Rivers Plate facing the title page. See Dower's 1854 General Atlas for the same maps, updated.
+Pub Width cm	27
+Scale 1	19,500,000
+Author	[Dower, John, Higgins, W.M.]
+Georeferencer Status	georeferenced
+Obj Height cm	22
+Image Order	052 batch015
+Publisher	[W.S. Orr, Chambers, W. & R.]
+Pub Title	A General Descriptive Atlas Of The Earth, Containing Separate Maps Of The Various Countries And States, From Original Drawings. With A Short Account Of Each Country, Descriptive Of Its Geographical Features, Chief Towns And Cities, Population, And General Statistics. By W.M. Higgins ... London: Published By W.S. Orr & Co., Paternoster Row; And W. And R. Chambers, Waterloo Place, Edinburgh. (on verso) London: Bradbury And Evans, Printers, Whitefriars.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1832
+Short Title	East India Isles.
+Pub Type	World Atlas
+Pub Height cm	32
+Authors	Dower, John; Higgins, W.M.
+World Area	East Indies
+List No	0247.148
+Media item filename	0247148.jpg
+Publication Author	[Dower, John, Higgins, W.M.]
+Image No	0247148
+Publisher Location	[Edinburgh, London, Edinburgh, London]
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/0247148.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0247.000_148
+Full Title	East India Isles.
+Obj Width cm	27
+Pub List No	0247.000
+Engraver or Printer	[Bradbury & Evans, Orr & Smith, Russell (Firm)]
+Pub Maps	51
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

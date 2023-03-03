@@ -1,0 +1,36 @@
+Date	1799
+Country	Philippines
+Series No	46
+Type	View
+Reference	P693.
+Collection	Rumsey Collection
+Pub Note	1st English edition. The large foldout map of the world is hand painted with outline color; all other maps are without color.
+Pub Width cm	29
+Pub Reference	P693.
+Author	La Perouse, Jean-Francois de Galaup, comte de, 1741-1788
+Ownership Statement	Copyright 2009
+Obj Height cm	25
+Publisher	G.G. & J. Robinson.
+Pub Title	Charts And Plates To La Perouse's Voyage. Published as the Act directs Novr. 1st 1798, by G.G. & J. Robinson, Pater-noster Row. (title page only) J.M. Moreau Junr. delt. Heath Sculpt.
+Note	Engraved. Shows landscape, vegetation, and manner of dress.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1799
+Short Title	Dress of the Inhabitants of Manilla.
+Pub Type	Exploration Book
+Pub Height cm	44
+Authors	La Perouse, Jean-Francois de Galaup, comte de, 1741-1788
+List No	0414.042
+Media item filename	0414042.jpg
+Publication Author	La Perouse, Jean-Francois de Galaup, comte de, 1741-1788
+Image No	0414042
+Publisher Location	London
+Page No	42
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0120/0414042.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0414.000_046
+Full Title	Dress of the Inhabitants of Manilla. Published as the Act directs Novr. 1st 1798, by G.G. & J. Robinson, Paternoster Row, London. de Vancy delt. Heath sculpt. No. 42.
+Obj Width cm	40
+Pub List No	0414.000
+Engraver or Printer	[de Vancy, Heath]
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

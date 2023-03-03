@@ -1,0 +1,34 @@
+Date	1778
+Country	[Indonesia, Philippines, Vietnam, Malaysia]
+Series No	119
+Type	Atlas Map
+Pub Note	Paulo Santini was a Venetian cartographer who reissued the work of the brothers Gilles and Didier Robert de Vaugondy. This atlas is a reissue, with some new maps added, of the Atlas Universel by the Robert de Vaugondys (see our copy of their 1757 edition, 3353.000). All the plates have been re-engraved. Relief shown by sketches. Two volumes.
+Pub Width cm	43
+Scale 1	8,500,000
+Author	[Santini, Paolo, Robert]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	49
+Image Order	.655 batch017
+Publisher	Remondini
+Pub Title	Atlas Universel dresse sur des Meillieures Cartes Modernes 1784. A Venise par P. Santini rue Ste. Justine, Chez M. Remondini.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1784
+Short Title	37. Archipel des Indes Orientales.
+Pub Type	World Atlas
+Pub Height cm	55
+Authors	Santini, Paolo; Robert
+World Area	East Indies
+List No	12039.118
+Media item filename	12039118.jp2
+Publication Author	Santini, Paolo
+Image No	12039118.jp2
+Publisher Location	Venice
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/166/12039118.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12039.000_119
+Full Title	37. Archipel des Indes Orientales.
+Obj Width cm	62
+Pub List No	12039.000
+Pub Maps	141
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

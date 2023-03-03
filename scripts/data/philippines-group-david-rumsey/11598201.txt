@@ -1,0 +1,38 @@
+Date	1784
+Country	[India, Philippines]
+Series No	201
+Type	Atlas Map
+Reference	Phillips, 650
+Pub Note	Zatta's atlas in 4 volumes, dated MDCCLXXIX - MDCCLXXXIV (1779-1784). The most comprehensive world atlas issued in Italy in the 18th. century, based on observations and discoveries made by the most famous and most recent geographers. Volumes 2-4 have full engraved title pages, including borders with geographical instruments and maps, seaside scenes at bottom with a large globe and several putti engaged in mapmaking and observation and a scene in the center. Vol. I, has decorated engraved title page/frontispiece, dedication text " a Sua Eccellenza il Signor Carlo Spinola ..." and index. Bound in half leather marbled covered boards with "Atlante novissi. Venez, 1788 P.A. Zat." stamped in gold on spine. 217 detailed maps, engraved hand colored, double-page, with title cartouches showing vignettes of topographical and historic scenes, dated 1774-1788. Some maps engraved by Giovanni Marco Pitteri, Giuliano Zuliani, and Pietro Antonio Novelli. Shows political and administrative divisions, cities, villages, landmarks, rivers, lakes, and mountains. Relief shown by hachures. Map of Guinea Orientale repeated twice, Guinea Occidentale is inserted, it was missing from volume IV. Maps of the New World and the Pacific reflect the most recent explorations and discoveries in those areas. Zatta includes 12 maps in reference to the United States "Colonie Uniti", dated 1778, which he also published in "Storia Dell' America Settentrionale Del Signor Abate Raynal" - see our 5007.000
+Pub Width cm	27
+Scale 1	16,500,000
+Pub Reference	Phillips, 650
+Author	[Zatta, Antonio, active 1757-1797, Pitteri, Giovanni Marco]
+Georeferencer Status	georeferenced
+Obj Height cm	31
+Image Order	.594 batch017
+Publisher	Presso Antonio Zatta, e Figli
+Pub Title	Atlante novissimo, illustrato ed accresciuto sulle osservazioni, e scoperte fatte dai piu celebri e piu recenti geografi. In Venezia MDCCLXXXIV (1784), Presso Antonio Zatta. con privilegio dell Eccelimo Senato. (tomo I-IV).
+Region	Southeast Asia
+Note	Engraved hand-colored in outline, double-page map, extending from the Phillipines to India, and north to Tibet, with decorative title cartouche. Shows political and administrative divisions, cities, towns, rivers and mountains. Relief shown pictorially.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1788
+Short Title	Le Indie Orientali E Il Loro Arcipelago
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Zatta, Antonio, active 1757-1797; Pitteri, Giovanni Marco
+List No	11598.201
+Media item filename	11598201.jp2
+Publication Author	Zatta, Antonio, active 1757-1797
+Image No	11598201.jp2
+Publisher Location	Venice
+Page No	(5)
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11598201.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11598.000_201
+Full Title	Le Indie Orientali E Il Loro Arcipelago. Venezia 1784. Presso Antonio Zatta, e Figli. G. Pitteri scr. (to accompany) Atlante novissimo ... Tomo IIII. Con privilegio dell Eccelimo Senato. (tomo I-IV).
+Obj Width cm	41
+Pub List No	11598.000
+Pub Maps	217
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

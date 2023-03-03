@@ -1,0 +1,36 @@
+Date	1797
+Country	Philippines
+Series No	178
+Type	Atlas Map
+Pub Note	3-volume atlas contains 182 maps: 55 in Volume I, 70 in Volume II and 57 in Volume III. Dimensions: Volume I = 44 x 33 cm; Volume II = 47 x 33 cm; Volume III = 48 x 34. Board covers with abbreviated spine titles: Atlante geografico universale I -- Atlante geografico universale II -- Atlante geografico universale III. Cassini was both a painter and engraver who trained in Rome under Giambattista Piranesi (1720-1778). "Piranesi taught him the strict principles of Roman and Greek architecture, albeit that both Piranesi and Cassini utilized classical images in a Baroque style and context. Cassini's preparedness to contemplate a hybrid classical format - incorporating classical architecture and figures as fashionable forms - characterized a celestial glove he engraved in 1792. Cassini produced influential atlases, maps and globes at a time of major political upheaval in Europe. Many redrawn boundaries followed in the wake of the French Revolution and Napoleon's conquest. While Britain, Spain and France were engaged in worldwide imperial conflict, Cassini's views emerged, anticipating by over fifty years the insurrections in Italy in 1831 and 1848-49, as well as Cavour's advocacy at the Congress of Paris in 1856 of an "Italian State". The survival of some of Cassini's globes in Italian schools attests to his educational contribution to the emergence of Italian nationalism, if not to the great power campaigns and treaties that led to the creation of the Kingdom of Italy in 1859-60. Cassini's globes also provide insights into the ecclesiastical politics of Rome, and to successive military occupations of the Papal Sates - occupations that led to loss of sovereignty and the Law of Guarantees of 1871, passed by an Italian Parliament to safeguard the Pope in the Vatican". - Baldwin, Robert W. (1995). P. Giovanni Maria Cassini, C.R.S. (1745-1824 ca.) and his globes. International Coronelli Society for the Study of Globes, (43/44), 201-218. https://www.jstor.org/stable/41622076
+Pub Width cm	34
+Scale 1	8,500,000
+Pub Reference	Phillips 670; Tooley 243
+Author	Cassini, Gio. Ma. (Giovanni Maria), 1745-approximately 1824
+Obj Height cm	49
+Image Order	.288 batch017
+Publisher	Calcogr. Camerale
+Pub Title	Nuovo atlante geografico universale delineato sulle ultime osservazioni (Tom. I, II, III). Roma, presso la Caleogr. Camerale, (MDCCXCII, MDCCXCVII, MDCCCI).
+Region	[Sunda Islands, Maluku Islands]
+Note	Relief shown pictorially. Includes decorative title cartouche and bar scales. In Volume III.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1801
+Short Title	(7) Le Isole della Sonda, Molucche, e Filippine.
+Pub Type	World Atlas
+Pub Height cm	47
+Authors	Cassini, Gio. Ma. (Giovanni Maria), 1745-approximately 1824
+List No	14000.178
+Media item filename	14000178.jp2
+Publication Author	Cassini, Gio. Ma. (Giovanni Maria), 1745-approximately 1824
+Image No	14000178.jp2
+Publisher Location	Rome
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/185/14000178.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	14000.000_178
+Full Title	(7) Le Isole della Sonda, Molucche, e Filippine delineata sulle ultime osservazioni. Roma, presso la Calcografia Camerale, 1797.
+Obj Width cm	35
+Pub List No	14000.000
+Engraver or Printer	Cassini, Gio. Ma. (Giovanni Maria), 1745-approximately 1824
+Pub Maps	182
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

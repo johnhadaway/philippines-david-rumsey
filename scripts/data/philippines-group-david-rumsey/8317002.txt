@@ -1,0 +1,36 @@
+Date	1930
+Country	Philippines
+Series No	2
+Subject	Pictorial map
+Type	Pocket Map
+Pub Note	See note field above.
+Pub Width cm	10
+Scale 1	None shown
+Author	White, Ruth Taylor
+Georeferencer Status	georeferenced
+Obj Height cm	44
+Image Order	000 batch016
+Publisher	Manila Hotel
+Pub Title	A cartograph of the major Philippine Islands. "The Riviera of the Orient". Cartograph by Ruth Taylor White.
+Region	Southeast Asia
+Note	Pictorial map of the Philippine Islands, on sheet 44x41. Showing the archipelago highlighted on a deep blue ground within a circular porthole. Surrounding this are details of Japan, China, Indo-China, Sumatra, Java, Bali, Australia and New Guinea. Includes many brightly colored vignettes of native costumes,activities, wildlife, and places of interest depicted throughout the map. Relief shown pictorially. Includes legend: "All distances are from Manila. There are 7,083 Philippine Islands. 466 are over one square mile in area." On verso text and views of Picturesque Manila; Birds-eye-view of Manila from U.S. Army Plane. and Manila Hotel.
+City	Manila (Philippines)
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1930
+Short Title	A cartograph of the major Philippine Islands. Cartograph by Ruth Taylor White
+Pub Type	Pocket Map
+Pub Height cm	23
+Authors	White, Ruth Taylor
+List No	8317.002
+Media item filename	8317002.jp2
+Publication Author	White, Ruth Taylor
+Image No	8317002.jp2
+Publisher Location	Philippine
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/153/8317002.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	8317.000_002
+Full Title	A cartograph of the major Philippine Islands. "The Riviera of the Orient". Cartograph by Ruth Taylor White.
+Obj Width cm	41
+Pub List No	8317.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

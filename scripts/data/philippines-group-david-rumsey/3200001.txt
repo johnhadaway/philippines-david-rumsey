@@ -1,0 +1,34 @@
+Date	1898
+Country	Philippines
+Series No	1
+Type	Covers
+Reference	None found.
+Pub Note	See note field above.
+Pub Width cm	9
+Pub Reference	None found.
+Author	[Cram, George Franklin, Fort Dearborn Publishing Co.]
+Obj Height cm	14
+Image Order	batch007
+Publisher	Fort Dearborn Publishing Co.
+Pub Title	Philippine Islands. The Fort Dearborn Pub. Co. 415 Dearborn St. Chicago. Ill. (inset) Manila Province And Vicinity Showing Seat of War. (inset) Lower part of Mindanao.
+Note	This map was used as an advertising promotion for Vermont Fancy Butterine syrup, with the covers containing ads for the product . The same map appears in the National Standard Atlas of the World by Cram and Fort Dearborn (see our 1900 copy). Folded into paper covers 14x8.5 with "Pocket Map Of Philippine Islands Compliments Of The Vermont Mfg. Co. Vermont Fancy Butterine..." printed in black. Printed color. Prime meridian is Greenwich. Relief shown by hachures.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1898
+Short Title	Covers: Philippine Islands
+Pub Type	Pocket Map
+Pub Height cm	14
+Authors	Cram, George Franklin; Fort Dearborn Publishing Co.
+List No	3200.001
+Event	Spanish American War
+Media item filename	3200001.jpg
+Publication Author	[Fort Dearborn Publishing Co., Cram, George Franklin]
+Image No	3200001
+Publisher Location	Chicago
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/3200001.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	3200.000_001
+Full Title	(Covers to) Philippine Islands. The Fort Dearborn Pub. Co. 415 Dearborn St. Chicago. Ill. (inset) Manila Province And Vicinity Showing Seat of War. (inset) Lower part of Mindanao.
+Obj Width cm	9
+Pub List No	3200.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

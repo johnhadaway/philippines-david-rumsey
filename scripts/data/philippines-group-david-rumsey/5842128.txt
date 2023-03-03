@@ -1,0 +1,38 @@
+Date	1953
+Country	[China, Philippines, Taiwan]
+Series No	128
+Subject	[Commerce, Physical]
+Type	Atlas Map
+Reference	Phillips 7549
+Pub Note	From the Preface: "This book is called "WORLD GEO-GRAPHIC ATLAS" because it includes, in addition to GEO-graphic maps, many GRAPHIC illustrations of subjects closely related to modern geography." From the Foreward: "We, in Container Corporation, believe that a company may occasionally step outside of its recognized field of operations in an effort to contribute modestly to the realms of education and good taste. Relatively few people, other than the purchasing agents of manufacturing companies, have occasion to purchase the products of Container Corporation. Most people have occasion to use and study an atlas. It is our hope that this one, quite different from any other atlas we know about, will give information and enjoyment not only to many of our customers, but also to that large number of people with whom Container Corporation unfortunately is in less close association." The atlas demonstrated the post-World War II geopolitical and economic situation. Followed by a German language edition: GOLDMANNS GROSSER WELTATLAS. Munich: Wilhelm Goldmann Verlag, 1955. The international maps of this English language atlas are from the Instituto Geografico di Agostini. Maps of the U.S. are by Rand McNally and Company. Relief shown as combined hachures, shaded relief, and hypsometric tints; bathymetry also tinted. In full color. Lavishly illustrated with drawings and graphics. Editor and designer Herbert Bayer (1900-1985) was prominent in the Bauhaus movement and personally did considerable map research for the atlas. This clear and concise volume relies upon an attractive juxtaposition of physical and political maps, text, thematic maps, illustrations, cross-sections, graphs, and diagrams. Many of the graphics are truly original yet demonstrative of important concepts. Many insets of the vicinities of urban areas.
+Pub Width cm	29
+Scale 1	10,000,000
+Pub Reference	Phillips 7549
+Author	[Bayer, Herbert, Container Corporation of America]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	40
+Image Order	batch009
+Publisher	Container Corporation of America
+Pub Title	World Geo-graphic Atlas, A Composite of Man's Environment. Geography, Geology, Demography, Astronomy, Climatology, Economics. Privately printed for Container Corporation of America, 1953, edited and designed by herbert bayer.
+Note	Map and graphics showing principal resources, manufacturing, mineral production, agriculture, and land use. Includes brief history and description of countries' features. Relief depicted by hachures and hypsometric tints.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1953
+Short Title	Philippines. China.
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Bayer, Herbert; Container Corporation of America
+List No	5842.128
+Media item filename	5842128.jpg
+Publication Author	[Bayer, Herbert, Container Corporation of America]
+Image No	5842128
+Publisher Location	Chicago
+Page No	246-247
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/5842128.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	5842.000_128
+Full Title	Philippines. China. (insets) (Hankow and Canton).
+Obj Width cm	56
+Pub List No	5842.000
+Engraver or Printer	[Instituto Geografico di Agostini, Rand McNally and Company]
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

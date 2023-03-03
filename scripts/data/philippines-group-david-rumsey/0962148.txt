@@ -1,0 +1,37 @@
+Date	1911
+Country	[Philippines, Indonesia]
+Series No	148
+Type	Atlas Map
+Pub Note	Outline Color. Relief shown by hachures
+Pub Width cm	28
+Scale 1	7,500,000
+Author	[Stieler, Adolf, Barich, C.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	40
+Image Order	.571 batch017
+Publisher	Justus Perthes
+Pub Title	Stieler's Hand-Atlas.
+Region	[Borneo, Sumatra, Java, Celebes, Malakka Strasse]
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1911
+Short Title	Nr. 67. Ostindische Inseln. .... C. Barich.
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Stieler, Adolf; Barich, C.
+World Area	East Indies
+List No	0962.148
+Media item filename	0962148.jp2
+Publication Author	Stieler, Adolf
+Image No	0962148.jp2
+Publisher Location	Gotha
+Page No	67
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/0962148.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	0962.000_148
+Full Title	Nr. 67. Ostindische Inseln. .... C. Barich.
+Obj Width cm	47
+Pub List No	0962.000
+Engraver or Printer	[M. Schoer, A. Reichenbecher]
+Pub Maps	100
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

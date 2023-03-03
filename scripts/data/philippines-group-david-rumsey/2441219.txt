@@ -1,0 +1,35 @@
+Date	1855
+Country	[Indonesia, Philippines]
+Series No	219
+Type	Atlas Map
+Pub Note	Color. Relief shown by hachures. U.S. and N.A. maps show 1st Colorado territory. Also shows narrow, long, Nebraska. New Mexico and Utah map still shows Colona for Colorado.
+Pub Width cm	40
+Scale 1	12,000,000
+Author	Colton, G.W.
+Obj Height cm	34
+Image Order	.474 batch017
+Publisher	J.H. Colton
+Pub Title	Colton's General Atlas, Containing One Hundred And Eighty Steel Plate Maps And Plans, On One Hundred And Eight Imperial Folio Sheets, Accompanied By One Hundred And Sixty-Eight Pages Letter-Press Descriptions, Geographical, Statistical, And Historical, By Richard S. Fisher, M.D. New York: J.H. Colton, No. 172 William Street. 1861. Entered ... One Thousand Eight Hundred and Fifty-six ... Entered ... 1860, by J.H. Colton ... New York.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1861
+Short Title	East Indies.
+Pub Type	World Atlas
+Pub Height cm	46
+Authors	Colton, G.W.
+World Area	East Indies
+List No	2441.219
+Media item filename	2441219.jp2
+Publication Author	Colton, G.W.
+Image No	2441219.jp2
+Publisher Location	New York
+Page No	31
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/2441219.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	2441.000_219
+Full Title	Colton's East Indies. (inset) Island and Strait of Singapore.
+Obj Width cm	42
+Pub List No	2441.000
+Engraver or Printer	[J. De Cordova, C.Wise, F.A. Chapman]
+Pub Maps	103
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

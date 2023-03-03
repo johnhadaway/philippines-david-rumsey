@@ -1,0 +1,41 @@
+Date	1872
+Country	Philippines
+Series No	25
+Type	Atlas Map
+Reference	cf P838 (1862); M&B p182; Tooley Australia 659 (1872); NMM 521.
+Collection	Rumsey Collection
+Pub Note	1st edition 1864; published in 27 parts 1854-62. The date of 1872 is estimated by the Australia map; all the maps are undated and probably date throughout the period 1864 to 1872: the North America map shows Colorado and Russian America while the United States map has no Colorado. The World maps show Alaska. This is the last highly decorative atlas published in England. Even the maps without views or figures are beautifully engraved and colored with a mixture of printed color and hand color. Swanston, Petermann, Bartholomew, Macnab and Johnson engraved the maps. The introduction by Shaw among other things lists important general atlases published over a long period. He lists only one United States atlas, Mitchell's Universal Atlas of 1853! The maps bear a superficial resemblance to Keith Johnston's Royal Atlas. Fullarton frequently gives the sources for his maps - for the United States maps he gives Calvin Smith and Tanner as sources. The atlas is bound in half leather dark green cloth covered boards with "The Royal Illustrated Atlas." stamped in gilt on the cover; the spine reads "Royal Illustrated Atlas" in gold.
+Pub Width cm	35
+Scale 1	13,305,600
+Publication Author Initial Sort	Fullarton, A. & Co.
+Pub Reference	cf P838 (1862); M&B p182; Tooley Australia 659 (1872); NMM 521.
+Author	Fullarton, A. & Co.
+Georeferencer Status	georeferenced
+Browse Title Sort	Sketch Map of the Dutch Possessions, in the Indian Archipelago. XIX. J. Bartholomew, F.R.G.S. Edinr.
+Ownership Statement	Copyright 2005
+Obj Height cm	30
+Publisher	A. Fullarton & Co.
+Pub Title	The Royal Illustrated Atlas, Of Modern Geography With An Introductory Notice By Dr. N. Shaw, Secretary To The Royal Geographical Society &c. A. Fullarton And Co. London And Edinburgh. (title page only) W.B. Scott. W. Holl.
+Note	In full color.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1872
+Short Title	Dutch Possessions, in the Indian Archipelago.
+Pub Type	World Atlas
+Pub Height cm	49
+Authors	Fullarton, A. & Co.
+List No	3007.019
+Media item filename	00390019.jpg
+Publication Author	Fullarton, A. & Co.
+Image No	3007019
+Publisher Location	London and Edinburgh
+Page No	19
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0039/3007019.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	3007.000_025
+Full Title	Sketch Map of the Dutch Possessions, in the Indian Archipelago. XIX. J. Bartholomew, F.R.G.S. Edinr.
+Obj Width cm	42
+Pub List No	3007.000
+Engraver or Printer	Bartholomew, John Jr.
+Pub Maps	76
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

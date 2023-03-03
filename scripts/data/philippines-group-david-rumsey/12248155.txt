@@ -1,0 +1,37 @@
+Date	1944
+Country	[Philippines, Indonesia]
+Series No	155
+Type	Atlas Map
+Pub Note	Outline color. Text/Index Map pages printed in blue ink. Relief shown by hachures. Editions of this atlas extended through the years of World War II. This edition is the last edition of the Stieler atlas. It is very rare and known only in a few copies. It was printed during the final months of World War II, probably in April or May of 1945.
+Pub Width cm	28
+Scale 1	7,500,000
+Author	[Stieler, Adolf, Haack, H.]
+Georeferencer Status	not_found
+Obj Height cm	38
+Image Order	.528 batch017
+Publisher	Justus Perthes
+Pub Title	Stielers Hand-Atlas. 254 Haupt- und Nebenkarten in Kupferstich. Zehnte Auflage Hundertjahr - Ausgabe. Herausegeben unter Leitung von Prof. Dr. H. Haack, in Justus Perthes' Geogr. Anstalt. Gotha: Justus Perthes.
+Region	[Celebes, Borneo]
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1945
+Short Title	73. Ostindische Inseln.
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Stieler, Adolf; Haack, H.
+World Area	East Indies
+List No	12248.155
+Media item filename	12248155.jp2
+Publication Author	[Stieler, Adolf, Haack, H.]
+Image No	12248155.jp2
+Publisher Location	Gotha
+Page No	73
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12248155.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12248.000_155
+Full Title	73. Ostindische Inseln. (insets) (Various East Indian island groups).
+Obj Width cm	42
+Pub List No	12248.000
+Engraver or Printer	[Barich, Schleifer, Schoer, Hess, Reichenbecher]
+Pub Maps	108
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

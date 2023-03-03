@@ -1,0 +1,35 @@
+Date	1911
+Country	[Vietnam, Indonesia, Philippines, Thailand]
+Series No	146
+Type	Atlas Map
+Pub Note	Outline Color. Relief shown by hachures
+Pub Width cm	28
+Scale 1	12,500,000
+Author	[Stieler, Adolf, Barich, C.]
+Georeferencer Status	georeferenced
+Obj Height cm	37
+Image Order	.571 batch017
+Publisher	Justus Perthes
+Pub Title	Stieler's Hand-Atlas.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1911
+Short Title	Nr. 66. Hinter-Indien u. Archipel. ... C. Barich.
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Stieler, Adolf; Barich, C.
+World Area	West Indies
+List No	0962.146
+Media item filename	0962146.jp2
+Publication Author	Stieler, Adolf
+Image No	0962146.jp2
+Publisher Location	Gotha
+Page No	66
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/0962146.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	0962.000_146
+Full Title	Nr. 66. Hinter-Indien u. Archipel. ... C. Barich. (inset) Tonkin und Uber-Laos. Cambodia und Cochinchina.
+Obj Width cm	44
+Pub List No	0962.000
+Pub Maps	100
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

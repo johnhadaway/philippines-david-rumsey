@@ -1,0 +1,34 @@
+Date	1944
+Country	Philippines
+Subject	[Military, Pictorial map]
+Type	[Separate Map, Newspaper Map]
+Pub Note	See note field above.
+Pub Width cm	39
+Scale 1	None shown
+Author	[Owens, Charles H., Los Angeles Times]
+Georeferencer Status	georeferenced
+Obj Height cm	53
+Image Order	.969 batch017
+Publisher	Los Angeles Times
+Pub Title	MacArthur moves into position for assault on Philippines. Los Angeles Times. Monday Mar. 6, 1944 - Part I, 3.
+Region	Pacific States
+Note	Color map, by Charles Owens "A stroke toward Mindanao not only would isolate the Japs' southwestern empire but would serve to protect the flank of Adm. Nimitz's forces... Charles Owens' map illustrate the possibilities of such tactic." Map packed with information on battle fields and allied activities. Shows major cities, distances, arrow indicates general direction of warplanes and fleets approaching Philippines. Relief shown pictorially. Includes text.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1944
+Short Title	MacArthur moves into position for assault on Philippines
+Pub Type	Separate Map
+Pub Height cm	53
+Authors	Owens, Charles; Los Angeles Times
+List No	11007.000
+Event	World War II
+Media item filename	11007000.jp2
+Publication Author	[Owens, Charles H., Los Angeles Times]
+Image No	11007000.jp2
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/11007000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11007.000_000
+Full Title	MacArthur moves into position for assault on Philippines. Los Angeles Times. Monday Mar. 6, 1944 - Part I, 3.
+Obj Width cm	39
+Pub List No	11007.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

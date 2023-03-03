@@ -1,0 +1,33 @@
+Date	1945
+Country	Philippines
+Subject	[Pictorial map, Historical]
+Type	Separate Map
+Pub Note	See note field above.
+Pub Width cm	24
+Scale 1	None shown
+Author	Drury, John G.
+Georeferencer Status	georeferenced
+Obj Height cm	32
+Image Order	.632 batch017
+Publisher	Mem-O-Map Co.
+Pub Title	Mem-O-Map of the Philippine Islands. A Group of Over 7000 Islands. Drawn by T/4 John G. Drury 214th_ Ordnance Battalion. Copyright 1945 Meme-O-Map Co.
+Note	Colored pictorial map in a series of Mem-o-Maps by John G. Drury of the 214th Ordnance Battalion US Government, produced for military personnel during the Second World War. Mem-O-Maps' purpose was as a souvenir map on which troops could keep trace of their ‘adventures’ and movements. The maps represent an important historical period and integrate pictorial and geographical elements in a unique way. The use of cartoons and familiar map shapes used to show the conditions and experiences that the troops must have faced in reality, also shows memorable spots, wildlife and banners "came in on good ship" and "departed on good ship". The legend encouraged service men to note where they “landed or anchored” and when, as well as where they stationed” while there. Includes a decorative compass rose. Relief shown pictorially.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1945
+Short Title	Mem-O-Map of the Philippine Islands
+Pub Type	Separate Map
+Pub Height cm	32
+Authors	Drury, John G.
+List No	11224.000
+Media item filename	11224000.jp2
+Publication Author	Drury, John G.
+Image No	11224000.jp2
+Publisher Location	No, place of Pub.
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/11224000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11224.000_000
+Full Title	Mem-O-Map of the Philippine Islands. A Group of Over 7000 Islands. Drawn by T/4 John G. Drury 214th_ Ordnance Battalion. Copyright 1945 Meme-O-Map Co.
+Obj Width cm	24
+Pub List No	11224.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

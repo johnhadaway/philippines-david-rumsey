@@ -1,0 +1,36 @@
+Date	1872
+Country	[Philippines, Indonesia, Thailand, Vietnam]
+Series No	61
+Type	Atlas Map
+Reference	cf P3559.
+Pub Note	Hand colored; Geological map of England; star maps. This is a somewhat updated version of the 1865 issue - see our 2326.000
+Pub Width cm	40
+Scale 1	10,800,000
+Pub Reference	cf P3559.
+Author	Society for the Diffusion of Useful Knowledge (Great Britain)
+Obj Height cm	38
+Image Order	.2596 batch018
+Publisher	Edward Stanford
+Pub Title	The Family Atlas Containing Eighty Maps, Constructed By Eminent Geographers, And Engraved On Steel, Under The Superintendence Of The Society For The Diffusion Of Useful Knowledge, Including The Geological Map Of England And Wales, By Sir I. Murchison, F.R.S., The Star Maps By Sir John Lubbock, Bart. And The Plans Of London And Paris, With The New Discoveries And Other Improvements To The Latest Date. And An Alphabetical Index. London: Edward Stanford, 6 & 7, Charing Cross. 1872.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1872
+Short Title	Asiatic Archipelago.
+Pub Type	World Atlas
+Pub Height cm	46
+Authors	Society for the Diffusion of Useful Knowledge (Great Britain)
+List No	10911.061
+Media item filename	10911061.jp2
+Publication Author	Society for the Diffusion of Useful Knowledge (Great Britain)
+Image No	10911061.jp2
+Publisher Location	London
+Page No	49
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/10911061.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	10911.000_061
+Full Title	Asiatic Archipelago.
+Obj Width cm	43
+Pub List No	10911.000
+Engraver or Printer	[Murchison, I., Lubbock, John, J. & C. Walker, Smith, Philip, Woodward, S.P., Key, T. Hewett]
+Pub Maps	76
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

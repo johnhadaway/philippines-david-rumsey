@@ -1,0 +1,37 @@
+Date	1838
+Country	[Australia, Indonesia, New Zealand, Philippines]
+Series No	9
+Type	Atlas Map
+Pub Note	The maps are simplified somewhat, probably indicating that this was used in the schools. In many cases the graphics on the maps are most unusual. Maps are hand painted in full color. Date is estimate.
+Pub Width cm	29
+Author	[Andriveau-Goujon, J., Soulier, E.]
+Georeferencer Status	georeferenced
+Obj Height cm	40
+Image Order	batch003
+Publisher	Andriveau-Goujon
+Pub Title	Atlas Elementaire Simplifie De Geographie Ancienne Et Moderne, Par E. Soulier (De Sauve), Professeur, Et J. Andriveau-Goujon. Approuve par le Conseil royal de l'Universite de France ... Paris. Chez Andriveau-Goujon, Geographe-Editeur, Rue Du Bac, 17.
+Region	Oceania
+Note	Relief shown by hachures. Paris prime meridian. Diagram of mountains across bottom of map.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1838
+Short Title	Oceanie.
+Pub Type	World Atlas
+Pub Height cm	44
+Authors	Soulier, E.; Andriveau-Goujon, J.
+World Area	Pacific
+List No	0940.007
+Media item filename	0940007.jpg
+Publication Author	[Soulier, E., Andriveau-Goujon, J.]
+Image No	0940007
+Publisher Location	Paris
+Page No	7
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/0940007.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0940.000_009
+Full Title	Oceanie. Atlas Elementaire Simplifie. Publie par J. Andriveau-Goujon. E. Soulier del. A Paris, chez Andriveau-Goujon, Editeur, Rue du Bac, No. 17.
+Obj Width cm	50
+Pub List No	0940.000
+Engraver or Printer	Soulier, E.
+Pub Maps	31
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

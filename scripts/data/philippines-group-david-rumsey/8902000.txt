@@ -1,0 +1,35 @@
+Date	1944
+Country	[Indonesia, Philippines]
+Series No	1
+Subject	[Political, Pictorial map]
+Type	Separate Map
+Pub Note	Color. Louise E. Jefferson, the daughter of a calligrapher for the United States Treasury Department, was encouraged to draw from a young age. Her father taught her his craft at home and she later studied fine and commercial art in private lessons and at Howard University. She moved to New York to continue her education at the School of Fine Arts at Hunter College. In Harlem, Jefferson came in contact with other African-American artists and in 1935 she was a founding member of the Harlem Artists Guild, a program sponsored by the Works Progress Administration. A freelance job with the National Council of Churches’ publishing operation, Friendship Press, led to a full-time position. Jefferson eventually became the press’s art director. Jefferson was perhaps the first African-American woman to hold such a position in the publishing industry. Jefferson freelanced for major publishing houses, such as Viking and Doubleday, throughout her career. She was known as a designer of both skill and artistry.
+Pub Width cm	80
+Author	Jefferson, Louise E. (1930-2000)
+Georeferencer Status	ungeoreferenced
+Obj Height cm	50
+Image Order	001 batch016
+Publisher	Friendship Press, Inc.
+Pub Title	Southeast Asia and the Southwest Pacific.
+Region	[Oceania, Oceanica]
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1944
+Short Title	Southeast Asia and the Southwest Pacific.
+Pub Type	Separate Map
+Pub Height cm	50
+Authors	Jefferson, Louise E. (1930-2000)
+World Area	[East Indies, Pacific]
+List No	8902.000
+Media item filename	8902000.jp2
+Publication Author	Jefferson, Louise E. (1930-2000)
+Image No	8902000.jp2
+Publisher Location	New York
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/153/8902000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	8902.000_001
+Full Title	Southeast Asia and the Southwest Pacific.
+Obj Width cm	80
+Pub List No	8902.000
+Pub Maps	1
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,38 @@
+Date	1889
+Country	[China, Philippines]
+Series No	203
+Type	Atlas Map
+Reference	P952.
+Collection	Rumsey Collection
+Pub Note	1st edition in this format was 1885. 18th ed. With printed color.
+Pub Width cm	37
+Scale 1	9,500,000
+Pub Reference	P952.
+Author	Rand McNally and Company
+Georeferencer Status	ungeoreferenced
+Ownership Statement	Copyright 2009
+Obj Height cm	52
+Publisher	Rand McNally
+Pub Title	Rand McNally & Co.'s Enlarged Business Atlas And Shippers' Guide ... Together With A Complete Reference Map Of The World ... Accompanied By A New and Original Compilation and Ready Reference Index, Showing In Detail The Entire Railroad System ... Engraved, Printed, And Published By Rand, McNally & Company, Chicago, U.S.A. 1889. (on verso) ... Copyright, 1889, by Rand, McNally & Co.
+Note	Countries in color. Relief shown by hachures. One inset.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1889
+Short Title	China.
+Pub Type	National Atlas
+Pub Height cm	53
+Authors	Rand McNally and Company
+List No	2094.082
+Media item filename	2094082.jpg
+Publication Author	Rand McNally and Company
+Image No	2094082
+Publisher Location	Chicago
+Page No	288
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0121/2094082.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2094.000_203
+Full Title	Rand, McNally & Co.'s China.
+Obj Width cm	34
+Pub List No	2094.000
+Pub Maps	93
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

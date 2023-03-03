@@ -1,0 +1,35 @@
+Date	1952
+Country	[Indonesia, Papua New Guinea, Philippines]
+Series No	77
+Subject	Physical
+Type	Atlas Map
+Pub Note	No title page; this may be a proof copy or intended to accompany an encyclopedia or text. Instituto di Agostini is known for the beautiful maps and atlases it produced. Full color.
+Pub Width cm	28
+Scale 1	10,000,000
+Author	Instituto Geographico di Agostini
+Georeferencer Status	ungeoreferenced
+Obj Height cm	41
+Image Order	batch005
+Publisher	Instituto Geographico di Agostini
+Pub Title	[Spendido Atlante Geografico de Agostini, Continenti e Paesi, 1952. Geografia Illustrata nel Mondo Moderno, Commento Carte e Indice dei Nomi Prof. Dr. Luigi Visintin. Pag. 496. Tenuto Veramento Bene! Copertina Come da Foto non Esitate ....]
+Note	Relief shown as combined hachures, shaded relief, and hypsometric tints; bathymetry also tinted.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1952
+Short Title	Indonesia, Phillipines, and Papua New Guinea.
+Pub Type	World Atlas
+Pub Height cm	42
+Authors	Instituto Geographico di Agostini
+List No	2170.077
+Media item filename	2170077.jpg
+Publication Author	Instituto Geografico di Agostini
+Image No	2170077
+Publisher Location	Novarra
+Page No	150-151
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2170077.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2170.000_077
+Full Title	Indonesia, Filippine, Nuova Guinea. (insets) Djakarta; Surbaja; Is. Paracel; Giava (Java); Manila; Nuova Guinea, Papua.
+Obj Width cm	55
+Pub List No	2170.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

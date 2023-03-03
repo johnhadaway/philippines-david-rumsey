@@ -1,0 +1,36 @@
+Date	1925
+Country	[Indonesia, Philippines, New Guinea]
+Series No	149
+Type	Atlas Map
+Reference	Espenhorst 2.1.1.1.10
+Pub Note	Two volume set in English. 10th edition and the Centenary edition. This edition was a very important revision and was issued in German, French, English, Spanish, and Italian. Each map preceded by index map, printed in blue, which is labeled, "Stielers Handatlas, Zehnte Auflage / Hundertjahr-Ausgabe. Gotha: Justus Perthes." Relief shown in hachures. Alphabetical Index of place names not scanned. Over 43 different draftsmen and engravers are listed on the various sheets.
+Pub Width cm	27
+Scale 1	12,500,000
+Author	[Haack, H., Stieler, Adolf]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	39
+Image Order	036 batch016
+Publisher	Justus Perthes
+Pub Title	Stieler's Atlas of Modern Geography. 254 Maps & Insets on 108 Sheets Engraved on Copper. Tenth (Centenary) Edition. Completely Revised & Largely Redrawn under the Direction of Professor H. Haack in Justus Perthes' Geogr. Institute. (in two parts). 1925. Gotha: Justus Perthes.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1925
+Short Title	72. Malaiische Inselwelt. Malay Archipelago, Indonesia.
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Haack, H.; Stieler, Adolf
+List No	7839.149
+Media item filename	7839149.jp2
+Publication Author	[Haack, H., Stieler, Adolf]
+Image No	7839149.jp2
+Publisher Location	Gotha
+Page No	72
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/127/7839149.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	7839.000_149
+Full Title	72. Malaiische Inselwelt. Malay Archipelago, Indonesia. (insets) (Hanoi. Ryuku Islands.)
+Obj Width cm	42
+Pub List No	7839.000
+Engraver or Printer	[Barich, Schleifer, Hess, Messerschmidt]
+Pub Maps	108
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

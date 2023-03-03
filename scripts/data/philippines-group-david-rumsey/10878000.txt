@@ -1,0 +1,31 @@
+Date	1760
+Country	Philippines
+Type	Separate Map
+Pub Note	"A very rare and large map of the Philippine archipelago, drawn by the Jesuit father Pedro Murillo Velarde in 1734, then used in a reduced version in 1750 by Georg Moritz Lowitz, professor of mathematics at Nuremberg, and published by Homann Heirs in 1760. At the beginning of the 18th century, there is still no truly exact and detailed map of the Philippines, colonized by the Spaniards since the end of the 16th century. In 1733, King Philippe V of Spain ordered the making of a map of the archipelago. Murillo Velarde was appointed to draw this map, which was engraved by Nicolas de la Cruz Bagay, Tagale Indian, and published in Manila in 1734. Measuring 1.12 x 1.20 m, it was the first such precise map, and the largest ever drawn of the archipelago. It became a model for many cartographers and was copied until the end of the 18th century. In 1750, it was taken over by Georg Moritz Lowitz, without the vignettes which adorned the borders, and in a slightly reduced size. Even today, Murillo Velarde's map is the most famous map of the Philippines. The map is dedicated to Fernando de Valdes y Tamon, governor of the Philippines from 1729 to 1739, and decorated with a compass rose and two large cartouches, including one for the title, decorated with figures, and another containing a history of the discovery and colonization of the archipelago by the Spaniards. The coasts, but also the interior, are extremely detailed. The author has named the towns, creeks, ports, shoals, reefs, roads, rivers, and forts. The routes of the Spanish vessels from Manila to New Spain (Mexico), and that of Magellan in 152 1, are also indicated." (Begonia Le Bail, 2021)
+Pub Width cm	54
+Scale 1	2,000,000
+Pub Reference	Quirino, pp. 70 and 129
+Author	[Murillo Velarde, Pedro, Lowitz, Georg Moritz]
+Obj Height cm	94
+Image Order	.2653 batch018
+Publisher	Heritiers de Hornann,
+Pub Title	Carte hydrographique & chorographique des Isles Philippines - Carta hydrographica y chorographica de las Ysles Filipinas
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1760
+Short Title	Carte hydrographique & chorographique des Isles Philippines - Carta hydrographica y chorographica de las Ysles Filipinas
+Pub Type	Separate Map
+Pub Height cm	94
+Authors	Murillo Velarde, Pedro; Lowitz, Georg Moritz
+List No	10878.000
+Media item filename	10878000.jp2
+Publication Author	[Murillo Velarde, Pedro, Lowitz, Georg Moritz]
+Image No	10878000.jp2
+Publisher Location	Nuremberg
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/10878000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	.2652_10878.000_000
+Full Title	Carte hydrographique & chorographique des Isles Philippines - Carta hydrographica y chorographica de las Ysles Filipinas
+Obj Width cm	54
+Pub List No	10878.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

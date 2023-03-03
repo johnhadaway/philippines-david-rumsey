@@ -1,0 +1,38 @@
+Date	1812
+Country	[Indonesia, Philippines]
+Series No	66
+Type	Atlas Map
+Reference	P4306.
+Pub Note	These maps have beautiful cartouches and hand painted outline color. Lapie made the maps. 1st edition. This atlas is up to date: the North America map shows the Lewis and Clark information and Lewis and Clark are discussed in the text explaining the map. In French. Relief shown in hachures or sketches. Extraordinary unique vignettes used for framing the title of each map.
+Pub Width cm	28
+Scale 1	23,000,000
+Pub Reference	P4306.
+Author	[Malte-Brun, Conrad, 1775-1826, Lapie, Pierre]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	24
+Image Order	009 batch016
+Publisher	Francois Buisson
+Pub Title	Atlas Complet Du Precis De La Geographie Universelle De M. Malte-Brun; Dresse Conformement Au Texte De Cet Ouvrage Et Sous Les Yeux De L'Auteur, Par M. Lapie, Capitaine Ingenieur Geographe. (Cet Atlas est forme de 75 Cartes.) A Paris, Chez Francois Buisson, Libraire-Editeur, Rue Gilles-Coeur, No. 10. 1812.
+Note	Prime meridian is Paris.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1812
+Short Title	Oceanique Occidentale.
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Malte-Brun, Conrad, 1775-1826; Lapie, Pierre
+List No	2631.066
+Media item filename	2631066.jp2
+Publication Author	[Malte-Brun, Conrad, 1775-1826, Lapie, Pierre]
+Image No	2631066.jp2
+Publisher Location	Paris
+Page No	61
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/2631066.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	2631.000_066
+Full Title	Oceanique Occidentale.
+Obj Width cm	33
+Pub List No	2631.000
+Engraver or Printer	[Chamouin, Giraldon]
+Pub Maps	75
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

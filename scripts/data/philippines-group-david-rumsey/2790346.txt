@@ -1,0 +1,35 @@
+Date	1912
+Country	[Thailand, Philippines, Indonesia, Vietnam]
+Series No	346
+Type	Atlas Map
+Reference	P3637b.
+Pub Note	Has relief maps of U.S. states and Continents. The relief maps here are on separate pages - they also appear in the 1908 Indexed Atlas of the World, but put in the text pages and surrounded by text. Full printed color. In volume 1, individual map titles typically begin, "The Rand McNally New Commercial Atlas Map of". State maps include list of railroads which are keyed to map. In volume 2, individual map titles typically begin, "The Rand McNally New Library Atlas Map of". The (International) "Index to Maps" portion of the atlas was not scanned.
+Pub Width cm	40
+Scale 1	15,523,200
+Pub Reference	P3637b.
+Author	Rand McNally and Company
+Obj Height cm	50
+Image Order	.476 batch017
+Publisher	Rand McNally and Company
+Pub Title	The Library Atlas Of The World. A Reference Work In Two Volumes, Containing Over Two Hundred Maps And A Complete Index. Rand McNally & Company Publishers, Chicago, New York. Volume I - United States. Volume II - Foreign Countries. (on verso) Copyright, 1912, By Rand, McNally & Company.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1912
+Short Title	China, French Indo-China, Siam, Malaysia, and Chosen.
+Pub Type	World Atlas
+Pub Height cm	53
+Authors	Rand McNally and Company
+List No	2790.346
+Media item filename	2790346.jp2
+Publication Author	Rand McNally and Company
+Image No	2790346.jp2
+Publisher Location	Chicago
+Page No	89
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/2790346.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	2790.000_346
+Full Title	China, French Indo-China, Siam, Malaysia, and Chosen. (inset) Kwan-Tung Peninsula.
+Obj Width cm	33
+Pub List No	2790.000
+Pub Maps	207
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,40 @@
+Date	1845
+Country	Philippines
+Series No	86
+Type	View
+Collection	Rumsey Collection
+Pub Note	See note field above.
+Pub Width cm	19
+Publication Author Initial Sort	United States Exploring Expedition (1838-1842); Wilkes, Charles, 1798-1877
+Attributed Author	[United States Exploring Expedition (1838-1842), Wilkes, Charles, 1798-1877]
+Pub Reference	Haskell 18.
+Author	Agate, A. T.
+Browse Title Sort	City of Manilla. (Engraved by) J.A. Rolph. (Sketched by) A.T. Agate. (Philadelphia: Lea & Blanchard. 1845)
+Ownership Statement	Copyright 2007
+Obj Height cm	13
+Publisher	Lea & Blanchard
+Pub Title	Narrative of the United States Exploring Expedition During the Years 1838, 1839, 1840, 1841, 1842. By Charles Wilkes, U.S.N. Commander Of The Expedition, Member Of The American Philosophical Society, Etc. In Five Volumes, And An Atlas. Philadelphia: Lea & Blanchard. 1845. (on verso) Entered ... 1844, By Charles Wilkes ... District of Columbia.
+Note	Engraved view, b&w, showing buildings, boats, bridge, palm trees, etc.
+City	Manila (Philippines)
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1845
+Short Title	City of Manilla.
+Pub Type	Exploration Book
+Pub Height cm	29
+Authors	Agate, A. T.; United States Exploring Expedition (1838-1842); Wilkes, Charles, 1798-1877
+List No	4442.072
+Media item filename	4442072.jpg
+Publication Author	[United States Exploring Expedition (1838-1842), Wilkes, Charles, 1798-1877]
+Image No	4442072
+Publisher Location	Philadelphia
+Page No	v. 5 facing 275
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0116/4442072.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	4442.000_086
+Full Title	City of Manilla. (Engraved by) J.A. Rolph. (Sketched by) A.T. Agate. (Philadelphia: Lea & Blanchard. 1845)
+Obj Width cm	18
+Pub List No	4442.000
+Engraver or Printer	Rolph, J. A.
+Pub Maps	5
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

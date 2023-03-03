@@ -1,0 +1,37 @@
+Date	1847
+Country	[Philippines, Indonesia]
+Series No	64
+Type	Atlas Map
+Reference	Espenhorst 4.1.1.; not in Phillips.
+Pub Note	Relief shown in hachures. This is probably the first edition of Sohr's Hand - Atlas, although Espenhorst shows a slightly earlier date for that edition. The map of Mexico shows Texas as independent, the North America map shows Texas as part of the U.S., while the U.S. map shows Texas as part of Mexico. All three conditions of Texas shown in the same atlas indicate that this was a period of transition, to say the least. The maps are lithographed with outline color.
+Pub Width cm	46
+Scale 1	7,210,000
+Pub Reference	Espenhorst 4.1.1.; not in Phillips.
+Author	[Sohr, Karl, Flemming, Carl]
+Georeferencer Status	georeferenced
+Obj Height cm	34
+Image Order	.567 batch017
+Publisher	C. Flemming
+Pub Title	Vollstaendiger Hand - Atlas der neueren Erdbeschreibung uber alle Theile der Erde in 80 Blattern herausgegben von Dr. K. Sohr. Glogau und Leipzig 1847. Druck u. Verlag von C. Flemming.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1847
+Short Title	Die Ostindischen Inselin.
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Sohr, Karl; Flemming, Carl
+World Area	East Indies
+List No	5200.064
+Media item filename	5200064.jp2
+Publication Author	Sohr, Karl
+Image No	5200064.jp2
+Publisher Location	Glogau,Leipzig
+Page No	69
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/5200064.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	5200.000_064
+Full Title	Die Ostindischen Inselin.
+Obj Width cm	41
+Pub List No	5200.000
+Pub Maps	72
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

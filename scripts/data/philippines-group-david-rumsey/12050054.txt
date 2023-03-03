@@ -1,0 +1,34 @@
+Date	1826
+Country	[Indonesia, Philippines]
+Series No	54
+Type	Atlas Map
+Pub Note	This atlas was published in many compilations over a thirty year period. It was indeed an atlas of "choice" of the publisher and as such consists of a wide variety of maps that Andriveau-Goujon favored to include at the time. It consists of ancient and modern geographical maps, engraved and hand colored. Date estimated; based on newest map sheet in atlas, 1854.
+Pub Width cm	51
+Scale 1	13,000,000
+Author	[Brue, Picquet, Chles.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	44
+Image Order	.664 batch017
+Publisher	Chez J. Andriveau-Goujon
+Pub Title	Atlas de Choix, ou Recueil des Meilleures Cartes de Geographie Ancienne et Moderne Dressees par Divers Auteurs. Table. Paris. Chez J. Andriveau-Goujon.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1854
+Short Title	Carte du Grand Archipel D'Asie.
+Pub Type	World Atlas
+Pub Height cm	70
+Authors	Brue; Picquet, Chles.
+World Area	East Indies
+List No	12050.054
+Media item filename	12050054.jp2
+Publication Author	Andriveau-Goujon, E.
+Image No	12050054.jp2
+Page No	45
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/12050054.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12050.000_054
+Full Title	Carte du Grand Archipel D'Asie.
+Obj Width cm	60
+Pub List No	12050.000
+Pub Maps	60
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

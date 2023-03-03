@@ -1,0 +1,34 @@
+Date	1945
+Country	[China, Korea, Philippines]
+Subject	[Pictorial map, Military]
+Type	[Separate Map, Newspaper Map]
+Pub Note	See note field above.
+Pub Width cm	41
+Scale 1	7,000,000
+Author	Burke, Howard
+Obj Height cm	54
+Image Order	.407 batch017
+Publisher	San Francisco Examiner
+Pub Title	San Francisco Examiner : China drive may open invasion path. Howard Burke.
+Region	Southeast Asia
+Note	Color map, published on newspaper sheet by San Francisco Examiner, May 28, 1945. Illustrated by Howard Burke. Covers China, Korea, Philippine Islands and Taiwan. Includes informative text and overview of the geopolitical situation.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1945
+Short Title	San Francisco Examiner : China drive may open invasion path
+Pub Type	[Separate Map, Newspaper Map]
+Pub Height cm	54
+Authors	Burke, Howard
+List No	13176.000
+Event	World War II
+Media item filename	13176000.jp2
+Publication Author	Burke, Howard
+Image No	13176000.jp2
+Publisher Location	San Francisco
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13176000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	13176.000_000
+Full Title	San Francisco Examiner : China drive may open invasion path. Howard Burke.
+Obj Width cm	41
+Pub List No	13176.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,37 @@
+Date	1902
+Country	[Indonesia, Japan, Philippines]
+Series No	49
+Subject	Physical
+Type	Atlas Map
+Pub Note	Maps in full color with most relief depicted as a combination of hypsometric tints and hachures.
+Pub Width cm	21
+Scale 1	20,000,000
+Author	Wagner, Hermann
+Georeferencer Status	ungeoreferenced
+Obj Height cm	29
+Image Order	009 batch016
+Publisher	Justus Perthes
+Pub Title	Sydow-Wagners Methodischer Schul-Atlas. Entworfen, Bearbeitet und Herausgegeben von Hermann Wagner. 63 Haupt- und 50 Nebenkarten auf 47 Tafeln. Neute, Berichtigte und Erganzte Auflage. Preis: Gebunden 5 Mark = 6 Kronen. Gotha: Justus Perthes. 1902.
+Region	Southeast Asia
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1902
+Short Title	No. 39. Asiatische Inselwelt.
+Pub Type	School Atlas
+Pub Height cm	32
+Authors	Wagner, Hermann
+List No	7826.049
+Media item filename	7826049.jp2
+Publication Author	Wagner, Hermann
+Image No	7826049.jp2
+Publisher Location	Gotha
+Page No	39
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/7826049.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	7826.000_049
+Full Title	No. 39. Asiatische Inselwelt.
+Obj Width cm	33
+Pub List No	7826.000
+Engraver or Printer	Geyer, V.
+Pub Maps	46
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

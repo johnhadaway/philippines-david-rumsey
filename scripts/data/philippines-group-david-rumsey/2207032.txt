@@ -1,0 +1,35 @@
+Date	1892
+Country	[Indonesia, Philippines, Malaysia, Cambodia]
+Series No	32
+Type	Atlas Map
+Pub Note	Date estimated. Relief shown in hachures. Outline color. This is the abbreviated edition of Stieler's world atlas, but with several multi-sheet maps.
+Pub Width cm	27
+Scale 1	12,500,000
+Author	Stieler, Adolf
+Obj Height cm	36
+Image Order	.417 batch017
+Publisher	Justus Perthus
+Pub Title	Stieler's Hand-Atlas. Ausgabe in 44 Karten. Gotha: Justus Perthus.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1892
+Short Title	Ostindische Inseln.
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Stieler, Adolf
+World Area	East Indies
+List No	2207.032
+Media item filename	2207032.jp2
+Publication Author	Stieler, Adolf
+Image No	2207032.jp2
+Publisher Location	Gotha
+Page No	64
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/2207032.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	2207.000_032
+Full Title	Ostindische Inseln. (insets) Java. Die Stassen. Atjih oder Atschin. Batavia. Niederlande.
+Obj Width cm	43
+Pub List No	2207.000
+Engraver or Printer	Herm. Berghaus
+Pub Maps	44
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

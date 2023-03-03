@@ -1,0 +1,36 @@
+Date	1967
+Country	[Indonesia, Japan, Philippines, Taiwan]
+Series No	153
+Type	Atlas Map
+Pub Note	This is the English edition of the Polish Atlas Swiata. This massive atlas (weighing nearly 5.5 kilograms and containing 48 square meters of maps) is of high cartographic and aesthetic quality, and provides a rich assortment of thematic (over 400) as well as hundreds of physical and political maps. Includes pictures of the flag and a synopsis for each country. Liberal yet tasteful and effective use of tinted colors, especially for topography and bathymetry. Rich use of symbolism creatively conveys the data in a clear manner. Many maps of urban areas. Printed on beige paper. Printed in Warsaw, Poland. Book No. 08 001958 7. Post and screw binding coupled with frequent use of fold-out maps eliminates any problem with the gutter.
+Pub Width cm	33
+Scale 1	5,000,000
+Author	Polish Army Topography Service
+Georeferencer Status	georeferenced
+Obj Height cm	40
+Image Order	batch004
+Publisher	Pergamon Press
+Pub Title	Pergamon World Atlas. Pergamon Press. Oxford, London, New York, Toronto, Sydney, Paris, Braunschweig, Tokyo. P.W.N. - Poland. Polish Scientific Publishers. Warszawa. 1968.
+Region	[Ryuku Islands, Okinawa, South China Sea]
+Note	Detailed physical and political map covering Ryuku Islands (Japan), Taiwan, China coast, and South Korea. Eight small maps of various scales covering: Singapura (Singapore), Ha Noi (Hanoi), Djakarta (Jakarta) (Indonesia), Java, Manila Bay (Philippines), Rangon (Rangoon) (Yangon) (Myanmar), Sai Gon (Saigon) (Vietnam), and Krung Threp (Bangkok) (Thailand).
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1968
+Short Title	South China Sea. South East Asia - Selected Areas. Pergamon World Atlas.
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Polish Army Topography Service
+List No	0737.153
+Media item filename	0737153.jpg
+Publication Author	Polish Army Topography Service
+Image No	0737153
+Publisher Location	Oxford
+Page No	240c-240d
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/0737153.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0737.000_153
+Full Title	South China Sea. South East Asia - Selected Areas. Pergamon World Atlas. Pergamon Press, Ltd. & P.W.N. Poland 1967. Sluzba Topograficzna W.P.
+Obj Width cm	55
+Pub List No	0737.000
+Engraver or Printer	Wojskowe Zaklady Kartograficzne
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

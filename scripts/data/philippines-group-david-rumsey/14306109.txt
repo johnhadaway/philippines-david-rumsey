@@ -1,0 +1,37 @@
+Date	1866
+Series No	109
+Subject	Nautical Charts
+Type	[Atlas Map, Chart Map]
+Pub Note	Atlas des ports étrangers, published in Paris by the French Ministère des travaux publics, Administration des routes [= Ministry of Public Works, Road Administration], 1890. Title translates to: Atlas of foreign ports. Collation: [VIII] pages, XXV plates, [8] pages, XXIV plates, [6] pages, XXV plates, [6] pages, XXIV plates, [6] pages, XXIII plates, [6] pages, XIII plates. Comprised of Première through Sixième deliveries (i.e., first-sixth) dated 1884, 1886, 1887, 1888, 1889 and 1890. Each delivery introduced by a half title page, full title page and table of contents; first and second deliveries also include introductory text. Volume contains 134 lithographed plates, in color, with 175 maps and 11 views. Maps show ports around the world, featuring topography, vegetation, parks, railways, streets, bridges, canals, drainage, islands, docks and soundings, with depths given in meters. Relief shown with hachures. Some maps provide insets showing the greater vicinity of the area. Certain ports appear in multiple deliveries, therefore showing port developments over time, such as Anvers [Antwerp], depicted in both 1883 and 1886. Certain maps in the second delivery also utilize data visualization to compare imports to France from other nations. All together, atlas presents a valuable survey of international ports from the late-nineteenth century.
+Pub Width cm	28
+Scale 1	20,000
+Author	[France. Ministère des travaux publics. Administration des routes, France. Direction des cartes, plans et archives et de la statistique graphique, École nationale des ponts et chaussées (France)]
+Obj Height cm	28
+Image Order	.2650 batch018
+Publisher	Imprimerie nationale (France)
+Pub Title	Atlas des ports étrangers. Ministère des Travaux Publics. Direction des Cartes, Plans et Archives et de la Statistique Graphique. Paris. Imprimerie Nationale. MDCCCLXXXIV.
+Region	[Saigon River (Vietnam), Manila Bay (Philippines)]
+Note	Two maps showing the ports of Saïgon [Ho Chi Minh City], Vietnam, and Manila, Philippines, in 1866. Maps feature vegetation, railways, streets, bridges, drainage, docks, islands and soundings, with depths given in meters. Each includes a bar scale and compass rose, with north oriented toward right of sheet. Descriptive text throughout. Lithograph in black, white and blue. Together, maps are 28 x 22 cm, on sheet 33 x 25 cm. Appears in Quatrième livraison.
+City	[Ho Chi Minh City (Vietnam), Manila (Philippines)]
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1890
+Short Title	Saïgon. (1866) Manille ...
+Pub Type	[Thematic Atlas, Chart Atlas]
+Pub Height cm	34
+Authors	France. Ministère des travaux publics. Administration des routes; France. Direction des cartes, plans et archives et de la statistique graphique; École nationale des ponts et chaussées (France)
+List No	14306.109
+Media item filename	14306109.jp2
+Publication Author	[France. Ministère des travaux publics. Administration des routes, France. Direction des cartes, plans et archives et de la statistique graphique]
+Image No	14306109.jp2
+Publisher Location	Paris
+Page No	XIX
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/14306109.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	.2650_14306.000_109
+Full Title	Saïgon. (1866) Manille : Saïgon. (1866) -- Manille. 4e Série. Pl. XIX. Ministère des Travaux Publics. Ecole des Ponts et Chaussées. Lith. A. Simon, 13, R. du Val-de-Grâce. Paris.
+Obj Width cm	22
+Pub List No	14306.000
+Engraver or Printer	Simon, A.
+Pub Maps	134
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

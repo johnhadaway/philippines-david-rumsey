@@ -1,0 +1,36 @@
+Date	1895
+Country	[Indonesia, Philippines, Vietnam, Thailand]
+Series No	77
+Type	Atlas Map
+Pub Note	Date based on newest map sheet date. Outline color. Relief shown in hachures.
+Pub Width cm	29
+Scale 1	12,500,000
+Author	Stieler, Adolf
+Obj Height cm	36
+Image Order	.358 batch017
+Publisher	Justus Perthes
+Pub Title	Adolf Stieler's Handatlas ueber alle Theile der Erde und ueber das Weltgebaeude, 95 Karten. Gotha. Justus Perthes.
+Region	Southeast Asia
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1895
+Short Title	64. Ostindische Inseln.
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Stieler, Adolf
+World Area	East Indies
+List No	12240.077
+Media item filename	12240077.jp2
+Publication Author	[Stieler, Adolf, Vogel, C.]
+Image No	12240077.jp2
+Publisher Location	Gotha
+Page No	64
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12240077.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12240.000_077
+Full Title	64. Ostindische Inseln. (inset) Java. Die Strassen. Atjeh oder Atschin. Batavia.
+Obj Width cm	42
+Pub List No	12240.000
+Engraver or Printer	[Herm. Berghaus, M. Schoer, H. Eberhardt, H Messerschmidt]
+Pub Maps	95
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

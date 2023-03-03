@@ -1,0 +1,41 @@
+Date	1855
+Country	[Indonesia, Philippines]
+Series No	78
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Note	See note field above.
+Pub Width cm	47
+Scale 1	11,000,000
+Publication Author Initial Sort	Sohr, Karl; Berghaus, Heinrich; Flemming, Carl
+Attributed Author	[Berghaus, Heinrich, Flemming, Carl, Sohr, Karl]
+Pub Reference	Espenhorst 4.1.1.5.4a and 4.1.1.5.4b; Wheat 745, 748; Day 1457 (Texas); not in Phillips.
+Georeferencer Status	georeferenced
+Browse Title Sort	Die Ostindischen Inseln. (Lithographie, Druck und Verlag von C. Flemming in Glogau. 1855)
+Ownership Statement	Copyright 2007
+Obj Height cm	33
+Publisher	C. Flemming
+Pub Title	Vollstandiger Hand-Atlas der neueren Erdbeschreibung uber alle Theile der Erde in 82 Blattern herausgegben von Dr. K. Sohr. Vt. Auflage vermehrt und verbessert durch Dr. Heinrich Berghaus, Professor u. Director der geograph. Kunstschule zu Potsdam. Glogau und Leipzig 1855. Druck u. Verlag von C. Flemming. (with) Supplementband, 32 Blattern.
+Region	Southeast Asia
+Note	Hand colored lithographed map. Relief shown by hachures. Prime meridians: Paris and Ferro.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1855
+Short Title	Ostindischen Inseln.
+Pub Type	World Atlas
+Pub Height cm	37
+Authors	Berghaus, Heinrich; Flemming, Carl; Sohr, Karl
+World Area	East Indies
+List No	4765.075
+Media item filename	4765075.jpg
+Publication Author	[Berghaus, Heinrich, Flemming, Carl, Sohr, Karl]
+Image No	4765075
+Publisher Location	Glogau and Leipzig
+Page No	(72)
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0117/4765075.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	4765.000_078
+Full Title	Die Ostindischen Inseln. (Lithographie, Druck und Verlag von C. Flemming in Glogau. 1855)
+Obj Width cm	41
+Pub List No	4765.000
+Pub Maps	120
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

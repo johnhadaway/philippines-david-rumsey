@@ -1,0 +1,38 @@
+Date	1817
+Country	[Cambodia, Indonesia, Malaysia, Philippines]
+Series No	38
+Type	Atlas Map
+Reference	None found; not in Phillips.
+Pub Note	Rare atlas, also pub. by Wm. Faden & John Smith. Kirkwood engraved some of the maps for Thomson's General Atlas (Edinburgh, 1817), but we can find no record of this atlas in Phillips, Tooley, Jolly (1983-92) or anywhere else - except for a record of a sale in the Map Collector #42. Kirkwood used A. Arrowsmith's maps from Pinkerton's Geography as a base, and enlarged and filled in detail where he could. The result is striking: these maps are more than twice the size of Arrowsmith's and often carry considerably more detail. Outline color.
+Pub Width cm	42
+Scale 1	15,300,000
+Pub Reference	None found; not in Phillips.
+Author	Kirkwood, Robert
+Georeferencer Status	ungeoreferenced
+Obj Height cm	30
+Image Order	071 batch014
+Publisher	[Robert Kirkwood, John Smith & Son]
+Pub Title	Kirkwood's General Atlas ... Constructed from the best Authorities extant. Published as the Act directs by Robt. Kirkwood, Engraver, Edinburgh, John Smith & Son, Booksellers, Glasgow, & Wm. Faden, London. 1817. (title page) R. Kirkwood Script. & Sculpt.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1817
+Short Title	East India Islands.
+Pub Type	World Atlas
+Pub Height cm	33
+Authors	Kirkwood, Robert
+World Area	East Indies
+List No	2677.038
+Media item filename	2677038.jpg
+Publication Author	Kirkwood, Robert
+Image No	2677038
+Publisher Location	[Glasgow, London, Glasgow, London]
+Page No	36
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2677038.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2677.000_038
+Full Title	East India Islands.
+Obj Width cm	36
+Pub List No	2677.000
+Engraver or Printer	Robt. Kirkwood
+Pub Maps	45
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

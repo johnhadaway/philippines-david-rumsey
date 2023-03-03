@@ -1,0 +1,35 @@
+Date	1882
+Country	[Indonesia, Philippines, Malaysia, Papua]
+Series No	60
+Type	Atlas Map
+Pub Note	The color litho maps are by Edward Weller. Ten color litho plates illustrate the races of mankind. Extensive text. Relief shown in hachures. Full color. Gilt edging on pages.
+Pub Width cm	33
+Scale 1	9,600,000
+Author	Blackie, W.G.
+Georeferencer Status	ungeoreferenced
+Obj Height cm	37
+Image Order	000 batch016
+Publisher	Blackie & Son
+Pub Title	The Comprehensive Atlas & Geography Of The World: Comprising An Extensive Series Of Maps, A Description, Physical And Political, Of All The Countries Of The Earth; A Pronouncing Vocabulary Of Geographical Names, And A Copious Index Of Geographical Positions ... Compiled And Engraved From The Most Authentic Sources, Under The Supervision Of W.G. Blackie Ph.D., F.S.A. Scot. ... B. & S. Lucem Libris Disseminamus. London: Blackie & Son, 49 & 50 Old Bailey, E.C.; Glasgow, Edinburgh, And Dublin. 1882. (on verso) Glasgow: W.G. Blackie And Co., Printers, Villafield.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1882
+Short Title	Indian Archipelago.
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Blackie, W.G.
+List No	1589.060
+Media item filename	1589060.jp2
+Publication Author	Blackie, W.G.
+Image No	1589060.jp2
+Publisher Location	London
+Page No	41
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/1589060.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	1589.000_060
+Full Title	The Indian Archipelago.
+Obj Width cm	51
+Pub List No	1589.000
+Engraver or Printer	[Weller, Edwd., Bartholomew, J., W.D.C.]
+Pub Maps	67
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,35 @@
+Date	1948
+Country	[Indonesia, New Guinea, Philippines, Papua]
+Series No	45
+Type	Atlas Map
+Pub Note	Most maps in full color. Many maps have an identification number in a bottom corner - meaning unknown since they are sometimes repeated on different maps.
+Pub Width cm	35
+Scale 1	12,773,000
+Author	Hammond, C.S.
+Georeferencer Status	georeferenced
+Obj Height cm	27
+Image Order	batch004
+Publisher	Garden City Publishing Company, Inc.
+Pub Title	Hammond's New World Atlas. Containing New and Complete Historical, Economic, Political and Physical Maps of the Entire World in Full Colors with Complete Indexes and the Races of Mankind, Illustrated Gazetteer of the World, Illustrated Gazetteer of the United States and Territories. Garden City Publishing Company, Inc. Garden City, N.Y., U.S.A. 1948.
+Note	Includes a map of the Netherlands at the same scale as East India Islands.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1948
+Short Title	East India Islands.
+Pub Type	World Atlas
+Pub Height cm	52
+Authors	Hammond, C.S.
+List No	1954.045
+Media item filename	1954045.jpg
+Publication Author	Hammond, C.S.
+Image No	1954045
+Publisher Location	Garden City
+Page No	105
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/1954045.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1954.000_045
+Full Title	East India Islands. 19.
+Obj Width cm	44
+Pub List No	1954.000
+Pub Maps	277
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

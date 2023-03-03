@@ -1,0 +1,38 @@
+Date	1875
+Country	[Indonesia, Philippines]
+Series No	56
+Type	Atlas Map
+Reference	British Museum - World, p. 393.
+Pub Note	The last edition seen of the Brue Atlas Universal which began in 1822. There is an attempt to improve the American maps from the 1866 edition, but they are still ridiculously outdated. Nonetheless, this is a handsome relic of what was once a great atlas. Full color.
+Pub Width cm	35
+Scale 1	1,200,000
+Pub Reference	British Museum - World, p. 393.
+Author	[Brue, Adrien Hubert, 1786-1832, Levasseur, E.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	38
+Image Order	batch002
+Publisher	Institut Geographique de Paris
+Pub Title	Atlas Universel De Geographie Physique, Politique, Ancienne Et Moderne, Contenant Les Cartes Generales Et Particulieres De Toutes Les Parties Du Monde ... Dresse par A. Brue, Geographe. Nouvelle Edition Revue Par E. Levasseur ... Comprenant 66 Cartes Et 85 Cartouches Tenant Lieu D'Autant De Cartes. Intitut Geographique De Paris. Charles Delagrave, Editeur De La Societe De Geographie De Paris, 58, Rue Des Ecoles, 58. 1875 (on opposite) Paris. - J. Claye, Imprimeur, 7, Rue Saint-Benoit. - [1922]
+Note	Relief shown by hachures. Prime meridian Paris. Four scales. Possessions of Holland, Spain, Portugal, and others shown. Table of the mountains of Java keyed to map.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1875
+Short Title	Malaisie.
+Pub Type	World Atlas
+Pub Height cm	49
+Authors	Brue, A.H. ; Levasseur, E.
+List No	4607.048
+Media item filename	4607048.jpg
+Publication Author	[Levasseur, E., Brue, Adrien Hubert, 1786-1832]
+Image No	4607048
+Publisher Location	Paris
+Page No	49
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/4607048.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	4607.000_056
+Full Title	Carte de la Malaisie (Partie Nord-Ouest de l'Oceanie). Dresse par A. Brue, Geographe. Reoue par E. Levasseur, Membre de l'Institut, Institut Geographique de Paris. Ch. Delagrave. Editeur de la Societe de Geographie. 58 Rue des Ecoles. Atlas Universel en 67 feuilles No. 49.
+Obj Width cm	52
+Pub List No	4607.000
+Engraver or Printer	J. Claye
+Pub Maps	66
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

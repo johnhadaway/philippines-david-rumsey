@@ -1,0 +1,36 @@
+Date	1752
+Country	Philippines
+Series No	130
+Subject	[Navigation, Nautical Charts, Oceans; Seas]
+Type	Chart Map
+Reference	Les Fregates "La Surveillante" (1778-1779) et "La Nymphe" (1780), by M. A. KERNEIS, Bulletin de la Societe academique de Brest 1891-1892, pp. 55 to 112; Relation des combats et des evenements de la Guerre Maritime de 1778 entre la France et l'Angleterre, melee de reflexions sur les Manoeuvres des Generaux... By Yves-Joseph de Kerguelen de Tremarec, Paris, 1796 (P. 154-155-156) ; Phillips, Atlases 587-590, 4288; NMM 210; Shirley, British Library M.BELL-1a.
+Pub Note	Two volumes. Relief shown in hachures or sketches. In French. Title page has date 1765, used here as Pub Date and for the few undated sheets. Newest map sheet dated 1776. More from J.F. Letenneur: "The atlas was aboard the Nymphe, until then a French frigate, that cruised the English Chanel under the command of Chevalier du Rumain (1743-1780) who had come back from the Caribbean Sea, where he took part in the Battle of Martinique (1780) under La Motte Piquet’s command (cf. La France Maritime, vol. 2, p. 345). Monsieur de Kerneis, in his article of the “Bulletin de la société Academique de Brest” (1891-92), wrote that the Comte d’Estaing called Charles Marie de Trolong, chevalier du Rumain, the “Duguay-Trouin of his time” for his bravery. Du Rumain received the rank of Captain April 4, 1780 and commanded the Nymphe from May 8, 1780. He was killed when the English attacked his ship… The battle of the Nymphe against the Flora was deadly. The Flora, a new 36 gun frigate, carrying 18 pounders on her main deck, and an experimental addition of six 18 pound carronades, feel in with the Nymph that could carry 40 guns but was only mounted with 32. In the ensuing action the better armed Flora overpowered the larger French ship. Captain William Peere Williams (1742-1832), commander of the Flora, annotated the copy of the present atlas three times: at the beginning of each volume and the map of the English Channel and Ushant, showing the exact place of the battle… Beside the frigate, the English took what is certainly considered Bellin’s masterpiece. First hydrographer of the French Royal Navy, Jacques-Nicolas Bellin (1703-1772), spent 50 years of his life in the “Dépôt des Cartes et Plans”. His three major works are his version of the “Neptune François”, the “Petit Atlas Maritime”, and the present “Hydrographie Françoise”. This work is rarer than the other two, and was always being enhanced and updated. The maps, in large format print, are magnificent; the quality of the engraving exceptional. They were updated with the latest observations collected by Bellin, and show the mastery of the cartographer. Bellin indicated in the captions the history of the maps, their purpose and the routes taken by navigators that enabled their creation. The first volume is dedicated to Europe and Asia, the second to America and Africa. The copy includes three manuscript documents that relay positions and calculations of routes - two around Ushant, and the other is dated the very day of the battle."
+Pub Width cm	53
+Scale 1	2,625,000
+Author	Bellin, Jacques Nicolas, 1703-1772
+Georeferencer Status	ungeoreferenced
+Obj Height cm	89
+Image Order	.669 batch017
+Publisher	Chez M. Bellin
+Pub Title	L'Hydrographie Francoise Recueil des Cartes Generales et Particulieres qui ont ete Faites pour le Service des Vaisseaux du Roy. Par ordre des Ministres de la Marine depuis 1737. jusqu'en 1765. Par le S. Bellin Ingenieur de la Marine et du Depost des Cartes, Plans et Journaux de la Marine, Censeur Royal, de l'Academie de Marine et de la Societe Royale de Londres. Premiere Partie Contenant Les Cartes Marines pour l'Europe et l'Asie. Seconde Partie Contenant Les Cartes Marines pour l’Afrique et l’Amérique. A Paris chez M. Bellin, rue du Doyennen pres St. Louis du Louvre.
+Note	From J.F. Letenneur: "Exceptional onboard document of this rare and fabulous maritime atlas, a masterpiece by the greatest French hydrographer of the 18th century, with maps of all the coastlines known at the time. Bound with the coat of arms of the King of France, the atlas was taken by the English aboard the frigate la Nymphe, off the coasts of Ushant August 10, 1780, during one of the naval battles of the American War of Independence which took place on European waters. In the context of the war at the end of the 18th century, and of the rivalry between the French and British Navy, maritime atlases, were strategic tools, and this “Hydrographie Françoise” more so than any other, because its purpose was to provide the best maritime charts for the French ships that were fighting on the American side against the British. (The handwritten captions throughout most of the atlas are prices for individual maps and all include the same mention: “for sailors”). These atlases were not the kind to be kept in a library, but precious tools, based on the observations of the travelers and continuously improved upon, as reflect in the present copy. It was bound with the engraved title page of the edition of 1737-1765, but the index includes maps printed after 1765 (until 1772), and the copy was augmented by six maps that do not appear in the index (until 1776), as well as 14 pages of text from the Versailles edition of 1773. The later maps are signed by Verdun de la Crenne and were done during the campaigns of the Flore (1771-1772) and of the Isis led by Fleurieu in 1768-1769. The captions explain that the maps were created using the latest technology of the day that could measure longitude (maritime clocks)." (Continued in the Pub Note field).
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1765
+Short Title	Carte Reduite des Isles Philippines.
+Pub Type	Chart Atlas
+Pub Height cm	66
+Authors	Bellin, Jacques Nicolas, 1703-1772
+List No	12059.130
+Media item filename	12059130.jp2
+Publication Author	Bellin, Jacques Nicolas, 1703-1772
+Image No	12059130.jp2
+Publisher Location	Paris
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/12059130.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12059.000_130
+Full Title	Carte Reduite des Isles Philippines.
+Obj Width cm	56
+Pub List No	12059.000
+Pub Maps	109
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

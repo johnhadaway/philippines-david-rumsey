@@ -1,0 +1,34 @@
+Date	1944
+Country	Philippines
+Series No	1
+Subject	[Agriculture, Mining and Minerals]
+Type	Newspaper Map
+Pub Note	Loose page from Sunday News. Sundberg was a staff artist at the Sunday News. Color.
+Pub Width cm	38
+Author	Sundberg, Edwin L.
+Georeferencer Status	ungeoreferenced
+Obj Height cm	55
+Image Order	.544 batch017
+Publisher	Sunday News.
+Pub Title	Sunday News.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1944
+Short Title	The Philippines - MacArthur's Objective. June 11, 1944.
+Pub Type	Newspaper
+Pub Height cm	55
+Authors	Sundberg, Edwin L.
+List No	12266.000
+Event	World War II
+Media item filename	12266000.jp2
+Publication Author	Sundberg, Edwin L.
+Image No	12266000.jp2
+Publisher Location	(New York)
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/12266000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12266.000_001
+Full Title	The Philippines - MacArthur's Objective. June 11, 1944.
+Obj Width cm	38
+Pub List No	12266.000
+Pub Maps	1
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

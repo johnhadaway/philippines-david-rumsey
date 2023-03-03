@@ -1,0 +1,39 @@
+Date	1892
+Country	[Indonesia, Philippines]
+Series No	53
+Type	Atlas Map
+Reference	P964 (1891 edition).
+Collection	Rumsey Collection
+Pub Note	Philips listing under Desbuissons. Other Phillips editions in 1891 and 1898. See our 1902 edition. A late date for an atlas to have hand colored maps, as this does. With a large folding railroad map of Europe in the back. The vignette views are on every map and are very attractive. Full color maps. Atlas is bound in red cloth covered boards with "Nouvel Atlas Illustre. Geographie Universelle." stamped in gold on the front cover and spine.
+Pub Width cm	32
+Scale 1	14,400,000
+Pub Reference	P964 (1891 edition).
+Author	[Desbuissons, L.E., Migeon, J.]
+Georeferencer Status	georeferenced
+Ownership Statement	Copyright 2009
+Obj Height cm	34
+Publisher	Direction & Administration.
+Pub Title	Nouvel Atlas Illustre Geographie Universelle. Comprenant La Geographie, L'Histoire, L'Administration, La Statistique, Etc. Scientifique, Industriel Et Commercial Dresse, Dessine Et Grave Par Mm. Desbuissons, Lorsignol, Lacoste, Fillatreau, Lecocq, Smith, Bizet, Fontaine, Barbier, Soudain, Etc. Texte par M.A. Martineau. 1892. Paris, Direction Et Administration, 11, Rue Du Moulin-Vert, 11.
+Note	Full color by state. Relief shown by hachures. Vignette of Saigon, Palais du Gouvernement.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1892
+Short Title	Indo-Chine et Archipel D'Asie.
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Migeon, J.; Desbuissons, L.E.
+List No	0507.050
+Media item filename	0507050.jpg
+Publication Author	[Desbuissons, L.E., Migeon, J.]
+Image No	0507050
+Publisher Location	Paris
+Page No	49
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0120/0507050.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0507.000_053
+Full Title	Indo-Chine et Archipel D'Asie. Grave par L. Smith. Dresse Sous La Direction De J. Migeon Par Ch. Lacoste. Migeon, editeur, imp, r. du Moulin Vert, Paris. Ecrit par A. Bizet. (1892). Fillatreau del. and Soudain sc. (for vignette).
+Obj Width cm	43
+Pub List No	0507.000
+Engraver or Printer	[Fillatreau, Smith, L., Soudain]
+Pub Maps	66
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

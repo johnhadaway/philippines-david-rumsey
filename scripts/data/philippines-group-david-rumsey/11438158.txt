@@ -1,0 +1,38 @@
+Date	1683
+Country	[Indonesia, Philippines, New Guinea]
+Series No	158
+Subject	Classical
+Type	Atlas Map
+Pub Note	A fine example of De Rossi's atlas, in 2 volumes, similar to Coronelli's atlas of the same period, with engraved decorative title page. Includes 150 engraved outline hand colored maps with decorative title cartouche, on 181 sheets. Some maps having 2-4 page numbers. Index includes plates 1-95 of the first volume, and plates 96-181 in the second volume. Maps dated between 1669 and 1715, issued by Giov. Giac. de Rossi and Domenico de Rossi, they are mainly derived from Cantelli da Vignola's maps, an important seventeenth-century cartographer who pioneered the Italian style of fine bold engraving that would eventually be embraced and expanded upon by Vincenzo Coronelli, and Nicolas Sanson (20 December 1600 – 7 July 1667) a French cartographer, termed by some the creator of French geography. Maps engraved by Baudrand, Franciscus Donia, G.B. Falda, Jean Lhuilier, Vin Mariotti, Gasparo Pietro Santa, Salomon Rogiers, & Giorgio Widman, Lubin, Titi, Ameti, Magini and Mattei. Bound in blue half leather binding. Giovanni Giacomo De Rossi (1627 - 1691) was an Italian printer and publisher active in 17th century Rome. Giovanni inherited the important Rome based printing business originally founded by his father, Giuseppe de Rossi (1570-1639). By the mid-17th century the Rossi firm was considered the most active and important press in Rome.
+Pub Width cm	49
+Scale 1	12,300,000
+Author	[Rossi, Giovanni Giacomo de, 1627-1691, Cantelli, Giacomo, 1643-1695, Rossi, Domenico de, 1647-1729, Widman, Giorgia]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	44
+Image Order	.624 batch017
+Publisher	Domenico de Rossi
+Pub Title	Mercurio Geografico overo Guida Geografica in tutte le parti del Mondo, conforme le tavole geografiche del Sansone, Baudrand e Cantelli. Data in luce con direttione, e cura di Gio. Giacomo de Rossi nella sua stamperia in Roma alla Pace, all'insegna di Parigi con Priu: del S. Pont. Tomo Primo. (Half title) La guida del Mercurio geografico per tutte le parte del mondo. Mercurio geografico overo Guida geografica in tutte le parti del mondo conforme le tavole di Giacomo Cantelli da Vignola geografo del Sereniss. Signor Duca di Modena intagliate albulino dà Antonio Barbey. Tomo secondo dato in luce con direttione e cura da Domenico de Rossi erede di Gio. Giacomo de Rossi nella sua stamperia in Roma alla Pace con privilegio del Sommo Pontifice et licenza de superiori l'anno 1692.
+Region	Oceania
+Note	Outline hand colored Detailed map of Southeast Asia and north coast of Australia, with decorative title cartouche. Relief shown pictorially. Shows administrative divisions, cities, towns, rivers and mountains. Includes notes. Pagination is not continuous, see the index.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1692
+Short Title	Isole dell' India cioe le Molucche, le Filippine e della Sonda
+Pub Type	World Atlas
+Pub Height cm	60
+Authors	Rossi, Giovanni Giacomo de, 1627-1691; Cantelli, Giacomo, 1643-1695; Rossi, Domenico de, 1647-1729; Widman, Giorgia
+World Area	Asia
+List No	11438.158
+Media item filename	11438158.jp2
+Publication Author	[Rossi, Giovanni Giacomo de, 1627-1691, Cantelli, Giacomo, 1643-1695, Rossi, Domenico de, 1647-1729, Widman, Giorgio]
+Image No	11438158.jp2
+Publisher Location	Roma
+Page No	178
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/11438158.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11438.000_158
+Full Title	Isole dell' India cioe le Molucche, le Filippine e della Sonda : Parte de Paesi di nuoua scoperta e l' Isole de Ladri nel Mare del Zud : descritte da Giacomo Cantelli da Vignola, su l'Esemplare delle carte piu esatte con l'aggion: ta di nuoue notizie cauate da gl'itinerary modernii; e data in luce Da Gio : Giacomo de Rossi alla Pace con Priu. del S. Pont. 1683. Franus Donia Mefsis, Sculp. (To accompany) Mercurio geografico overo Guida geografica in tutte le parti del mondo conforme le tavole di Giacomo Cantelli da Vignola ... Tomo secondo ... l'anno 1692. (Map 178).
+Obj Width cm	56
+Pub List No	11438.000
+Pub Maps	150
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

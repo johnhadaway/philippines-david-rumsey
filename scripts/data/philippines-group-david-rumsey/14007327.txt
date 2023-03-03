@@ -1,0 +1,35 @@
+Date	1859
+Country	Philippines
+Series No	327
+Subject	Religions
+Type	Atlas Map
+Pub Note	Three-volume ecclesiastical atlas from 1859, showing the geographical reach of the Catholic church around the world, in 138 maps featuring ecclesiastical provinces, dioceses and apostolic vicariates. Includes table of contents in each volume. Volume I contains 45 maps; Volume II contains 53 maps; Volume III contains 40 maps, amounting to a total of 138 maps. Short titles for maps and text transcribed from tables of contents; full titles transcribed from map and text pages. Volume III table of contents contains extended titles, which refer to sections in the descriptive text accompanying maps. Four maps of Spain do not appear in atlas, but descriptive text is present: Tav. XLVII, XLVIII, XLIX and L in Volume II.
+Pub Width cm	82
+Pub Reference	For additional descriptive text, see the three volumes published along with the atlases, click here to download: https://rumsey3.s3.amazonaws.com/L_orbe_cattolico_ossia_atlante_geografic_vol_1_2_3.pdf
+Author	Petri, Girolamo
+Obj Height cm	47
+Image Order	.2764 batch018
+Publisher	Tipografia della Reverenda Camera Apostolica
+Pub Title	L'Orbe cattolico ossia atlante georgrafico storico ecclesiastico opera del commendatore Girolamo Petri, officiale minutante nella segreteria di stato.
+Note	Hand-colored, engraved map showing the ecclesiastical provinces of Manila in the Philippines. With inset: (Isole Marianne). Text in delicate script circling land. Accompanied by descriptive text on facing page. In Volume III.
+City	Manila (Philippines)
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1859
+Short Title	Tav. CXXXV. Isole Filippine. Prov. eccl. di Manila.
+Pub Type	[World Atlas, Religious Atlas]
+Pub Height cm	59
+Authors	Petri, Girolamo
+List No	14007.327
+Media item filename	14007327.jp2
+Publication Author	Petri, Girolamo
+Image No	14007327.jp2
+Publisher Location	Rome
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/185/14007327.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	14007.000_327
+Full Title	Tav. CXXXV. Provincia ecclesiastica di Manila nelle Isole Filippine.
+Obj Width cm	59
+Pub List No	14007.000
+Pub Maps	138
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

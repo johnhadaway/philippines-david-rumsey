@@ -1,0 +1,36 @@
+Date	1703
+Country	Philippines
+Series No	122
+Type	Atlas Map
+Pub Note	Pub Date of 1717 based upon newest map sheet in the atlas. In French. Full color. Relief shown in sketches, shading, and hachures. This is a special composite single volume of maps from the normally two volume Atlas Curieux issued in 1714 as the Suite de Atlas Curieux. It includes most of the regional and country maps from both volumes with none of the city maps, views, or plans. The color is extraordinary, more elaborate and exquisite that most of the examples we have seen.
+Pub Width cm	43
+Author	Fer, Nicolas de, 1646-1720
+Georeferencer Status	ungeoreferenced
+Obj Height cm	23
+Image Order	.632 batch017
+Publisher	Chez l'Auteur
+Pub Title	L'Atlas Curieux ou le Monde Represente ans des Cartes Generales et Particulieres du Ciel et de la Terre: Divise tant en ses Quatre Principales Parties que par Etats et Provinces et Orne ... a Paris chez l'Auteur ... 1705.
+Region	Southeast Asia
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1717
+Short Title	Les Isles Philippines ... l'Inde.
+Pub Type	World Atlas
+Pub Height cm	29
+Authors	Fer, Nicolas de, 1646-1720
+World Area	East Indies
+List No	12201.122
+Media item filename	12201122.jp2
+Publication Author	Fer, Nicolas de, 1646-1720
+Image No	12201122.jp2
+Publisher Location	Paris
+Page No	111
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/12201122.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12201.000_122
+Full Title	Les Isles Philippines ... l'Inde.
+Obj Width cm	34
+Pub List No	12201.000
+Engraver or Printer	C. Inselin
+Pub Maps	98
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

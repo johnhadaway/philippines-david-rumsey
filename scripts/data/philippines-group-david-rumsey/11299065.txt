@@ -1,0 +1,37 @@
+Date	1599
+Country	[Indonesia, Philippines]
+Series No	65
+Subject	Classical
+Type	Atlas Map
+Pub Note	Ruscelli's Italian translation from the Greek of Ptolemy's Geographia. The fourth edition of Ruscelli's Ptolemy, revised, enlarged, and edited by Giuseppe Rosaccio, 4 parts in one volume, with 69 engraved double-page uncolored maps, five entirely new maps, including one of the Americas. With various pagination, showing landmarks, rivers, ports, fortifications, major cities and towns, some with decorative cartouches, illustrations of sea monsters and ships. Relief shown pictorially. Bound in full leather covers. Claudius Ptolemy (90-168 CE) was a Roman geographer and mathematician living in Egypt, who compiled his knowledge and theories about the world's geography into one seminal work. Although his maps did not survive, his mathematical projections and location coordinates did. Girolamo Ruscelli (c. 1504-1566) was a Venetian editor, whose maps are primarily based on those by Jacopo Gastaldi (1548) but with many of his own additions and reproduced on a larger scale. Ruscelli introduces several important innovations in this volume through his 37 "modern" maps, which cover Europe, Africa, Asia and the New World. Ruscelli includes a double hemisphere world map, which was the first of its kind to be used in an atlas, and "Carta Marina Nuova Tavola", a rare sea chart of the world.
+Pub Width cm	20
+Scale 1	30,000,000
+Author	[Ptolemy, Claudius, Ruscelli,Girolamo, Rosaccio, Giuseppe]
+Georeferencer Status	georeferenced
+Obj Height cm	19
+Image Order	.651 batch017
+Publisher	Appresso gli heredi di Melchior Sessa
+Pub Title	Geographia di Clavdio Tolomeo alessandrino, tradotta di Greco nell'idioma volgare Italiano da Girolamo Ruscelli ; et hora nuouamente ampliata da Gioseffo Rosaccio, con varie annotationi, & espositioni, & tauole di rame ... ; et vna geografia vniuersale del medesimo, separata da quella di Tolomeo ... ; et vna breue descrittione di tutta la terra, distinta in quattro libri ... ; con due indici copiosissimi di tutto quello, che di notabile si contiene nell opera. Conlicentia, et privilegio. In Venetia, MDXCIX (1599) Appresso gli heredi di M. Sessa.
+Region	Southeast Asia
+Note	Engraved map of Southeast Asia. Relief shown pictorially.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1599
+Short Title	India Tercera Nuova Tavola
+Pub Type	World Atlas
+Pub Height cm	24
+Authors	Ptolemy, Claudius; Ruscelli,Girolamo; Rosaccio, Giuseppe
+List No	11299.065
+Media item filename	11299065.jp2
+Publication Author	[Ptolemy, Claudius, Ruscelli,Girolamo, Rosaccio, Giuseppe]
+Image No	11299065.jp2
+Publisher Location	Venetia
+Page No	122
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/166/11299065.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11299.000_065
+Full Title	India Tercera Nuova Tavola. Descrittione dell' Asia. Libro Trezo. (to accompany) Geographia di Clavdio Tolomeo alessandrino, tradotta di Greco nell'idioma volgare Italiano da Girolamo Ruscelli ... In Venetia, MDXCIX (1599) Appresso gli heredi di M. Sessa.
+Obj Width cm	25
+Pub List No	11299.000
+Pub Maps	69
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

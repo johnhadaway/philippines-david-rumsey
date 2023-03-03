@@ -1,0 +1,39 @@
+Date	1797
+Country	Philippines
+Series No	44
+Type	View
+Collection	Rumsey Collection
+Pub Note	La Perouse set sail from France in 1785 to continue the discoveries of Captain Cook. He was shipwrecked in 1788 but his narrative, maps, and views survived and were published in 1797. This copy consists of the Atlas only to the First French edition. It is an exceptional copy, with very strong impressions. It should be compared to the smaller English Atlas of 1799. Maps are without color and bound in half leather brown marbled paper covered boards with "La Perouse's Voyages. Atlas" stamped in gilt on the spine. Issued to accompany: Voyage de la Perouse autour du monde ... an V (1797)
+Pub Width cm	41
+Publication Author Initial Sort	La Perouse, Jean-Francois de Galaup, comte de, 1741-1788
+Pub Reference	Phillips, 688; Howes. U.S.iana, 93; Mickwitz. A.E. Nordenskiold Collection ... annotated catalogue of maps made up to 1800, v.2 no. 133.
+Author	[Duche de Vancy, Gaspard, La Perouse, Jean-Francois de Galaup, comte de, 1741-1788]
+Browse Title Sort	Costumes des habitans de Manille. Dessine par Duche de Vancy. Grave par Dupreel. L. Aubert scripsit. Atlas du Voyage de la Perouse, no. 42. (Paris: L'Imprimerie de la Republique, An V, 1797)
+Ownership Statement	Copyright 2005
+Obj Height cm	27
+Publisher	L'Imprimerie de la Republique
+Pub Title	Atlas du voyage de La Perouse. (title page only) Dessine par J. M. Moreau le Jeune. Grave par Ph. Triere. L. Aubert scripsit.
+Note	Engraved view.
+City	Manila (Philippines)
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1797
+Short Title	Costumes, Manille.
+Pub Type	[Chart Atlas, World Atlas]
+Pub Height cm	56
+Authors	Duche de Vancy, Gaspard ; La Perouse, Jean-Francois de Galaup, comte de, 1741-1788
+List No	3355.042
+Media item filename	00550042.jpg
+Publication Author	La Perouse, Jean-Francois de Galaup, comte de, 1741-1788
+Image No	3355042
+Publisher Location	Paris
+Page No	No. 42
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0055/3355042.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	3355.000_044
+Full Title	Costumes des habitans de Manille. Dessine par Duche de Vancy. Grave par Dupreel. L. Aubert scripsit. Atlas du Voyage de la Perouse, no. 42. (Paris: L'Imprimerie de la Republique, An V, 1797)
+Obj Width cm	41
+Pub List No	3355.000
+Engraver or Printer	Dupreel
+Pub Maps	34
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

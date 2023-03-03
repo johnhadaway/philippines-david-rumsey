@@ -1,0 +1,38 @@
+Date	1903
+Country	Philippines
+Series No	258
+Type	Atlas Map
+Reference	P1088.
+Collection	Rumsey Collection
+Pub Note	33rd edition. Maps change from the 1890's editions - they are now similar to the Large Indexed Atlas (see our 1908). Full printed color maps.
+Pub Width cm	41
+Scale 1	2,280,000
+Pub Reference	P1088.
+Author	Rand McNally and Company
+Georeferencer Status	georeferenced
+Ownership Statement	Copyright 2009
+Obj Height cm	70
+Publisher	Rand McNally and Company
+Pub Title	Rand McNally & Co.'s Enlarged Business Atlas And Shippers' Guide ... Showing In Detail The Entire Railroad System ... Accompanied By A New And Original Compilation And Ready Reference Index ...Together With Complete Reference Maps Of All Countries With New Marginal Index ... Engraved, Printed, And Published By Rand, McNally & Company, Chicago, U.S.A., 1903. (on verso) ... Copyright, 1903, by Rand, McNally & Co.
+Note	Relief shown by hachures. Five insets.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1903
+Short Title	Philippines.
+Pub Type	National Atlas
+Pub Height cm	53
+Authors	Rand McNally and Company
+List No	2844.101
+Media item filename	2844101.jpg
+Publication Author	Rand McNally and Company
+Image No	2844101
+Publisher Location	Chicago
+Page No	444-445
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0121/2844101.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2844.000_258
+Full Title	Rand, McNally & Co.'s Philippine Islands. (with) Manila to Dagupan. (with) Manila. (with) Continuation of Sulu Archipelago. (with) Philippine Islands and the China Sea. (with) Batanes (Bashee) and Babuyanes Is.
+Obj Width cm	50
+Pub List No	2844.000
+Pub Maps	102
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

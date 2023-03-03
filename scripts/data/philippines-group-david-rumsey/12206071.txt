@@ -1,0 +1,34 @@
+Date	1846
+Country	[Indonesia, Philippines, Vietnam]
+Series No	71
+Type	Atlas Map
+Pub Note	Relief shown in hachures. Outline color.
+Pub Width cm	47
+Scale 1	10,900,000
+Author	[Handtke, F., Flemming, Carl, Sohr, Karl]
+Georeferencer Status	not_found
+Obj Height cm	34
+Image Order	.522 batch017
+Publisher	Carl Flemming
+Pub Title	Vollstaendiger Universal - Handatlas der neueren Erdbeschreibung ueber alle Theile der Erde in 110 Blaettern. Herausgegeben von Dr. K. Sohr und F. Handtke. Leipzig und Glogau. Druck und Verlag von Carl Flemming. 1846.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1846
+Short Title	Die Ostindischen Inseln.
+Pub Type	World Atlas
+Pub Height cm	37
+Authors	Handtke, F.; Flemming, Carl; Sohr, Karl
+World Area	East Indies
+List No	12206.071
+Media item filename	12206071.jp2
+Publication Author	[Sohr, Karl, Flemming, C., Handtke, F.]
+Image No	12206071.jp2
+Publisher Location	[Glogau, Leipzig]
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12206071.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12206.000_071
+Full Title	Die Ostindischen Inseln.
+Obj Width cm	41
+Pub List No	12206.000
+Pub Maps	95
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

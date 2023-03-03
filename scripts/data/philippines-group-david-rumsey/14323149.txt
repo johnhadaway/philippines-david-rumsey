@@ -1,0 +1,34 @@
+Date	1680
+Country	Philippines
+Series No	149
+Type	[Text Page, Atlas Map]
+Pub Note	Geography rectified: or, a description of the world : in all its kingdoms … First edition of pocket world atlas by Robert Morden, published in London, 1680. Quarto. 20th-century full calf; spine in five compartments separated by raised bands. Blank first and last pages added later. Title page stamped: Ex Biblioteca Edmundi Duaci. Collation: 4° : [1], A⁴, a², B-Cc⁴, Cc², Aaa-Zzz⁴, [1] pages. Pagination: [1], 1-204, 241-418, [1]. Pages 205-240 appear to have been omitted; signatures discontinue here. No references to these pages appear elsewhere within the volume. Numerous pagination misprints throughout, and continuously from page 289 through the remainder of the volume. Atlas contains 65 maps, including two maps on page 322 - West Barbarie and East Barbarie - which the table of contents lists simply as Of Barbary. Maps show international and administrative political boundaries, cities, routes, topography, drainage, coastlines, islands and other features of regions around the world, such as the Great Wall of China (page 295) and the indigenous peoples of the Bermuda Islands (page 401). Maps include indexes, compass roses and bar scales, as well as latitudinal and longitudinal lines. Atlas also provides a dedication, note to the reader, advertisement for other maps and an introduction to geography, as well as lengthy accompanying text for each map. Robert Morden (1650-1793) was a British map and globe maker. Little is known about his early life, although he was most likely apprenticed to Joseph Moxon. By 1671, Morden was working from the Atlas on Cornhill, the same address out of which Moxon had previously worked. Most famous for his English county maps, his geography texts, and his wall maps, Modern entered into many partnerships during his career, usually to finance larger publishing projects. Provenance: Verso of back cover contains manuscript annotations possibly indicating that the atlas was in the possession of a French bookseller in 1968, who deemed the work "very rare."
+Pub Width cm	17
+Pub Reference	Reference: Burden 519-524
+Author	[Morden, Robert, approximately 1650-1703, Cockerill, Thomas, active 1674-1702]
+Obj Height cm	20
+Image Order	.2630 batch018
+Publisher	Atlas in Cornhill
+Pub Title	Geography rectified: or, a description of the world : In all its kingdoms, provinces, countries, islands, cities, towns, seas, rivers, bayes, capes, ports; their antient and present names, inhabitants, situations, histories, customs, governments, &c. As also their commodities, coins, weights, and measures, compared with those at London. Illustrated with above sixty new maps. The whole work performed according to the more accurate discoveries of modern authors. By Robert Morden. London, printed for Robert Morden and Thomas Cockeril. At the Atlas in Cornhill, and at the three Legs in the Poultrey over against the Stock-Market. 1680.
+Note	Map of the Philippines. Map includes title cartouche: The Philipine Isles, by Robt. Morden. Shows political boundaries, cities, topography, drainage, coastlines and islands. Relief shown pictorially. Contains latitudinal and longitudinal lines. Map is 11 x 13 cm, on sheet 15 x 20 cm. Accompanied by descriptive text - The Phillipine Islands - on page 313.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1680
+Short Title	(Philippines) Text: Of the Isles in the Indian Seas (4).
+Pub Type	World Atlas
+Pub Height cm	21
+Authors	Morden, Robert, approximately 1650-1703; Cockerill, Thomas, active 1674-1702
+List No	14323.149
+Media item filename	14323149.jp2
+Publication Author	[Morden, Robert, approximately 1650-1703, Cockerill, Thomas, active 1674-1702]
+Image No	14323149.jp2
+Publisher Location	London
+Page No	312-313
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/14323149.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	14323.000_149
+Full Title	(Text Page to) Of the Isles in the Indian Seas (4).
+Obj Width cm	30
+Pub List No	14323.000
+Pub Maps	63
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

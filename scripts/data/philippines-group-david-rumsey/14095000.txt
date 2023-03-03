@@ -1,0 +1,33 @@
+Date	1942
+Country	Philippines
+Subject	[Pictorial map, Military, Historical, Statistical, Data Visualization]
+Type	[Separate Map, Diagram]
+Pub Width cm	120
+Scale 1	45,000,000
+Author	News Map of the Week, Inc.
+Obj Height cm	56
+Image Order	.2799 batch018
+Publisher	News Map of the Week, Inc.
+Pub Title	World News of the Week : Monday, Apr. 20, 1942. Covering period Apr. 11 to 16. Volume 4, No. 33. Published and copyrighted (weekly), 1942, by News Map of the Week, Inc., 1512 Orleans Street, Chicago, Illinois. Published in two sections : Section one. Lithographed in U. S. A.
+Note	Lithographed world map, in color. Shows political boundaries and military events of World War II, from April 11 to 16, 1942. Relief illustrated with hachures. Descriptive text throughout, e.g.: Where some United Nations' ships were sunk. Map indexed according to historical notes beneath map. Features photographs, illustrations, and international time zones. With two inset maps: (Philippines) -- Vichy and the Axis - in Africa. Also, with two diagrams: Money in circulation in the United States -- Airplane production in U. S. Map is 56 x 115 cm, on sheet 89 x 120 cm, folded to 31 x 23 cm.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1942
+Short Title	World News of the Week : Monday, Apr. 20, 1942.
+Pub Type	Separate Map
+Pub Height cm	89
+Authors	News Map of the Week, Inc.
+World Area	[World, Africa]
+List No	14095.000
+Event	World War II
+Media item filename	14095000.jp2
+Publication Author	News Map of the Week, Inc.
+Image No	14095000.jp2
+Publisher Location	Chicago
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/185/14095000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	14095.000_000
+Full Title	World News of the Week : Monday, Apr. 20, 1942. Covering period Apr. 11 to 16. Volume 4, No. 33. Published and copyrighted (weekly), 1942, by News Map of the Week, Inc., 1512 Orleans Street, Chicago, Illinois. Published in two sections : Section one. Lithographed in U. S. A.
+Obj Width cm	115
+Pub List No	14095.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,40 @@
+Date	1824
+Country	[Australia, New Zealand, Philippines]
+Series No	53
+Subject	Classical
+Type	Atlas Map
+Reference	cfP6043.
+Pub Note	This is the second edition and includes the extra map of the Arctic and two extra maps of Australia. The text adds a section on Voyages of Discovery. Two additional maps are laid in, one of South America, the other of Mexico. Half leather paper-covered boards with label pasted on front printed with title.
+Pub Width cm	28
+Scale 1	37,000,000
+Pub Reference	cfP6043.
+Author	[Thomson, John, Wyld, James, 1790-1836]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	26
+Image Order	batch012
+Publisher	John Thomson
+Pub Title	A General Atlas, Containing Maps illustrating some important periods in Ancient History; and distinct Maps of the several Empires, Kingdoms and States In The World, From Original Drawings according to the latest Treaties by J. Wyld and Engraved by N.R. Hewitt. Edinburgh, Printed for John Thomson & Co for Baldwin, Cradock & Joy, London & John Cumming, Dublin.
+Region	[East Indies, Southeast Asia]
+Note	Detailed map, with outline colored boundaries. Shows provinces, and settlements. With a vignette "View of New Zealand". The atlas is the second edition and includes the extra map of the Arctic and two extra maps of Australia. The text adds a section on Voyages of Discovery. Two additional maps are laid in, one of South America, the other of Mexico. Each map has a small vignette illustrating a subject related to the map. Half leather paper-covered boards with label pasted on front printed with title. Prime meridian is Greenwich. Relief shown pictorially.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1824
+Short Title	East India Isles and Australia
+Pub Type	World Atlas
+Pub Height cm	37
+Authors	Wyld, James, 1790-1836; Thomson, John
+List No	2713.053
+Media item filename	2713053.jpg
+Publication Author	[Wyld, James, 1790-1836, Thomson, John]
+Image No	2713053
+Publisher Location	Edinburgh
+Page No	32
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2713053.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2713.000_053
+Full Title	East India Isles & Australia. Drawn by J. Wyld. (engraved by) Hewitt Sc. ... Published by John Thomson & Co. Edinburgh. (to accompany) A General Atlas, Containing Maps illustrating some important periods in Ancient History; and distinct Maps of the several Empires, Kingdoms and States In The World, From Original Drawings according to the latest Treaties by J. Wyld and Engraved by N.R. Hewitt. Edinburgh, Printed for John Thomson & Co for Baldwin, Cradock & Joy, London & John Cumming, Dublin.
+Obj Width cm	37
+Pub List No	2713.000
+Engraver or Printer	[Lizars, W.H., Hewitt, N.R.]
+Pub Maps	46
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

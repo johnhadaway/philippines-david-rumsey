@@ -1,0 +1,35 @@
+Date	1904
+Country	[Philippines, Indonesia, Thailand, Vietnam]
+Series No	146
+Type	Atlas Map
+Pub Note	Outline color. Relief shown in hachures. Alphabetical Index not scanned.
+Pub Width cm	28
+Scale 1	12,500,000
+Author	[Stieler, Adolf, Barich, C.]
+Georeferencer Status	not_found
+Obj Height cm	37
+Image Order	.531 batch017
+Publisher	Justus Perthes
+Pub Title	Stielers Hand-Atlas. 100 Karten in Kupferstich mit 162 Nebenkarten herausgegeben von Justus Perthes' Geographischer Anstalt in Gotha. Neunte, von Grund aus Neubearbeitete und Neugestochene auflage. Gotha: Justus Perthes. 1905.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1905
+Short Title	66. Hinter-Indien u. Archipel.
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Stieler, Adolf; Barich, C.
+World Area	East Indies
+List No	0961.146
+Media item filename	0961146.jp2
+Publication Author	Stieler, Adolf
+Image No	0961146.jp2
+Publisher Location	Gotha
+Page No	66
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/0961146.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	0961.000_146
+Full Title	66. Hinter-Indien u. Archipel.
+Obj Width cm	43
+Pub List No	0961.000
+Pub Maps	100
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

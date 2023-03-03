@@ -1,0 +1,37 @@
+Date	1865
+Country	[Indonesia, Philippines, Thailand, Vietnam]
+Series No	52
+Type	Atlas Map
+Reference	cf P3559.
+Pub Note	Hand colored; Geological map of England; star maps. Very interesting atlas. Has a map showing the U.S./Canadian border dispute around the San Juan Islands in Washington State. Relief in hachures. Tabs for each map section.
+Pub Width cm	40
+Scale 1	10,800,000
+Pub Reference	cf P3559.
+Author	Society for the Diffusion of Useful Knowledge (Great Britain)
+Georeferencer Status	georeferenced
+Obj Height cm	38
+Image Order	051 batch015
+Publisher	Edward Stanford
+Pub Title	The Family Atlas Containing Eighty Maps, Constructed By Eminent Geographers, And Engraved On Steel, Under The Superintendence Of The Society For The Diffusion Of Useful Knowledge, Including The Geological Map Of England And Wales, By Sir I. Murchison, F.R.S., The Star Maps By Sir John Lubbock, Bart. And The Plans Of London And Paris, With The New Discoveries And Other Improvements To The Latest Date. And An Alphabetical Index. London: Edward Stanford, 6, Charing Cross. 1865.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1865
+Short Title	Asiatic Archipelago.
+Pub Type	World Atlas
+Pub Height cm	46
+Authors	Society for the Diffusion of Useful Knowledge (Great Britain)
+List No	2326.052
+Media item filename	2326052.jpg
+Publication Author	Society for the Diffusion of Useful Knowledge (Great Britain)
+Image No	2326052
+Publisher Location	London
+Page No	49
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2326052.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2326.000_052
+Full Title	Asiatic Archipelago.
+Obj Width cm	43
+Pub List No	2326.000
+Engraver or Printer	[J. & C. Walker, Murchison, I., Lubbock, John, Smith, Philip, Woodward, S.P., Key, T. Hewett]
+Pub Maps	76
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

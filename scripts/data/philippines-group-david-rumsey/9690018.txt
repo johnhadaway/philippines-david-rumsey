@@ -1,0 +1,36 @@
+Date	1600
+Country	[India, Indonesia, Philippines, China]
+Series No	18
+Type	Atlas Map
+Reference	P411. Facsimile: Theatum Orbis Terrarum. Matthias Quad, Geographisch Handtbuch. Fourth Series - Volume VI. Cologne 1600. Published in the U.S.A. by Rand McNally & Company, Chicago. Distributed in Great Britain and the Commonwealth by George Philip & Son Limited, London. With an Introduction by Wilhelm Bonacker. Published by Theatrum Orbis Terrarum Ltd. Amsterdam MCMLXIX (1969).
+Pub Note	Matthias Quad was a map publisher based in Cologne, Germany. but had lived and was trained in the Netherlands. His first atlas was Europae...Descriptio of 1592 with 38 maps, expanded to 50 maps in 1594. This was expanded again in 1600 to this Geographisch Handtbuch with 82 maps. These books were both smaller pocket atlases intended to be less expensive alternatives to the larger folio atlases of Ortelius, Mercator, and De Jode, which also provided the source maps for Quad's atlas maps. Quad embellished his maps with scenes, portraits and other illustrations that make them rather unique. The Geographisch Handtbuch was the first atlas originally written with German text. Quad also produced larger single sheet maps, including a map of Europe in the form of a Queen (1587) and city plans for the Braun and Hogenberg Civitates Orbis Terrarum. In 1608 Quad published a third atlas with 86 maps, Fasciculus Geographicus.
+Pub Width cm	19
+Scale 1	30,000,000
+Author	Quad, Matthias, 1557-1613
+Georeferencer Status	ungeoreferenced
+Obj Height cm	19
+Image Order	.996 batch017
+Publisher	Iohan Buxemacher
+Pub Title	Geographisch Handtbuch ... Matthis Quaden ... Coln am Rein (Cologne). MDC (1600).
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1600
+Short Title	5. India orientalis. 1600.
+Pub Type	World Atlas
+Pub Height cm	27
+Authors	Quad, Matthias, 1557-1613
+World Area	East Indies
+List No	9690.018
+Media item filename	9690018.jp2
+Publication Author	Quad, Matthias, 1557-1613
+Image No	9690018.jp2
+Publisher Location	Cologne
+Page No	5
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9690018.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	9690.000_018
+Full Title	5. India orientalis. 1600.
+Obj Width cm	26
+Pub List No	9690.000
+Pub Maps	82
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

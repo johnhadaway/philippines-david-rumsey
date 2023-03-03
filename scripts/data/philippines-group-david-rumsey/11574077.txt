@@ -1,0 +1,37 @@
+Date	1652
+Country	Philippines
+Series No	77
+Type	Atlas Map
+Reference	Pastoreau Sanson IA, IIA, IIIA, VIIA; Phillips 494.
+Pub Note	Atlas of Asia, dedicated to Nicolas Fouquet, 104 pages of explanatory text and 17 folded maps of various Empires, Kingdoms, States, Republics and Islands. Maps based on Jesuit missionary sources, copper engraved double page, hand colored in outline, with decorative cartouches, some engraved by A. Peyrounin. Showing major cities, towns, villages, rivers, mountains, drainage, etc. Relief shown pictorially. This is the second volume of the first edition of Sanson's quarto Atlas, a geographical description of the four continents of the world in four separate volumes, L'Europe, Asie, Afrique, Amerique, each with engraved title page, accompanied by text and folded maps, bound in full brown calf with rich gold decoration and gold title on spine. Published over the period 1648 to 1657, these are the first atlases published by Sanson, a noted French historian and cartographer, the geographer to the French king. Most of the maps were engraved especially for these works and are not reductions of larger previously published maps.
+Pub Width cm	19
+Scale 1	13,000,000
+Pub Reference	Pastoreau Sanson IA, IIA, IIIA, VIIA; Phillips 494.
+Author	Sanson, Nicolas, 1600-1667
+Georeferencer Status	ungeoreferenced
+Obj Height cm	19
+Image Order	.596 batch017
+Publisher	N. Sanson
+Pub Title	L'Asie en plusieurs cartes nouvelles, et exactes; & en divers traittes de geographie, et d'histoire. La ou sont descripts succinctement, & avec une belle methode, & facile ses empires, ses monarchies, ses estats, &c. les moeurs, les langues, les religions, les richesses de ses peuples, &c. Et ce qu'il y a de plus beau, & de plus rare dans toutes ses parties, & dans ses isles. Par N. Sanson d' Abbeville, Geographe Ordinaire du Roy. A Paris, Chez l'Autheur, dans le cloistre de Sainct Germain l'Auxerrois, joignant la grande porte du cloistre. Avec privilege pour vingt Ans.
+Note	Copper engraved double page map, hand colored in outline, with decorative cartouche and compass rose. Showing boundaries, major cities, towns, villages, rivers, mountains, drainage, etc. Relief shown pictorially.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1652
+Short Title	Les Isles Philippines et les Isles Ladrons
+Pub Type	Regional Atlas
+Pub Height cm	26
+Authors	Sanson, Nicolas, 1600-1667
+List No	11574.077
+Media item filename	11574077.jp2
+Publication Author	Sanson, Nicolas, 1600-1667
+Image No	11574077.jp2
+Publisher Location	Paris
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11574077.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11574.000_077
+Full Title	Les Isles Philippines : Par le Sr. Sanson d'Abbeville, Geographe du Roy. Avec privil. pour 20 ans. 1652. A. Peyrounin sculp. (to accompany) L'Asie en plvsievrs cartes novvelles, et exactes ... A Paris, Chez l'Autheur ... (inset) Islas De Los Ladrones ou Isle Des Larrons.
+Obj Width cm	24
+Pub List No	11574.000
+Engraver or Printer	Peyrounin, Abraham
+Pub Maps	17
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

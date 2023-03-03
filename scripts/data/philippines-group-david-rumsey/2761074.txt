@@ -1,0 +1,38 @@
+Date	1881
+Country	[Cambodia, Indonesia, Malaysia, Philippines]
+Series No	74
+Type	Atlas Map
+Reference	P4356.
+Pub Note	Date estimated. Maps are dated 1879 to 1881. Phillips dates this atlas 1882 because of the dates 1879-1882 on the outside cover of the LOC copy - our copy has no dates on the cover, consequently we date it 1881. After South America an extra 8 maps of the Mediterranean are added. With full and outline hand painted color. Relief shown by hachures. Paper edges are gold.
+Pub Width cm	49
+Scale 1	12,500,000
+Pub Reference	P4356.
+Author	Stieler, Adolf
+Georeferencer Status	ungeoreferenced
+Obj Height cm	36
+Image Order	078 batch015
+Publisher	Justus Perthus
+Pub Title	Adolf Stieler's Hand Atlas Uber Alle Theile Der Erde Und Uber Das Weltgebaude. 95 Karten. Gotha Justus Perthes. (title page only) Entw. v. H. Berghaus 1881. Gest. v. H. Eberhardt u. E. Kuhn.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1881
+Short Title	Ostindische Inseln (East Indies).
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Stieler, Adolf
+World Area	East Indies
+List No	2761.074
+Media item filename	2761074.jpg
+Publication Author	Stieler, Adolf
+Image No	2761074
+Publisher Location	Gotha
+Page No	67
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2761074.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2761.000_074
+Full Title	Stieler's Hand-Atlas No. 67. Ostindische Inseln. (insets) Java. Strassen. Batavia. Atjih oder Atschin.
+Obj Width cm	42
+Pub List No	2761.000
+Engraver or Printer	[Eberhardt, H., Kuhn, E., Berghaus, Herm., Schor, M., Messerschmidt, H.]
+Pub Maps	103
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,36 @@
+Date	1806
+Country	[Indonesia, Philippines, Vietnam, Malaya]
+Series No	46
+Type	Atlas Map
+Reference	cfP6018.
+Pub Note	Has title page from the 1809 edition. Table of Contents has date of 1805. Maps are hand painted in full color.
+Pub Width cm	29
+Scale 1	22,000,000
+Pub Reference	cfP6018.
+Author	Wilkinson, Robert
+Georeferencer Status	ungeoreferenced
+Obj Height cm	24
+Image Order	070 batch014
+Publisher	R. Wilkerson
+Pub Title	Wilkinson's General Atlas of the World, Quarters, Empires, Kingdoms, States &c. with Appropriate Tables. Second Edition. London. Published March 1, 1809, by Rob't Wilkinson, No. 125 Fenchurch St.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1805
+Short Title	The Islands of the East Indies with the Channels between India, China & New Holland.
+Pub Type	World Atlas
+Pub Height cm	36
+Authors	Wilkinson, Robert
+List No	1201.045
+Media item filename	1201045.jpg
+Publication Author	Wilkinson, Robert
+Image No	1201045
+Publisher Location	London
+Page No	42
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/1201045.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1201.000_046
+Full Title	The Islands of the East Indies with the Channels between India, China & New Holland.
+Obj Width cm	33
+Pub List No	1201.000
+Pub Maps	48
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

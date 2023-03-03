@@ -1,0 +1,38 @@
+Date	1944
+Country	[Japan, China, Philippines]
+Series No	3
+Subject	Military
+Type	Separate Map
+Pub Note	5 color maps on 1 sheet 99x128, folded, both sides, illustrated cover with text and illustrations on recto. Maps on verso: Southeast Asia; Japan; Northeast China; Philippines. Includes 2 inset maps showing a global view and 6 diagrams showing modern battle tactics. Maps showing naval and air bases, roads, railroads rivers, mountains and distances. Relief shown by shadings on some maps; depth shown by bathymetric tints on some maps. Map number: 4039.
+Pub Width cm	32
+Scale 1	Variable
+Author	[Manning, F. E., Kaltenborn, H. V., Pure Oil Company.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	99
+Image Order	.544 batch017
+Publisher	Pure Oil Company.
+Pub Title	Global war in the Pacific, to show progress and latest advances of the allies ... Copyright 1944, the Pure Oil Company. All maps designed and executed by F.E. Manning. (insets) View of Pacific showing territories and possessions of warning nations ... December 7, 1941. (with) View if Pacific showing Tokyo as the central target. (cover title) Pacific War maps. Edited by H v Kaltenborn : Large size in giant size in global perspective, including large scale map of Philippine Islands, North China, Japan, Southeast Asia. Published by the Pure Oil Company, U.S.A.
+Region	Southeast Asia
+Note	4 color maps on 1 sheet, folded. With inset diagram. Showing naval and air bases, roads, railroads rivers, mountains and distances. Relief shown by shadings; depth shown by bathymetric tints.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1944
+Short Title	Southeast Asia. Japan. Northeast China. Philippines.
+Pub Type	Pamphlet
+Pub Height cm	33
+Authors	Manning, F. E.; Kaltenborn, H. V.; Pure Oil Company.
+World Area	Pacific
+List No	11572.003
+Event	World War II
+Media item filename	11572003.jp2
+Publication Author	[Manning, F. E., Kaltenborn, H. V., Pure Oil Company.]
+Image No	11572003.jp2
+Publisher Location	U.S.A.
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11572003.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11572.000_003
+Full Title	Southeast Asia (Scale: ca. 1:5,500,000). Japan (Scale: ca. 2,450,000). Northeast China and Japan (Scale: ca. 1:5,300,000). Philippines (Scale: ca. 5,500,000). (inset diagram). All maps designed and executed by F.E. Manning. (cover title) Pacific War maps. Edited by H v Kaltenborn ...
+Obj Width cm	125
+Pub List No	11572.000
+Pub Maps	5
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

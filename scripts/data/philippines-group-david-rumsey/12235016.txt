@@ -1,0 +1,36 @@
+Date	1858
+Country	[Philippines, Vietnam, Cambodia, Thailand]
+Series No	16
+Type	Atlas Map
+Reference	P828
+Pub Note	Atlas companion volume to a course on commercial geography. Every map page has the heading, "Geografia Commerciale". Relief shown in hachures. Outline color. In 1843 Marmocchi published the Nuovo Atlante Cosmografico (P887). It is probably the most accomplished work of Francesco Costantino Marmocchi (Poggibonsi, 1805-1858), a renowned geographer and cartographer. Of Mazzini's sympathies, Marmocchi took part in the riots of 1831, when he was jailed. In 1848 he became deputy in the Tuscan Parliament, and then held the office of Secretary of the Interior under Guerrazzi. He traveled extensively and made many geographical studies.
+Pub Width cm	49
+Scale 1	11,200,000
+Author	Marmocchi, Francesco C.
+Georeferencer Status	ungeoreferenced
+Obj Height cm	29
+Image Order	.577 batch017
+Publisher	Paolo Rivara
+Pub Title	Il Globo Atlante di Carte Geografiche Compilate da P.C. Marmocchi per servire di corredo al suo Corso di Geografia Commerciale. Genova, Paolo Rivara fu Giacomo Editore 1858. Torino, Lit. Giordana e Sabussolia.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1858
+Short Title	15. L'Indocina (India Transgangetica) le insole Filippine.
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Marmocchi, Francesco C.
+List No	12235.016
+Media item filename	12235016.jp2
+Publication Author	Marmocchi, Francesco C.
+Image No	12235016.jp2
+Publisher Location	Genoa
+Page No	15
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/12235016.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12235.000_016
+Full Title	15. L'Indocina (India Transgangetica) le insole Filippine.
+Obj Width cm	35
+Pub List No	12235.000
+Engraver or Printer	[Lit. Giordana e Sabussolia., C. Magrini]
+Pub Maps	50
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

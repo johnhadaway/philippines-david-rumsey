@@ -1,0 +1,35 @@
+Date	1708
+Country	[Indonesia, Philippines, Cambodia, Vietnam]
+Series No	206
+Type	Atlas Map
+Pub Note	This issue of the Mortier/Jaillot Atlas Nouveau has 169 maps (1 more than the normal count of 168) plus diagrams, text pages, decorated titles and index pages. It is noted for the large number of multi-sheet "Theatre de la Guerre" (Theater of War) maps covering the battles raging in Europe and the Americas during the Spanish War of Succession (1701-1713) and the Northern War (1700-1721). The Atlas Nouveaux was first published by Jaillot in Paris in 1681(46 maps) with later issues by him in 1684 (72 maps) and 1689 (80 maps). In 1692 Pierre Mortier published his first edition of the Jaillot atlas with 99 maps, another edition followed in 1696 with 111 maps. In 1707/1708 Mortier issued our edition with 168 maps. Later editions by Mortier expanded the atlas even further - 1708, 200 maps; ca 1721, 300 maps; ca 1735, 400 maps. The atlas maps are large folio size with most maps made of two sheets and many maps combining 4 or 6 sheets (those also issued as wall maps separately). The atlas is most impressive for its large size and number of maps as well as being up to date for its time. This copy colored in outline with relief shown pictorially.
+Pub Width cm	56
+Scale 1	9,,500,000
+Pub Reference	Koeman Mor 1; Pastoureau Jaillot I F; van Egmond pp107-110.
+Author	[Jaillot, Alexis Hubert, 1632?-1712, Mortier, Pierre, Sanson, Nicolas, 1600-1667]
+Georeferencer Status	georeferenced
+Obj Height cm	56
+Image Order	.664 batch017
+Publisher	[Chez Pierre Mortier, Chez Pierre Mortier]
+Pub Title	Atlas Nouveau Contenant Toutes Les Parties du Monde, ou Sont exactement Remarques Les Empires, Monarchies, Royaumes, Estats, Republiques & Peuples qui fy trouuent a present. Par le Sr. Sanson, Geographe ordinaire du Roy. Presente a Monseigeur le Dauphin ... Hubert Jaillot Geographe du Roy. A Paris, Chez Hubert Jaillot ....
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1708
+Short Title	Troisieme Partie de l'Asie.
+Pub Type	World Atlas
+Pub Height cm	64
+Authors	Jaillot, Alexis Hubert, 1632?-1712; Mortier, Pierre; Sanson, Nicolas (1600-1667)
+List No	12178.204
+Media item filename	12178204.jp2
+Publication Author	[Jaillot, Alexis Hubert, 1632?-1712, Mortier, Pierre]
+Image No	12178204.jp2
+Publisher Location	[Amsterdam,Paris, Amsterdam,Paris]
+Page No	180
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/12178204.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12178.000_206
+Full Title	Troisieme Partie de l'Asie.
+Obj Width cm	50
+Pub List No	12178.000
+Pub Maps	169
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,38 @@
+Date	1955
+Country	[China, Indonesia, Korea, Philippines]
+Series No	1
+Subject	Physical
+Type	Wall Map
+Reference	UC Berkeley, Geography Department Call Number 240-A-6.
+Pub Note	See Note field above.
+Pub Width cm	185
+Scale 1	3,000,000
+Pub Reference	UCBGEOG1
+Author	Haack, Hermann
+Georeferencer Status	ungeoreferenced
+Obj Height cm	214
+Image Order	batch013
+Publisher	Hermann Haack
+Pub Title	Hinterindien und Indonesien.
+Region	East Asia
+Note	Suitable for use in a large lecture hall; viewable to and beyond 40 feet. Language(s): German. Map is paper on muslin. Mounted on wood rods. Prime Meridian is Greenwich. Topics include: topography, hydrography, political boundaries, major cities, ocean currents. Department of Geography, University of California at Berkeley, Call Number 240-A-6.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1955
+Short Title	East & Southeast Asia -- Physical
+Pub Type	Wall Map
+Pub Height cm	214
+Authors	Haack, Hermann
+List No	7102.000
+Media item filename	7102000.jpg
+Publication Author	Haack, Hermann
+Image No	7102000
+Publisher Location	Berlin
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/7102000.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	7102.000_001
+Full Title	Hinterindien und Indonesien.
+Obj Width cm	185
+Pub List No	7102.000
+Pub Maps	1
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,35 @@
+Date	1825
+Country	[Philippines, Guinea]
+Series No	86
+Type	Atlas Map
+Pub Note	Early topographical map of Europe, together with the colonies for businessmen, newspaper readers ... by German geographical author, Wilhelm August von Schlieben (1781-1839), published in parts from 1825, in 3 volumes, and 15 parts; volume 1: 1-5, Volume 2: 6-10, Volume 3: 11-15. Each volume includes outline hand colored maps, manuscript index, forward, table of content, extensive descriptive text and index. Bound in half leather green marbled paper covered boards measuring 26.5x34.5, with "Atlas von Europa ... Lieferung" embossed on the spine. (v.1) 1. lief. Konigreich Frankreich. I. Heft. 2. lief. Konigreich Frankreich. II. heft. und das Turkische (Osmanische) reich in Europa. 3. lief. Die Helvetische eldgenossenschaft oder die Schweiz und das konigreich Portugal. 4. lief. Das konigreich Spanien. 5. lief. Die konigreiche 1) der Niederlands 2) Danemark. und 3) Schweden mit Norwegen.--(v.2) 6. lief. Der deutsche staatebund und zwar die suddeutschen staaten. 7. lief. Der deutsche staatenbund, und zwar der nordwestliche theil der nordeutschen staaten. 8. lief. Der deutsche staatenbund. und zwar der nordostliche theil der norddeutschen staaten. 9.-10. lief. Der Preussische staat.--(v.3) 11-12. lief. Der Osterreichische staat oder das kaiserthum Oesterreich. 13. lief. Das Russische reich in Europa mit ausschiuss von Polen. 14. lief. Das konigreich Polen, die republik Krakau, die Italienischen staaten. 15. lief. Das Britische reich.
+Pub Width cm	35
+Scale 1	Variable
+Author	[Schlieben, Wilhelm Ernst August, Hermann, O.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	20
+Image Order	000 batch016
+Publisher	Georg Joachim Goschen
+Pub Title	Atlas von Europa nebst den Kolonien : fur Geschaftsmanner, Zeitungsleser und Besitzer des Conversations-Lexicons in einer Folge von Charten und einem alphabetisch eingerichteten Texte : bearbeitet von W. E. A. v. Schlieben ... Leipzig bei Georg Joachim Goschen 1825. O. Hermann, Lith.
+Note	2 outline color maps on 1 page. Shows Spanish colonial possessions in Philippines and Guinea, with cities and towns.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1825
+Short Title	V.1:1-5: IV: Spanien. Die Saiatischen kolonien die Philippinen. Die Guineainseln
+Pub Type	National Atlas
+Pub Height cm	27
+Authors	Schlieben, Wilhelm Ernst August; Hermann, O.
+List No	8328.086
+Media item filename	8328086.jp2
+Publication Author	[Schlieben, Wilhelm Ernst August, Hermann, O.]
+Image No	8328086.jp2
+Publisher Location	Leipzig
+Page No	141
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/8328086.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	8328.000_086
+Full Title	Spanien: Die Saiatischen kolonien die Philippinen. (with) Die Guineainseln. (to accompany) Atlas von Europa nebst den Kolonien : Vierte Lieferung. Das Konigreich Spanien.
+Obj Width cm	27
+Pub List No	8328.000
+Pub Maps	295
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

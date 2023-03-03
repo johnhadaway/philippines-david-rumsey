@@ -1,0 +1,33 @@
+Date	1967
+Country	[Japan, Philippines]
+Series No	134
+Type	Index Map
+Pub Note	This second edition of the Atlas of the World (1st edition in 1954) has fewer maps of the USSR on account of the interim publication of the "Atlas of the USSR", three fewer historical maps due to then impending publication of the "Historical Atlas of the World", and many new maps and revisions. The Atlas was considered accurate in terms of contemporary knowledge of the ocean floors. This edition also uses both the Russian and the Roman alphabets - making it comprehensible to a much broader range of readers. "The second edition of the World Atlas is issued at a time when all progressive people of the globe are celebrating the 50th anniversary of the Great October socialist revolution." Mapped in attractive full color with tints for elevation and sea depth values. Relief shading is sometimes used to contribute to realism. Scales generally in regular increments (two or multiples of two); urban vicinity maps typically at 1:250,000 facilitating the comparison of the sizes of major cities around the world.
+Pub Width cm	34
+Author	USSR (Union of Soviet Socialist Republics).
+Georeferencer Status	not_found
+Obj Height cm	50
+Image Order	batch004
+Publisher	USSR
+Pub Title	Chief Administration of Geodesy and Cartography under the Council of Ministers of the USSR. The World Atlas. Second Edition. Moscow. 1967.
+Region	Ryuku Islands
+City	Tokyo (Japan)
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1967
+Short Title	Map Title Page: 123-124. Japan. 125. Tokyo. 126. Ryuku. 127. Philippines.
+Pub Type	World Atlas
+Pub Height cm	51
+Authors	USSR (Union of Soviet Socialist Republics).
+List No	1603.134
+Media item filename	1603134.jpg
+Publication Author	USSR (Union of Soviet Socialist Republics).
+Image No	1603134
+Publisher Location	Moscow
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/1603134.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1603.000_134
+Full Title	(Map Title Page) 123-124. Japan. 125. Tokyo. 126. Ryuku. 127. Philippines.
+Obj Width cm	31
+Pub List No	1603.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,32 @@
+Date	1682
+Country	Philippines
+Series No	273
+Type	Atlas Map
+Pub Note	In two volumes; one pagination. Volume 1, The World. Volume 2, Europe. Originally published in 1658, there were six editions in French up to 1688 and perhaps later ones published by Du Val's widow. Other editions in German. An extensive geography of the entire world.
+Pub Width cm	10
+Scale 1	23,000,000
+Author	Du Val, Pierre, 1619-1683
+Obj Height cm	11
+Image Order	.403 batch017
+Publisher	[Chez Piere Du Val, Chez Nicolas Langlois]
+Pub Title	La Geographie Universelle. Tom 1. Le Monde ou La Geographie Universelle ... Par P. Du Val d'Abbeville ... A Paris Chez, L'Auteur ... Chez Nicolas Langlois ... MDCLXXXII. Tom 2. l'Europe ... Partie de La Geographie Universelle, Par P. Du-Val ... A Paris Chez d'Auteur.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1682
+Short Title	Les Isles Philippines.
+Pub Type	World Atlas
+Pub Height cm	16
+Authors	Du Val, Pierre, 1619-1683
+List No	12503.273
+Media item filename	12503273.jp2
+Publication Author	Du Val, Pierre, 1619-1683
+Image No	12503273.jp2
+Publisher Location	[Paris, Paris, Paris, Paris]
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12503273.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12503.000_273
+Full Title	Les Isles Philippines.
+Obj Width cm	13
+Pub List No	12503.000
+Pub Maps	76
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

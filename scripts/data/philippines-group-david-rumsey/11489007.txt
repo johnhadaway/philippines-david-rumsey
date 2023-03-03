@@ -1,0 +1,37 @@
+Date	1926
+Country	[United States, Philippines]
+Series No	7
+Subject	Energy
+Type	Atlas Map
+Pub Note	Promotional atlas issued by the Buffalo-based map publisher Whitney-Graham Company, maps dated 1926-1930, The atlas consists of a page of introductory text, followed by a total of 20 maps pasted on, some folded. Bound in blue cloth covered boars with title pasted on front cover. The maps are in color, some pictorial, depict the United States rail systems or utility networks in the northeast quadrant of the country, with an emphasis on the Midwest, natural recourses, industry, a Standard Gas and Electric Company map, a telegraph map of the world, and small maps of Europe and the Adirondacks. Maps showing political and administrative boundaries, major cities, rivers, lakes, forests and mountains. Some maps are dated on lower left or right margins.
+Pub Width cm	44
+Scale 1	None shown
+State/Province	U.S. North East
+Author	[Whitney-Graham Company, Inc., Associated Gas and Electric Company, Encyclopædia Britannica, Inc.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	24
+Image Order	.572 batch017
+Publisher	Whitney-Graham Co.
+Pub Title	The blue book of map making : America's map makers. R.W.C. The Whitney-Graham Co. Inc.
+Region	New England
+Note	Color map of Northeastern United States, with 3 insets. Shows major cities and towns, highlighting hydro-electric and fuel using plants, electric service, gas and ice plants and transmission lines. Includes legend.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1930
+Short Title	Map showing Associated Gas and Electric system in New York ...
+Pub Type	[World Atlas, Advertisement]
+Pub Height cm	58
+Authors	Whitney-Graham Company, Inc.; Associated Gas and Electric Company ; Encyclopædia Britannica, Inc.
+List No	11489.007
+Media item filename	11489007.jp2
+Publication Author	Whitney-Graham Company, Inc.
+Image No	11489007.jp2
+Publisher Location	New York
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11489007.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11489.000_007
+Full Title	Map showing Associated Gas and Electric system in New York, Massachusetts, Connecticut, Vermont, New Hampshire, Maine, Kentucky, Tennessee ... 9-26. (insets) Kentucky. (with) City of Manila and vicinity. (with) Stanten Island. (to accompany) The blue book of map making : America's map makers. R.W.C. The Whitney-Graham Co. Inc.
+Obj Width cm	39
+Pub List No	11489.000
+Pub Maps	20
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

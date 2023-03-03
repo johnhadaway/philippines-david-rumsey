@@ -1,0 +1,39 @@
+Date	1818
+Country	[Indonesia, Malaysia, Philippines, Vietnam]
+Series No	59
+Type	Atlas Map
+Reference	P732.
+Pub Note	Third and last edition. There is a Preface to the third edition, dated June 18, 1818.
+Pub Width cm	31
+Scale 1	23,000,000
+Pub Reference	P732.
+Author	Carey, Mathew
+Georeferencer Status	georeferenced
+Obj Height cm	23
+Image Order	batch004
+Publisher	M. Carey and Son
+Pub Title	Carey's General Atlas, Improved And Enlarged; Being A Collection Of Maps Of The World And Quarters, Their Principal Empires, Kingdoms, &c. ... Philadelphia: Published By M. Carey And Son, 1818.
+Note	In outline color. List included noting ownership of islands. Relief shown by hachures. Prime meridian Greenwich.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1818
+Short Title	Islands of the East Indies.
+Pub Type	World Atlas
+Pub Height cm	45
+Authors	Carey, Mathew
+World Area	East Indies
+List No	2721.059
+Media item filename	2721059.jpg
+Publication Author	Carey, Mathew
+Image No	2721059
+Publisher Location	Philadelphia
+Page No	54
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2721059.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2721.000_059
+Full Title	The Islands of the East Indies with the Channels between India, China & New Holland comprising Philippine Isles ... Moluccas ... Isles of Sunda. Scoles sculp.
+Obj Width cm	28
+Pub List No	2721.000
+Engraver or Printer	Scoles, John, 1772?-1853
+Pub Maps	58
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

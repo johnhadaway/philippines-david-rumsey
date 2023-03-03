@@ -1,0 +1,34 @@
+Date	1935
+Country	Philippines
+Series No	90
+Subject	Pictorial map
+Type	Atlas Map
+Pub Note	An entertaining fanciful pictorial or cartoon atlas of the United States which includes a full color map and a page of historical and geographical text on each of the 48 states plus the Territories of Alaska, Hawaii, American Samoa and the Commonwealth of the Philippines, plus a map of the Caribbean showing Puerto Rico, the Virgin Islands and the Panama Canal Zone as well as the rest of the Antilles. Numerous small drawings on the map of each state depict sights, people, activities, crops, animals, relief, populated places,etc. A product of the 1930s, it depicts stereotypical images of people, such as on the Tennessee map there are a Ku Klux Klan (KKK) member in white hood and robe with a pistol and a bucket of tar, and a black person dragging a sack of cotton. In addition to these sometimes offensive images, it also reflects the times in terms of what was important or noteworthy about each area of each state be it growing corn, raising mules, crabbing, racing horses, making movies, sailing, Native Americans, national parks, quilting, romance, volcanoes, whales, rain, gold, or big trees. Art by Ruth Taylor (1900-) who was educated at the Pratt Institute of Art; the Art Students League.
+Pub Width cm	40
+Author	[Taylor, Frank J., White, Ruth Taylor]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	24
+Image Order	050 batch016
+Publisher	Little, Brown, and Company
+Pub Title	Our U.S.A. A Gay Geography. Text by Frank J. Taylor. Maps by Ruth Taylor. Boston - Little, Brown, and Company - 1935.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1935
+Short Title	Philippine Islands.
+Pub Type	National Atlas
+Pub Height cm	25
+Authors	Taylor, Frank J.; White, Ruth Taylor
+List No	7823.090
+Media item filename	7823090.jpg
+Publication Author	[White, Ruth Taylor, Taylor, Frank J.]
+Image No	7823090
+Publisher Location	Boston
+Page No	89
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/7823090.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	7823.000_090
+Full Title	Philippine Islands.
+Obj Width cm	32
+Pub List No	7823.000
+Pub Maps	58
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

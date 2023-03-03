@@ -1,0 +1,36 @@
+Date	1929
+Country	[United States, Philippines, Canada]
+Series No	16
+Subject	Energy
+Type	Atlas Map
+Pub Note	Promotional atlas issued by the Buffalo-based map publisher Whitney-Graham Company, maps dated 1926-1930, The atlas consists of a page of introductory text, followed by a total of 20 maps pasted on, some folded. Bound in blue cloth covered boars with title pasted on front cover. The maps are in color, some pictorial, depict the United States rail systems or utility networks in the northeast quadrant of the country, with an emphasis on the Midwest, natural recourses, industry, a Standard Gas and Electric Company map, a telegraph map of the world, and small maps of Europe and the Adirondacks. Maps showing political and administrative boundaries, major cities, rivers, lakes, forests and mountains. Some maps are dated on lower left or right margins.
+Pub Width cm	44
+Scale 1	2,750,000
+State/Province	U.S. North East
+Author	[Whitney-Graham Company, Inc., Associated Gas and Electric Company, New England Gas Association]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	35
+Image Order	.572 batch017
+Publisher	Whitney-Graham Co.
+Pub Title	The blue book of map making : America's map makers. R.W.C. The Whitney-Graham Co. Inc.
+Note	Color map of the Northeastern States. Insets: Portion of Philippine Islands; Prince Edward Island; South Carolina; Florida; Stanten Island. Shows major cities and towns, highlighting hydro-electric plants, fuel using plants, retail electric and gas service, ice plants, gas and electric transmission lines, etc. Includes legend. Relief shown pictorially.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1930
+Short Title	Associated Gas and Electric System : Associated Gas and Electric Co.
+Pub Type	[World Atlas, Advertisement]
+Pub Height cm	58
+Authors	Whitney-Graham Company, Inc.; Associated Gas and Electric Company; New England Gas Association
+List No	11489.016
+Media item filename	11489016.jp2
+Publication Author	Whitney-Graham Company, Inc.
+Image No	11489016.jp2
+Publisher Location	New York
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11489016.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11489.000_016
+Full Title	Associated Gas and Electric System : Associated Gas and Electric Co., New England Gas and Electric Association in New York, Massachusetts, Maine, Connecticut, ... Philippine Islands and Canada. 5-29. (to accompany) The blue book of map making : America's map makers. R.W.C. The Whitney-Graham Co. Inc. (5 insets)
+Obj Width cm	55
+Pub List No	11489.000
+Pub Maps	20
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

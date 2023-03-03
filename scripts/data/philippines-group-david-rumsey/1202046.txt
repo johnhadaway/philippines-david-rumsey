@@ -1,0 +1,36 @@
+Date	1806
+Country	[Indonesia, Philippines, Vietnam, Malaya]
+Series No	46
+Type	Atlas Map
+Reference	P3542a.
+Pub Note	This atlas was used by Lucas, Morse (S.E.), and Cummings & Hilliard (and Worcester) as a source of non American maps. Tooley says the last edition was 1809 (there appear to be no differences other than the title page between the 1808 and 1809 editions); Phillips has 1807; Moreland mentions 1816 as a re-issue - this also was probably used by the Americans. We have seen an 1816 edition cut up by a dealer to sell the maps individually. Maps are hand painted in full color.
+Pub Width cm	30
+Scale 1	22,000,000
+Pub Reference	P3542a.
+Author	Wilkinson, Robert
+Georeferencer Status	ungeoreferenced
+Obj Height cm	23
+Image Order	071 batch014
+Publisher	Robert Wilkinson
+Pub Title	A General Atlas, being A Collection of Maps of the World And Quarters, the Principal Empires, Kingdoms &c. with their several Provinces & other Subdivisions, Correctly Delineated. London: Published Feby. 1st 1800, by Robert Wilkinson, No. 58, Cornhill. (on table of contents page) ... London: Printed For Robert Wilkinson, No. 58, Cornhill. 1808.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1808
+Short Title	The Islands of the East Indies with the Channels between India, China & New Holland.
+Pub Type	World Atlas
+Pub Height cm	36
+Authors	Wilkinson, Robert
+World Area	East Indies
+List No	1202.046
+Media item filename	1202046.jpg
+Publication Author	Wilkinson, Robert
+Image No	1202046
+Publisher Location	London
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/1202046.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1202.000_046
+Full Title	The Islands of the East Indies with the Channels between India, China & New Holland.
+Obj Width cm	30
+Pub List No	1202.000
+Pub Maps	48
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

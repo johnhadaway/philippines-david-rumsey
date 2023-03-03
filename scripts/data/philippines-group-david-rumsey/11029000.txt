@@ -1,0 +1,34 @@
+Date	1944
+Country	Philippines
+Subject	[Military, Pictorial map]
+Type	[Newspaper Map, Separate Map]
+Pub Note	See note field above.
+Pub Width cm	39
+Scale 1	3,400,000
+Author	[Los Angeles Times, Owens, Charles H.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	54
+Image Order	.598 batch017
+Publisher	Los Angeles Times
+Pub Title	MacArthur's invaders strike into heart of Jap defenses. Map by Charles Owens. Los Angeles Times, Monday, Oct. 23, 1944 - Part 3.
+Note	Color map, with views of horizon at upper panel. Shows lines of attack, major cities, roads, lines of supplies by land and sea, prison camps, air bases, etc. Relief shown pictorially. Includes historical notes and text :"The inset map illustrates the Jap movement in China which is creating a barrier between the Allies in India-Burma and American forces in the Pacific ..."
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1944
+Short Title	MacArthur's invaders strike into heart of Jap defenses
+Pub Type	Separate Map
+Pub Height cm	54
+Authors	Los Angeles Times; Owens Charles
+List No	11029.000
+Event	World War II
+Media item filename	11029000.jp2
+Publication Author	[Los Angeles Times, Owens, Charles H.]
+Image No	11029000.jp2
+Publisher Location	Los Angeles, Calif.
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11029000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11029.000_000
+Full Title	MacArthur's invaders strike into heart of Jap defenses. Map by Charles Owens. Los Angeles Times, Monday, Oct. 23, 1944 - Part 3.
+Obj Width cm	39
+Pub List No	11029.000
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

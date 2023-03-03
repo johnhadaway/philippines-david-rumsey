@@ -1,0 +1,37 @@
+Date	1849
+Country	[Indonesia, Philippines]
+Series No	29
+Type	Atlas Map
+Reference	None found; cf P784.
+Pub Note	Rare 1849 reissue of 1842 and 1848 Greenleaf Universal Atlas. This apparently is the final issue of the atlas. Many changes from the 1842 edition: Florida a State, Michigan entirely redrawn, Mexican War results on North American map, Mexico, Texas, Oregon changes to show 1846 boundary with Canada, Missionary stations listed on the Hemispheres, and many new railroads, counties, boundaries, etc. There are more changes between this edition and the 1842, than between the 1842 and Burr's 1836. Not in Karpinski, which is strange because Michigan is totally redrawn, not in Phillips or any other reference. This 1849 edition differs slightly from the 1848 edition - the Mexico map does not reflect the Mexican War boundary - probably he was running out of maps and this was at the bottom of the stack! Has the same Geography text in the rear, unchanged. The Wisconsin and Iowa map in this copy differs from an 1848 in Fitch Catalogue 48, #314, in having Mandan Dist. instead of Missouri Territory in the Fitch, making this copy probably later (the 1842 has Missouri Territory). Burr's name is no longer on the map of Illinois. Maps are in full color. Bound in half leather, floral patterned blue cloth covered boards with "The Universal Atlas" stamped in gold. Spine reads "Atlas". Marbled lining.
+Pub Width cm	32
+Scale 1	15,200,000
+Pub Reference	None found; cf P784.
+Author	Greenleaf, Jeremiah
+Obj Height cm	27
+Image Order	.2482 batch018
+Publisher	J. Greenleaf.
+Pub Title	A New Universal Atlas; Comprising Separate Maps Of all the Principal Empires, Kingdoms & States Throughout the World: and forming a distinct Atlas Of The United States. Carefully Compiled from the best Authorities Extant by Jeremiah Greenleaf. a new edition revised and corrected to the present time. 1849..
+Note	In full color by region. Engraved. Relief shown by hachures. Meridians Greenwich and Washington.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1849
+Short Title	East India Isles.
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Greenleaf, Jeremiah
+World Area	East Indies
+List No	15176.029
+Media item filename	15176029.jp2
+Publication Author	Greenleaf, Jeremiah
+Image No	15176029.jp2
+Publisher Location	No place
+Page No	25
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/15176029.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	15176.000_029
+Full Title	East India Isles.
+Obj Width cm	33
+Pub List No	15176.000
+Pub Maps	65
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

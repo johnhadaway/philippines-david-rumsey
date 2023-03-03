@@ -1,0 +1,35 @@
+Date	1942
+Country	Philippines
+Series No	1
+Subject	Military
+Type	Separate Map
+Pub Note	For a report documenting this map, see Time magazine, January 5, 1942.
+Pub Width cm	9
+Scale 1	900,000
+Author	Chapin, Jr., R.M.
+Georeferencer Status	ungeoreferenced
+Obj Height cm	70
+Image Order	.548 batch017
+Publisher	Time, Inc.
+Pub Title	Battle of Luzon.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1942
+Short Title	Battle of Luzon.
+Pub Type	Separate Map
+Pub Height cm	70
+Authors	Chapin, Jr., R.M.
+List No	12394.000
+Event	World War II
+Media item filename	12394000.jp2
+Publication Author	Chapin, Jr., R.M.
+Image No	12394000.jp2
+Publisher Location	New Your
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/12394000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12394.000_001
+Full Title	Battle of Luzon.
+Obj Width cm	90
+Pub List No	12394.000
+Pub Maps	1
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

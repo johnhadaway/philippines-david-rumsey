@@ -1,0 +1,36 @@
+Date	1857
+Country	[India, Indonesia, Philippines]
+Series No	102
+Type	Atlas Map
+Reference	Espenhorst, vol.2: 750-769.
+Pub Note	Looseleaf color atlas with accompanying text sheets, all in unbound original publisher's parts/sections. Relief depicted with hachures. Atlas was conceived of and initiated by Georg Leonhart Bauerkeller beginning in 1844 by subscription. From at least 1845, Ludwig Ewald was a primary author and was responsible for drafting the maps. Considered by authorities to be one of the most beautiful atlases of the 19th century, it is particularly noteworthy for its quality registration, sharp images, use of brown for relief and solid blue for water, multi-color lithography, and it's scope of content. Particularly noteworthy presentations being: map, diagrams and illustrations of glaciers in the Alps (No.14. Die Gletscher der Alpen - List No 12189.036); an elevation diagram of major mountains and sea depths (No.39. Hoehen und Tiefen - List No 12189.061); map of Switzerland with relief depicted with hachures and giving a shaded relief 3-D effect (No. 54. Die Schweiz - List No 12189.076). Most of the text planned to accompany the maps was never completed. The atlas was largely ignored by contemporary and subsequent scholars despite its high quality. This is Espenhorst version 19.1.0-19.1.1.3. It consists of the initial set of 80 maps plus two sets of supplemental maps totaling 12 sheets - mostly revisions of previous editions. This scanned set has most of the section title pages at the end because the 80 sheets were not originally issued in the table of contents order that we present. Bauerkeller was also known for his three dimensional maps of cities, see our copies of London, Paris, Hamburg, and others.
+Pub Width cm	50
+Scale 1	14,400,000
+Pub Reference	Espenhorst, vol.2: 750-769.
+Author	[Ewald, Ludwig 1813-1881, Bauerkeller, Georg Leonhart]
+Georeferencer Status	georeferenced
+Obj Height cm	37
+Image Order	.597 batch017
+Publisher	Jonghaus & Venator's Kartogr.-artist. Anstalt
+Pub Title	Handatlas der Allgemeinen Erdkunde, Laender- und Staatenkunde, In 80 Karten. Herausgegeben von L. Ewald ... Nebst einem Handbuch der allgemeinen Erdkunde. Laender- und Staatenkunde von Dr. E. Eder. Darmstadt, 1860. Verlag von Jonghaus & Venator's Kartogr[aphisch].-artist[ischen]. Anstalt.
+Region	South Asia
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1860
+Short Title	No. 68. Ostindien und die ostindischen Inseln.
+Pub Type	World Atlas
+Pub Height cm	40
+Authors	Ewald, Ludwig 1813-1881; Bauerkeller, Georg Leonhart
+List No	12189.102
+Media item filename	12189102.jp2
+Publication Author	[Ewald, Ludwig 1813-1881, Bauerkeller, Georg Leonhart]
+Image No	12189102.jp2
+Publisher Location	Darmstadt
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/12189102.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	12189.000_102
+Full Title	No. 68. Ostindien und die ostindischen Inseln.
+Obj Width cm	45
+Pub List No	12189.000
+Pub Maps	92
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

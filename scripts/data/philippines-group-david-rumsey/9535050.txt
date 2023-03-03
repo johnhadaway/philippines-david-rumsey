@@ -1,0 +1,35 @@
+Date	1819
+Country	[Philippines, Indonesia, Thailand, Cambodia]
+Series No	50
+Type	Composite Map
+Reference	Espenhorst 1.1.2 (this copy is the 4th edition).
+Pub Note	This edition of the Geographisches Institute atlas marks an important move away from the 18th century mode of mapmaking towards a style that reflects what we think of today as 19th century German mapmaking - the use of hachures instead of mountains drawn in profile, and a more uniform typography. Date based on newest maps in atlas. Relief shown in hachures.
+Pub Width cm	38
+Author	[Gaspari, Adam Christian (1752-1830), Reinecke, I.C.M.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	50
+Image Order	.871 batch016
+Publisher	Vertage des Geographischen Instituts.
+Pub Title	Allgemeiner Hand-Atlas der Ganzen Erde nach den besten astronomischen Bestimmungen, und zu A.C. Gaspari vollstaendigem Handbuche der neuesten Erdbeschreibung bestimmt. Weimar Im Vertage des Geographischen Instituts. (General Hand Atlas of the whole earth for the best astronomical terms, and AC Gaspari complete hand book of the latest geography determined. In Weimar by the Department of Geography.)
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1821
+Short Title	Composite Map: East Indies.
+Pub Type	World Atlas
+Pub Height cm	57
+Authors	Gaspari, Adam Christian (1752-1830); Reinecke, I.C.M.
+World Area	East Indies
+List No	9535.050
+Media item filename	9535050.jp2
+Publication Author	[Geographisches Institut (Weimar, Germany), Gaspari, Adam Christian (1752-1830)]
+Image No	9535050.jp2
+Publisher Location	Weimar
+Page No	XLIV-XLV
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9535050.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	9535.000_050
+Full Title	(Composite Map) Charte von Ostindien. (East Indies.)
+Obj Width cm	45
+Pub List No	9535.000
+Pub Maps	60
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

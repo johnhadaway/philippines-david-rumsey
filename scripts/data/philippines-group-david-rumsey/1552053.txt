@@ -1,0 +1,36 @@
+Date	1958
+Country	[Indonesia, Philippines]
+Series No	53
+Type	Atlas Map
+Pub Note	Published in 5 volumes, 1955-1959, with 122 colored double page map sheets, and a comprehensive index of over 200,000 names. Because of the long production times involved in the work of compiling the detailed maps, the volumes were arranged in continental groupings with volume III, North Europe, coming out first, followed by another volume each year. V.1. The World, Australasia & East Asia --V.2. South-West Asia & Russia --V.3. Northern Europe --V.4. Southern Europe & Africa --V.5. The Americas. with an Index-Gazetteer. Bound in red linen, with label stamped in real gold reading "The Times Atlas of the World, Mid-Century Edition."
+Pub Width cm	33
+Scale 1	35,000,000
+Author	Bartholomew, John
+Georeferencer Status	ungeoreferenced
+Obj Height cm	49
+Image Order	batch012
+Publisher	[Houghton Mifflin Co., John Bartholomew & Son LTD.]
+Pub Title	The Times Atlas of the World. Mid-Century Edition, Edited by John Bartholomew, M.C., LL.D. Cartographer by Royal Appointment of the late King George V, Gold Medalist of the Royal Scottish Geographical Society. Volume 1, The world, Australasia & East Asia, containing maps showing various aspects of the world entire; also Australia, New Zealand, Antarctica, New Guinea, Japan, China, Korea, Mongolia, Indo-China, Thailand, Philippines, Burma, S-W Pacific, Indonesia, Malaya etc. With an Index-Gazetteer. Boston, Houghton Mifflin Company, The Riverside Press Cambridge, 1958.
+Note	Uncolored index map. Key to adjoining areas.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1959
+Short Title	Index: Celebes, Philippines, Plate 18, v.1
+Pub Type	World Atlas
+Pub Height cm	50
+Authors	Bartholomew, John
+List No	1552.053
+Media item filename	1552053.jpg
+Publication Author	Bartholomew, John
+Image No	1552053
+Publisher Location	[Boston, London, Boston, London]
+Page No	18-Index
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/1552053.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	1552.000_053
+Full Title	(Index to) Celebes, Philippines. Mercator Projection, Equatorial Scale, 1:5,000,000.
+Obj Width cm	31
+Pub List No	1552.000
+Engraver or Printer	William Clowes & Son Ltd.
+Pub Maps	122
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,38 @@
+Date	1968
+Country	[Indonesia, Philippines, Thailand, Vietnam]
+Series No	1
+Subject	[Physical, Political]
+Type	Wall Map
+Reference	UC Berkeley, Geography Department Call Number 240-A-1.
+Pub Note	See Note field above.
+Pub Width cm	160
+Scale 1	4,200,000
+Pub Reference	UCBGEOG1
+Author	Ginsburg, Norton
+Georeferencer Status	georeferenced
+Obj Height cm	116
+Image Order	batch013
+Publisher	Denoyer-Geppert Company
+Pub Title	Southeast Asia.
+Region	Southeast Asia
+Note	Suitable for use in a standard classroom; viewable up to 40 feet. Language(s): English. Map is paper on muslin. Mounted on wood rods. Prime Meridian is Greenwich. Projection is Lambert's conformal conic. Topics include: topography, hydrography, political boundaries, shipping routes, major cities/population. Department of Geography, University of California at Berkeley, Call Number 240-A-1.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1968
+Short Title	Southeast Asia -- Physical-Political
+Pub Type	Wall Map
+Pub Height cm	116
+Authors	Ginsburg, Norton
+List No	7100.000
+Media item filename	7100000.jpg
+Publication Author	Ginsburg, Norton
+Image No	7100000
+Publisher Location	Chicago
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/7100000.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	7100.000_001
+Full Title	Southeast Asia.
+Obj Width cm	160
+Pub List No	7100.000
+Pub Maps	1
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

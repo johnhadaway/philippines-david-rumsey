@@ -1,0 +1,42 @@
+Date	1831
+Country	[Indonesia, Philippines]
+Series No	52
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Note	See note field above.
+Pub Width cm	35
+Scale 1	9,000,000
+Publication Author Initial Sort	Lizars, Daniel; Hamilton, John
+Pub Reference	P761; World 396.
+Author	Lizars, Daniel
+Georeferencer Status	georeferenced
+Browse Title Sort	East India Islands. Published by D. Lizars, Edinburgh. (1831?)
+Ownership Statement	Copyright 2006
+Obj Height cm	43
+Publisher	[John Hamilton, W. Curry, Jun. & Co., Whittaker, Treacher & Co.]
+Pub Title	The Edinburgh geographical and historical atlas, comprehending a sketch of the history of geography ... and history of each continent, state, and kingdom, delineated. And a tabular view of the principal mountain chains in the World. Engraved on sixty-nine copperplates, and compiled from materials drawn from the newest and most authentic sources. Edinburgh: Published by John Hamilton, 15, South St. Andrew Street, successor to Daniel Lizars; Whittaker, Treacher, & Co., Ave-Maria Lane, London; and W. Curry, Jun. & Co., Dublin. (1831?) (with text bound separately)
+Region	Southeast Asia
+Note	Hand colored engraved map. Relief shown by hachures. Includes mainland Southeast Asia.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1831
+Short Title	E. India Islands.
+Pub Type	World Atlas
+Pub Height cm	49
+Authors	Lizars, Daniel
+World Area	East Indies
+List No	0436.049
+Media item filename	0436049.jpg
+Publication Author	[Hamilton, John, Lizars, Daniel]
+Image No	0436049
+Publisher Location	[Edinburgh, Dublin, London]
+Page No	LI
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0115/0436049.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0436.000_052
+Full Title	East India Islands. Published by D. Lizars, Edinburgh. (1831?)
+Obj Width cm	53
+Pub List No	0436.000
+Engraver or Printer	[Hamilton, John, W. Curry, Jun. & Co., Whittaker, Treacher, & Co.]
+Pub Maps	59
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

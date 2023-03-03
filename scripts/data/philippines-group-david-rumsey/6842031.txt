@@ -1,0 +1,37 @@
+Date	1845
+Country	[Burma, Indonesia, Philippines]
+Series No	31
+Type	Atlas Map
+Pub Note	2nd edition, first was 1825 (see our 2550.000). The first edition was issued in the year following the elder Arrowsmith's death in 1824, and dedicated to him. As with the first edition, there is a portrait of A. Arrowsmith Sr in this second edition and all of the maps appear to have been updated, showing changes in the intervening 25 years. Atlas is (2), 45 pages, including 44 maps, bound in half leather brown cloth covered boards, with title on cover "Arrowsmith's New Atlas", and "Arrowsmith's Atlas" stamped on the spine in gold. Maps are hand painted with outline color.
+Pub Width cm	31
+Scale 1	19,000,000
+Author	Arrowsmith, Aaron Jr.
+Georeferencer Status	ungeoreferenced
+Obj Height cm	23
+Image Order	051 batch015
+Publisher	G.F. Cruchley
+Pub Title	Outlines Of The World. By A. Arrowsmith, Hydrographer to His Majesty. 1850. Published Jany st. 1847, by G.F. Cruchley, Mapseller, 81 Fleet Street, London. Addition to 1850. (title page portrait) Aaron Arrowsmith Esquire. H.W. Pickersgill A.R.A. Pinxt. T.A. Dean Sculpt.
+Region	South East Asia
+Note	Hand color map, with outline color by international and administrative boundaries. Shows cities, rivers, roads, etc. Relief shown by hachures. Prime meridian is Greenwich.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1850
+Short Title	Eastern I
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Arrowsmith, Aaron Jr.
+List No	6842.031
+Media item filename	6842031.jpg
+Publication Author	Arrowsmith, Aaron Jr.
+Image No	6842031
+Publisher Location	London
+Page No	28
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/6842031.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	6842.000_031
+Full Title	Eastern I. Re- Published, Jany st. 1845, by G.F. Cruchley, Mapseller, 81 Fleet Street, London. (to accompany) Outlines Of The World. By A. Arrowsmith, Hydrographer to His Majesty. 1850.
+Obj Width cm	31
+Pub List No	6842.000
+Engraver or Printer	[Pickersgill, H.W., Dean, T.A.]
+Pub Maps	44
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

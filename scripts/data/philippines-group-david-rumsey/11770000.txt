@@ -1,0 +1,36 @@
+Date	1944
+Country	Philippines
+Subject	[Military, Pictorial map, Data Visualization]
+Type	Separate Map
+Pub Note	See note field above.
+Pub Width cm	105
+Scale 1	Variable
+Author	Chapin, Jr., R.M.
+Georeferencer Status	not_found
+Obj Height cm	72
+Image Order	.533 batch017
+Publisher	Time Inc.
+Pub Title	. TIME map by R.M. Chapin, Jr. For report documenting above map see TIME, October 30, 1944 issue.
+Region	Pacific Ocean
+Note	2 color maps on 1 sheet. "Enlargement of original map drawn for TIME The weekly magazine.". R.M. Chapin Jr. was a prominent Cold War cartographer who worked for Time Magazine. Relief shown by shading.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1944
+Short Title	I have returned
+Pub Type	Separate Map
+Pub Height cm	72
+Authors	Chapin, Jr., R.M.
+List No	11770.000
+Event	World War II
+Media item filename	11770000.jp2
+Publication Author	Chapin, Jr., R.M.
+Image No	11770000.jp2
+Publisher Location	New York
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11770000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	.622_11770.000_000
+Full Title	I have returned. TIME map by R.M. Chapin, Jr. For report documenting above map see TIME, October 30, 1944 issue.
+Obj Width cm	105
+Pub List No	11770.000
+Engraver or Printer	Time Inc.
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

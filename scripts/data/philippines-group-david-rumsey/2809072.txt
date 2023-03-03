@@ -1,0 +1,38 @@
+Date	1901
+Country	Philippines
+Series No	72
+Subject	Railroad
+Type	Atlas Map
+Reference	cf P3350 (1902).
+Pub Note	Some of Cram's best maps of the U.S. and world. Large number of U.S. cities mapped. Printed color.
+Pub Width cm	37
+Scale 1	2,225,000
+Pub Reference	cf P3350 (1902).
+Author	Cram, George Franklin
+Georeferencer Status	georeferenced
+Obj Height cm	53
+Image Order	batch006
+Publisher	George F. Cram
+Pub Title	Cram's Standard American Railway System Atlas Of The World. Accompanied with a Complete and Simple Index of the United States ... Maps Of The United States Are The Largest Scale And Clearest Print Of Any Atlas Maps Published. Foreign Maps Are Compiled Largely From Charts Of The Royal Geographical Society, And Are Geographically Correct. Published by George F. Cram, 61-63 Plymouth Place, Chicago, Ill. 130 Fulton Street, New York. 1901. (on verso) Copyright Secured By George F. Cram, 1901.
+Note	Border of map has a table of contents for the atlas. Relief shown by hachures.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1901
+Short Title	Philippines.
+Pub Type	World Atlas
+Pub Height cm	47
+Authors	Cram, George
+List No	2809.072
+Media item filename	2809072.jpg
+Publication Author	Cram, George Franklin
+Image No	2809072
+Publisher Location	Chicago
+Page No	428-429
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2809072.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2809.000_072
+Full Title	Philippine Islands. (insets) Manila Province and Vicinity showing Seat of War; Lower Part of Mindanao (continuation of main map).
+Obj Width cm	36
+Pub List No	2809.000
+Pub Maps	180
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

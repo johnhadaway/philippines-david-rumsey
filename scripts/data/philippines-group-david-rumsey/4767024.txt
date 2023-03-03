@@ -1,0 +1,41 @@
+Date	1812
+Country	[Indonesia, Philippines]
+Series No	27
+Type	Atlas Map
+Collection	Rumsey Collection
+Pub Note	See note field above.
+Pub Width cm	34
+Scale 1	16,500,000
+Publication Author Initial Sort	Darton, William
+Pub Reference	Cf P719 (1814 ed.); Harvard College Library (1812 ed.); Baskes Collection (1812 ed.)
+Author	Darton, William
+Georeferencer Status	ungeoreferenced
+Browse Title Sort	The East India Islands. Published by Wm. Darton Junr., Holborn Hill, Jan. 1, 1812.
+Ownership Statement	Copyright 2007
+Obj Height cm	25
+Publisher	William Darton
+Pub Title	38 maps. Union atlas, containing new and improved maps of all the empires, kingdoms, & states, in the known world, designed as a companion to the various gazetteers & books of geography now in use, the whole clearly engraved by artists of eminence and carefully coloured. Including maps of the Roman Empire and Ancient Greece. Published Jany. 25th, 1812, by William Darton, 58 Holborn Hill, London. (1813)
+Region	Southeast Asia
+Note	Hand colored engraved map. Relief shown pictorially. Covers also part of mainland Southeast Asia.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1813
+Short Title	East India Islands.
+Pub Type	World Atlas
+Pub Height cm	41
+Authors	Darton, William
+World Area	East Indies
+List No	4767.024
+Media item filename	4767024.jpg
+Publication Author	Darton, William
+Image No	4767024
+Publisher Location	London
+Page No	24
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0117/4767024.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	4767.000_027
+Full Title	The East India Islands. Published by Wm. Darton Junr., Holborn Hill, Jan. 1, 1812.
+Obj Width cm	29
+Pub List No	4767.000
+Pub Maps	38
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

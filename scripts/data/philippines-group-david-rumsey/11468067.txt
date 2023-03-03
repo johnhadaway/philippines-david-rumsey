@@ -1,0 +1,35 @@
+Date	1880
+Country	Philippines
+Series No	67
+Type	Atlas Map
+Pub Note	1st. edition, administrative and historical atlas of Iberian Peninsula, with 6 pages of text, 60 sheets lithographic double page color maps with descriptive text, by Emilio Alvarez Valverde (Manila, 1848 - Leganes, 1894), military, cartographer, geographer and Spanish writer, author of travel guides. Bound in half leather embossed dark brown paper covered boards with title embossed in gilt on the front cove, and half title on the spin reads "Atlas Geografico. Emilio Valverde", also a decorative stamp with mapping instruments and globe on the back cover in gilt. It includes pictorial colored title page, a general map of Spain with the Philippine Islands, the Spanish possessions in the Gulf of Guinea, the Spanish Antilles, Ceuta, Melilla and the Canary Islands. Shows political and administrative boundaries, with a number indicating the population of the area next to the provincial capitals. Maps drawn by A. Soler and A. Alfaro, showing administrative boundaries, cities, villages, roads, landmarks, rivers and mountains.
+Pub Width cm	27
+Scale 1	750,000
+Author	[Valverde Alvarez, Emilio (1848-1894), Soler, A.]
+Georeferencer Status	not_found
+Obj Height cm	44
+Image Order	.525 batch017
+Publisher	Biblioteca Universal
+Pub Title	Atlas geografico descriptivo de la Peninsula Iberica, Islas Baleares, Canarias y posesiones espanolas de ultramar. Por el comandante graduado capitan de infanteria, Emilio Valverde y Alvarez. Ano 1880. 1a. Edicion. (Half title) Atlas geografico descriptivo de la Peninsula Iberica, Islas Baleares, Canarias y posesiones espanolas de ultramar. Descripcion general. Madrid: 1880. Lithografia e imprenta de la Biblioteca Universal.
+Note	Color lithograph map on 2 sheets. Shows capitals, major cities, towns, rivers and port cites. Includes legend and descriptive text. Relief shown by shadings.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1880
+Short Title	Mapa de las Islas Filipinas
+Pub Type	National Atlas
+Pub Height cm	37
+Authors	Valverde Alvarez, Emilio (1848-1894); Soler, A.
+List No	11468.067
+Media item filename	11468067.jp2
+Publication Author	Valverde Alvarez, Emilio (1848-1894)
+Image No	11468067.jp2
+Publisher Location	Madrid
+Page No	60
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/11468067.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	11468.000_067
+Full Title	Mapa de las Islas Filipinas. E. Valverde, dibujo. A.Soler, grabo. Litografía e Imprenta de la Biblioteca Universal. (at upper margin) Numero 60, Islas Filipina. (to accompany) Atlas geografico descriptivo de la Peninsula Iberica ... Ano 1880. 1a. Edicion. (inset) Islas Marianas.
+Obj Width cm	32
+Pub List No	11468.000
+Pub Maps	60
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,40 @@
+Date	1764
+Country	[Philippines, Borneo]
+Series No	279
+Subject	[Navigation, Nautical Charts]
+Type	Chart Map
+Reference	P638 and P3508; National Maritime Museum 211; Tooley Mapping America, p208-209.
+Pub Note	Bellin was an important maker of charts for the French Depot de la Marine. He was born in Paris in 1703 and educated as an engineer. He produced many important charts and published them individually and in compilations. The Neptune Francais was published in 1753 and the Hydrographie Francaise in 1756. His largest and most comprehensive work is the Petit Atlas Maritime with 581 charts (our copy has 582, including the rare "Carte Reduite des Decouvertes des Russe Entre L'Asie et L'Amerique.") that cover the coasts and important port cities of the known world. The Petit Atlas Maritime is probably the best compilation of plans of maritime towns and harbors of its time. Bellin died in Versailles in 1772. According to Tooley, Bellin issued an earlier version of this atlas in 1763 titled Petit Atlas Francois. The Duc de Choiseul provided financial support for the publication of the atlas. J. Arrivet is listed as engraver on the chart index pages and may also have engraved the charts themselves.
+Pub Width cm	26
+Scale 1	15,774,750
+Pub Reference	P638 and P3508; National Maritime Museum 211; Tooley Mapping America, p208-209.
+Author	Bellin, Jacques Nicolas, 1703-1772
+Georeferencer Status	ungeoreferenced
+Obj Height cm	22
+Image Order	batch013
+Publisher	J.N. Bellin
+Pub Title	Le Petit Atlas Maritime Recueil De Cartes et Plans Des Quatre Parties Du Monde. en Cinq Volumes. I. Volume. Amerique Septentrionale et Isles Antilles. II. Volume. Amerique Meridionale. Mexique, Terra-Ferme, Bresil, Perou, Chily. III. Volume. Asia et Afrique. IV. Et V. Volumes. Europe et les Etats Qu'elle contient. Par Ordre de M. Le Duc de Choiseul, Colonel General des Suisses et Grisons Ministre de la Guerre et de la Marine. Par le S. Bellin Ingenieur de la Marine 1764.
+Note	Decorative title cartouche. Relief shown pictorially. Shows settlements. Includes note. Prime meridian is Paris.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1764
+Short Title	Carte Des Isles Philippines Celebes et Moluques
+Pub Type	Chart Atlas
+Pub Height cm	33
+Authors	Bellin, Jacques Nicolas, 1703-1772
+World Area	Asia
+List No	6903.279
+Media item filename	6903279.jpg
+Publication Author	Bellin, Jacques Nicolas, 1703-1772
+Image No	6903279
+Publisher Location	Paris
+Page No	Tom 3. No. 64
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/6903279.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	6903.000_279
+Full Title	Carte Des Isles Philippines Celebes et Moluques.
+Obj Width cm	17
+Pub List No	6903.000
+Engraver or Printer	J. Arrivet
+Pub Maps	582
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

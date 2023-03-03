@@ -1,0 +1,39 @@
+Date	1850
+Country	[Indonesia, Philippines, Thailand, Vietnam]
+Series No	104
+Type	Atlas Map
+Reference	cf P6120; Espenhorst H 2.5.
+Pub Note	Date estimated. Has a good catalogue of Perthes works. The maps dated to 1851. The title page and cover say 83 maps, but there are actually 86. The U.S. maps are dated 1848 and 1847. They should be compared to the 1853 edition with the U.S. maps dated 1852 (see our #4973). This U.S. map shows the German settlements in Texas, and Deseret in what was to become Utah. With full and outline color.
+Pub Width cm	46
+Scale 1	18,500,000
+Pub Reference	cf P6120; Espenhorst H 2.5.
+Author	[Stieler, Adolf, Stulpnagel, F.v.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	32
+Image Order	072 batch015
+Publisher	Justus Perthes
+Pub Title	Hand - Atlas Uber Alle Theile Der Erde nach dem neuesten Zustande Und Uber Das Weltgebaude. Herausgegebenn von Adolf Stieler, berbeitet von Demselben, so wie von F.v. Stulpnagel, H. Berghaus u. I.C. Bar. Gotha bei Justus Perthes. (title page only) gez. v. Bar. gest. v. Edler in Gotha.
+Region	Southeast Asia
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1851
+Short Title	Ost-Indien Mit Den Inseln. (East Indies).
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Stieler, Adolf; Stulpnagel, F.v.
+World Area	East Indies
+List No	2507.104
+Media item filename	2507104.jpg
+Publication Author	Stieler, Adolf
+Image No	2507104
+Publisher Location	Gotha
+Page No	44a
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2507104.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	2507.000_104
+Full Title	No. XLVIII. Stieler's Hand-Atlas (No. 44a). Ost-Indien Mit Den Inseln....
+Obj Width cm	41
+Pub List No	2507.000
+Engraver or Printer	[Berghaus, H., Edler, Alt, Bar, J.C.]
+Pub Maps	86
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

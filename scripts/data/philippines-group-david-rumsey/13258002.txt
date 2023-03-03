@@ -1,0 +1,36 @@
+Date	1814
+Country	[China, Philippines, Australia]
+Series No	2
+Subject	Nautical Charts
+Type	Separate Map
+Pub Note	See note field above.
+Pub Width cm	80
+Scale 1	9,000,000
+Author	Arrowsmith, Aaron
+Obj Height cm	64
+Image Order	.405 batch017
+Publisher	A. Arrowsmith
+Pub Title	Chart of the Pacific Ocean ... (Australia, Philippines, China, etc.) London: Published October 1st. 1798, by A. Arrowsmith.
+Region	Pacific Ocean
+Note	Sheets 4 and 7 from the 9 sheet chart of the Pacific, published in 1814, by Aaron Arrowsmith. The 9 sheet chart first published in 1798 and reissued over many years. These 2 sheets cover north to south from the coast of China to the Philippines, the East Indies, Australia and a portion of New Zealand. Showing coastal outlines, the important recent discoveries around Philippines and Australia, with detailed notes on history of exploration and European colonization in the area. Includes compass roses. Depth shown by soundings. The 1814 maps of the coastal explorations by Matthew Flinders were made by Arrowsmith's nephew, John Arrowsmith, and provided the new coastal features that Arrowmith incorporated into these maps.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1814
+Short Title	Sheet 7: Chart of the Pacific Ocean ... (Australia, Philippines, China, etc.)
+Pub Type	Separate Map
+Pub Height cm	64
+Authors	Arrowsmith, Aaron
+List No	13258.002
+Media item filename	13258002.jp2
+Publication Author	Arrowsmith, Aaron
+Image No	13258002.jp2
+Publisher Location	London
+Page No	7
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13258002.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	13258.000_002
+Full Title	Chart of the Pacific Ocean ... (Australia, Philippines, China, etc.) London: Published October 1st. 1798, by A. Arrowsmith.
+Obj Width cm	80
+Pub List No	13258.000
+Pub Maps	2
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

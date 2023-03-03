@@ -1,0 +1,39 @@
+Date	1965
+Country	[Russia, China, Japan, Philippines]
+Series No	284
+Subject	[Military, Historical]
+Type	Atlas Map
+Pub Note	Czechoslovakian military atlas. Published in 2 volumes, The atlas published in 1965, and the name list published in 1966, this might be one of the most complex post WW2 atlases produced in Europe. The 210 000 names in the separately published in 256 pages, name register prove the amount of data present in the atlas is enormous. Bound in red covers with title in gilt on front cover and spine. The atlas is in 376 pages, in red covers and paper colored dust covers with map of the world and title on front sheet and spine. Atlas divided into two main sections, first part includes world geographical, political, physical and statistical maps, and the second part depicting military historical and the geographical anatomy of the most important battles of history as well as showing battle formations and war strategies from many thousand years B.C. until the Cuban revolution in 1959. Atlas includes color maps, descriptive text, index to and 2 sheets of legends, with separate loose sheets of legend and Supplement to the Map of Asia- Language Division of the Czechoslovak Socialist Republic p. 161. Atlas provides a rich assortment of thematic as well as hundreds of physical and political maps,depicting in full detail the topography, coastlines, islands. water system, administrative divisions, roads, railroads, subways, agriculture, industry, energy, population and economic development, Relief shown by gradient tints, shadings, contours and spot heights. Depth shown by bathymetric tints, isolines. Most maps include descriptive text, tables and diagrams. Military historical maps showing political boundaries and battle grounds, military bases. Arrows and text pointing out the diversion of planes and warships to the strategic places. Atlas printed in the amount of 15 000 copies, it was officially distributed among military commanders. Although it is no surprise the military part of this atlas is affected by communistic propaganda to a rather high degree, it doesn’t make the cartographic part any less an admirable achievement. Around 300 people from Czechoslovakian Ministry of Defense, Charles University in Prague and Czech Academy of Science participated in making of this atlas, including Jane Klim, Editor in-Chief, Josef Paxa, Deputy of the editorial board, Bohuslav Simak, Editor of the Geographical section, Karel Blazek, Military historical section, and Josef Vlastnk, technical editor. Cartographically processed by the Military Cartographic Institute in Bánská Bystrica and the Military Geographical Institute in Prague.
+Pub Width cm	31
+Scale 1	40,000,000
+Author	[Československá akademie věd., Klíma, Jan]
+Obj Height cm	35
+Image Order	.2455 batch018
+Publisher	Naše vojsko - MNO
+Pub Title	Ministerstvo národní obrany. Československá akademie věd. Československý vojenský atlas̊. Naše vojsko - MNO; Praha 1965.
+Region	[Southeast Asia, East Asia]
+Note	Timeline folded map of the Pacific War, with 2 insets, text, table and legend. Covered a large portion of the Pacific Ocean, East Asia, Southeast Asia and Northern Australia.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1966
+Short Title	Operace v oblasti Tichého Oceánu v I. 1944-1945 = Operation in the Pacific Ocean 1944-45.
+Pub Type	Military Atlas
+Pub Height cm	42
+Authors	Československá akademie věd.; Klíma, Jan
+World Area	Pacific
+List No	13684.284
+Event	World War II
+Media item filename	13684284.jp2
+Publication Author	[Československá akademie věd., Klíma, Jan]
+Image No	13684284.jp2
+Publisher Location	Praha
+Page No	361
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/13684284.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	13684.000_284
+Full Title	Operace v oblasti Tichého Oceánu v I. 1944-1945. Československý vojenský atlas.
+Obj Width cm	39
+Pub List No	13684.000
+Engraver or Printer	Czechoslovakia. Ministerstvo národní obrany.
+Pub Maps	367
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

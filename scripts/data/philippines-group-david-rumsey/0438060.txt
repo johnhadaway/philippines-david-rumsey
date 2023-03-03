@@ -1,0 +1,39 @@
+Date	1841
+Country	[Indonesia, Philippines]
+Series No	60
+Type	Atlas Map
+Reference	Philips Atlases 782.
+Pub Note	A later edition of the 1826 atlas, published by William H. Lizars, a Scottish painter and engraver. Date is on the spine only. Atlas contains 69 double-page engraved hand colored in outline map sheets, contents ”Index to the maps”, numbered 1-70, as listed but no. 32 omitted, no. 70 is double-page engraved “Table of mountain chains”, and 16 pages of index to the name of places and maps" at the end. Maps show political and administrative boundaries, cities, villages, rivers, lakes and mountains. This volume includes two maps, one of the United States and one of Mexico, both showing the Republic of Texas. Relief shown by hachures. Some maps includes notes. Prime meridian is Greenwich. Covers are half leather dark green cloth covered boards with "Lizars' General Atlas. 1841" stamped in gilt on the spine.
+Pub Width cm	34
+Scale 1	9,000,000
+Pub Reference	Philips Atlases 782.
+Author	Lizars, William Home, 1788-1859
+Georeferencer Status	georeferenced
+Obj Height cm	42
+Image Order	.550 batch017
+Publisher	[W.H. Lizars, S. Highley; W. Curry, Jun. & Co.]
+Pub Title	Lizars' Edinburgh Geographical General Atlas: Containing Maps Of Every Empire, State, And Kingdom; With A Tabular View Of The Heights Of The Great Mountain Chains, And A Very Copious And Comprehensive Consulting Index. Compiled, Drawn, And Engraved, From The Latest And Most Authentic Sources ... The Whole Engraved Upon Sixty-Nine Plates. Edinburgh: W.H. Lizars, 3, St James' Square; S. Highley, 32, Fleet Street, London; And W. Curry, Jun., & Co., Dublin. 1841.
+Region	Southeast Asia
+Note	Double page engraved hand colored in outline. Relief shown by hachures. Shows political boundaries, towns, roads, rivers and mountains. Prime meridian is Greenwich.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1841
+Short Title	East India Islands
+Pub Type	World Atlas
+Pub Height cm	49
+Authors	Lizars, William Home, 1788-1859
+World Area	East Indies
+List No	0438.060
+Media item filename	0438060.jp2
+Publication Author	Lizars, William Home, 1788-1859
+Image No	0438060.jp2
+Publisher Location	[Edinburgh,London; Dublin, Edinburgh,London; Dublin]
+Page No	LI
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/0438060.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	0438.000_060
+Full Title	East India Islands. Published by W. Lizars, Edinburgh. (to accompany) Lizars' Edinburgh Geographical General Atlas ... 1841.
+Obj Width cm	52
+Pub List No	0438.000
+Pub Maps	68
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

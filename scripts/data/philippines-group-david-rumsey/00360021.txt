@@ -1,0 +1,42 @@
+Date	1813
+Country	[Indonesia, Philippines]
+Series No	42
+Type	Atlas Map
+Reference	P724; NMC 409.
+Collection	Rumsey Collection
+Pub Note	A superb copy. One of the best English Atlases of the period, similar to Thomson's General Atlas of 1817. See the Philadelphia edition of 1818. Maps are hand painted in full color and bound in new half leather beige cloth covered boards with "Pinkerton Atlas" stamped in gilt on a black spine label.
+Pub Width cm	48
+Scale 1	7,200,000
+Publication Author Initial Sort	Pinkerton, John, 1758-1826
+Pub Reference	P724; NMC 409.
+Author	Pinkerton, John, 1758-1826
+Georeferencer Status	georeferenced
+Browse Title Sort	East India Isles. Drawn under the direction of Mr. Pinkerton by L. Hebert. Neele sculpt. 352 Strand. London: published April 15th. 1813, by Cadell & Davies, Strand & Longman, Hurst, Rees, Orme, & Brown, Paternoster Row.
+Ownership Statement	Copyright 2005
+Obj Height cm	52
+Publisher	[Cadell and Davies, Longman, Hurst, Rees, Orme, and Brown]
+Pub Title	A modern atlas, from the latest and best authorities, exhibiting the various divisions of the world, with its chief empires, kingdoms and states, in sixty maps, carefully reduced from the largest and most authentic sources. Directed and superintended by John Pinkerton, author of Modern geography, &c. London: Printed by T. Bensley, Bolt Court, Fleet Street; for T. Cadell and W. Davies, Strand; and Longman, Hurst, Rees, Orme, And Brown, Paternoster Row. 1815.
+Region	Southeast Asia
+Note	Engraved map. Full hand col. Relief shown by hachures. "Pinkerton's modern atlas."
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1815
+Short Title	East India Isles.
+Pub Type	World Atlas
+Pub Height cm	59
+Authors	Pinkerton, John, 1758-1826
+List No	0732.039
+Media item filename	00360021.jpg
+Publication Author	Pinkerton, John, 1758-1826
+Image No	0732039
+Publisher Location	[London, London]
+Page No	37
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0036/0732039.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	0732.000_042
+Full Title	East India Isles. Drawn under the direction of Mr. Pinkerton by L. Hebert. Neele sculpt. 352 Strand. London: published April 15th. 1813, by Cadell & Davies, Strand & Longman, Hurst, Rees, Orme, & Brown, Paternoster Row.
+Obj Width cm	70
+Pub List No	0732.000
+Engraver or Printer	[Hebert, L., Neele, Samuel John, 1758-1824]
+Pub Maps	61
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

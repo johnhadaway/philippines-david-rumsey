@@ -1,0 +1,35 @@
+Date	1923
+Country	[Philippines, Indonesia, Papua New Guinea]
+Series No	30
+Subject	[Religions, Physical]
+Type	Atlas Map
+Pub Note	Maps in full color. Relief is shown by hypsometric tints.
+Pub Width cm	27
+Scale 1	10,000,000
+Author	Institute of Social and Religious Research
+Georeferencer Status	ungeoreferenced
+Obj Height cm	46
+Image Order	008 batch016
+Publisher	Institute of Social and Religious Research
+Pub Title	World Missionary Atlas. Containing a Directory of Missionary Societies, Classified Summaries of Statistics, Maps Showing the Locations of Missionary Stations throughout the World, a Descriptive Account of the Principal Mission Lands, and Comprehensive Indicies. Edited by Harland P. Beach, D.D, F.R.G.S., Charles H. Fahs, B.A., B.D. Maps by John Bartholomew, F.R.G.S. of the Edinburgh Geographical Institute. New York, Institute of Social and Religious Research, 1925.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1925
+Short Title	Plate 7. Farther India and East Indies - Eastern Section.
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Institute of Social and Religious Research
+List No	2030.030
+Media item filename	2030030.jp2
+Publication Author	Institute of Social and Religious Research
+Image No	2030030.jp2
+Publisher Location	New York
+Page No	Plate 7
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/153/2030030.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	2030.000_030
+Full Title	Plate 7. Farther India and East Indies - Eastern Section.
+Obj Width cm	34
+Pub List No	2030.000
+Pub Maps	30
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,36 @@
+Date	1818
+Country	[Indonesia, Philippines]
+Series No	46
+Type	Atlas Map
+Pub Note	Lizars' New Edinburgh general atlas of the world, contains engraved title page, with decorative borders, text and contents, 44 lithographed hand colored maps on 62 plates, some double and folded. Maps show political and administrative boundaries, cities, villages, rivers, post roads, exploration routes, rivers, lakes and mountains. Relief shown by hachures. Some maps includes notes. Prime meridian is Greenwich. The map of the United States, covers eastern and central states. Covers are brown half leather paper covered boards with title in black on front cover, the spine in seven compartments with six raised bands, gilt-lettered in one and stamped in the rest with title" New Edinrg. Atlas". Manuscript notes inside front cover and verso of title page.
+Pub Width cm	48
+Scale 1	9,000,000
+Author	[Lizars, William Home, 1788-1859, Lizars, Daniel]
+Obj Height cm	42
+Image Order	040 batch016
+Publisher	T. Brown & W. & D. Lizars
+Pub Title	New Edinburgh general atlas : or a complete collection of maps of the empires, kingdoms and states throughout the world. The maps drawn and engraved by W. & D. Lizars. Published by T. Brown & W. & D. Lizars, Edinburgh.
+Region	Southeast Asia
+Note	Hand colored engraved map. Relief shown by hachures and pictorially. Prime meridian is Greenwich.
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Pub Date	1818
+Short Title	East India
+Pub Type	World Atlas
+Pub Height cm	58
+Authors	Lizars, William Home, 1788-1859; Lizars, Daniel
+World Area	East Indies
+List No	13230.046
+Media item filename	13230046.jp2
+Publication Author	[Lizars, William Home, 1788-1859, Lizars, Daniel]
+Image No	13230046.jp2
+Publisher Location	Edinburgh
+Page No	51
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/190/13230046.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	13230.000_046
+Full Title	East India. Published by T. Brown & W. & D. Lizars, Edinburgh. (to accompany) New Edinburgh general atlas ... The maps drawn and engraved by W. & D. Lizars.
+Obj Width cm	52
+Pub List No	13230.000
+Pub Maps	62
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

@@ -1,0 +1,39 @@
+Date	1850
+Country	[Indonesia, Philippines, Thailand, Vietnam]
+Series No	103
+Type	Atlas Map
+Reference	cf P6120 (1855 edition); Espenhorst H 3.1.
+Pub Note	Date estimated. Most of the maps are dated 1852 or 1853. The U.S. maps are dated 1852 and show the formation of California, Utah, and New Mexico in the west. Maps are hand painted with full and outline color.
+Pub Width cm	47
+Scale 1	18,500,000
+Pub Reference	cf P6120 (1855 edition); Espenhorst H 3.1.
+Author	[Stieler, Adolf, Stulpnagel, F.v.]
+Georeferencer Status	georeferenced
+Obj Height cm	32
+Image Order	069 batch015
+Publisher	Justus Perthes
+Pub Title	Hand - Atlas Uber Alle Theile Der Erde nach dem neuesten Zustande Und Uber Das Weltgebaude. Herausgegebenn von Adolf Stieler, berbeitet von Demselben, so wie von F.v. Stulpnagel, H. Berghaus u. I.C. Bar. Gotha bei Justus Perthes. (title page only) gez. v. Bar. gest. v. Edler in Gotha.
+Region	Southeast Asia
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1853
+Short Title	Ost-Indien Mit Den Inseln. (East Indies).
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Stieler, Adolf; Stulpnagel, F.v.
+World Area	East Indies
+List No	4973.103
+Media item filename	4973103.jpg
+Publication Author	Stieler, Adolf
+Image No	4973103
+Publisher Location	Gotha
+Page No	44a
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/4973103.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	4973.000_103
+Full Title	No. XLVIII. Stieler's Hand-Atlas (No. 44a). Ost-Indien Mit Den Inseln....
+Obj Width cm	41
+Pub List No	4973.000
+Engraver or Printer	[Berghaus, H., Edler, Alt, W., Bar, J.C.]
+Pub Maps	84
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

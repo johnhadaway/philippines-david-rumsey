@@ -1,0 +1,41 @@
+Date	1747
+Country	[Indonesia, Philippines]
+Series No	46
+Type	Atlas Map
+Reference	cf P614 (1752 edition of A Complete Atlas...); NMM p.356; M&B p 166.
+Collection	Rumsey Collection
+Pub Note	In the title Bowen states that he is "Preserving all that is useful in the Fourth and Last edition of the Complete Geographer, publish'd under the name of Herman Moll, &c." The 70 maps were also published in two other forms: in "A Complete Atlas" of 1752, and as the Maps for the "Complete Collection of Voyages" by John Harris, in 1744-48 (M&B). The text is massive and interesting, and there are several important maps of America: America, West Indies, Mexico, Louisiana, Carolina, Virginia, Pennsylvania et al, and Newfoundland et al. The map of the World in Hemispheres is lacking in this copy. Both volumes are newly bound in full brown leather covered boards with "Geography. Vol. 1" and -Geography. Vol. 2" embossed on the spine in gilt.
+Pub Width cm	28
+Scale 1	13,500,000
+Publication Author Initial Sort	Bowen, Emanuel
+Pub Reference	cf P614 (1752 edition of A Complete Atlas...); NMM p.356; M&B p 166.
+Author	Bowen, Emanuel
+Georeferencer Status	georeferenced
+Browse Title Sort	A new and accurate map of the East India Islands. Laid down according to the latest discoveries, and agreeable to the most approved maps & charts. The whole being regulated by astronl. observations, by Eman: Bowen. (London: Printed for William Innys, Richard Ware, Aaron Ward, J. and P. Knapton, John Clarke, T. Longman and T. Shewell, Thomas Osborne, Henry Whitridge ... M.DCC.XLVII)
+Ownership Statement	Copyright 2000
+Obj Height cm	34
+Publisher	William Innys [et al.]
+Pub Title	A complete system of geography. Being a description of all the countries, islands, cities, chief towns, harbours, lakes, and rivers, mountains, mines, &c. of the known world ... In two volumes. The whole illustrated with seventy maps, by Emanuel Bowen, Geographer to His Majesty, being all new-drawn and ingraved according to the latest discoveries and surveys; making, of themselves, a complete atlas, for the sse of gentlemen, merchants, mariners, and others, who delight in history and geography ... Vol. 1. London: Printed for William Innys, Richard Ware, Aaron Ward, J. and P. Knapton, John Clarke, T. Longman and T. Shewell, Thomas Osborne, Henry Whitridge ... M.DCC.XLVII.
+Note	Engraved map. Shows shoals, etc. Relief shown pictorially. Includes geographical and historical notes and ornamental cartouche.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1747
+Short Title	East India Islands.
+Pub Type	Geography Book
+Pub Height cm	43
+Authors	Bowen, Emanuel
+World Area	East Indies
+List No	3733.043
+Media item filename	00280007.jpg
+Publication Author	Bowen, Emanuel
+Image No	3733043
+Publisher Location	London
+Page No	No. 44
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0028/3733043.sid target=_blank>Full Image Download in MrSID Format</a>
+Pub List No InitialSort	3733.000_046
+Full Title	A new and accurate map of the East India Islands. Laid down according to the latest discoveries, and agreeable to the most approved maps & charts. The whole being regulated by astronl. observations, by Eman: Bowen. (London: Printed for William Innys, Richard Ware, Aaron Ward, J. and P. Knapton, John Clarke, T. Longman and T. Shewell, Thomas Osborne, Henry Whitridge ... M.DCC.XLVII)
+Obj Width cm	43
+Pub List No	3733.000
+Pub Maps	70
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

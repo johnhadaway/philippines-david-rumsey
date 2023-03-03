@@ -1,0 +1,35 @@
+Date	1901
+Country	Philippines
+Series No	72
+Type	Atlas Map
+Pub Note	Fully revised edition, in 864 pages, maps in color, some double page. Includes indexes and gazetteers, diagrams, statistical and astronomical charts, population density, various views of scenery and people, and new census information. Bound in red cloth covered boards, with title: "Cram's atlas of the world, ancient and modern". Title and borders stamped in gold.
+Pub Width cm	32
+Scale 1	4,500,000
+Author	[Cram, George Franklin, Murray-Aaron, Eugene, 1852-1941.]
+Georeferencer Status	ungeoreferenced
+Obj Height cm	35
+Image Order	.989 batch016
+Publisher	G.F. Cram
+Pub Title	Cram's atlas of the world, ancient and modern : new census edition -- indexed. Geographical, historical and statistical presentation of the world in all its divisions : containing a complete series of maps of modern geography, exhibiting the entire world and all its various political divisions to correspond with their state to-day : an elaborate series of authentic historical maps showing the world's progress and development from the earliest times to the present to which is added a historical sketch of astronomical science with a description of the geography of the world. A thoroughly revised, rewritten, and newly illustrated edition By George F. Cram, editorially assisted by Eugene Murrary-Aaron. F.E.S., F.Z.S.E. ... With cooperation of Israel Smith Clare ..., John Klooster, Jr., ... Charles E Arron, A.M. ... Fully illustrated by diagrams, charts, and over 300 half-tone views of the world's choicest scenery. Published by George F. Cram, Fulton Building, 130 Fulton St. New York. 61-63 Plymouth Place, Chicago, Il. (on verso) Copyright secured by George F. Cram, 1901.
+Note	In full color. Relief shown by hachures. Shows administrative divisions, cities and towns. Prime meridian is Greenwich.
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1901
+Short Title	Philippine Islands
+Pub Type	World Atlas
+Pub Height cm	38
+Authors	Cram, George Franklin; Murray-Aaron, Eugene, 1852-1941.
+List No	1910.072
+Media item filename	1910072.jp2
+Publication Author	[Cram, George Franklin, Murray-Aaron, Eugene, 1852-1941.]
+Image No	1910072.jp2
+Publisher Location	New York,Chicago
+Page No	281
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/1910072.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	1910.000_072
+Full Title	Philippine Islands. Published by George F. Cram, Chicago, Ill. (to accompany) Cram's atlas of the world, ancient and modern : new census edition -- indexed. (insets) Map showing the relative position of Manila with Hong Kong and Formosa.
+Obj Width cm	26
+Pub List No	1910.000
+Pub Maps	123
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

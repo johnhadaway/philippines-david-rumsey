@@ -1,0 +1,36 @@
+Date	1900
+Country	[Indonesia, Philippines, India, Japan]
+Series No	232
+Type	Atlas Map
+Pub Note	Maps are printed in full and outline color. In French.
+Pub Width cm	26
+Scale 1	33,333,333
+Author	Larousse
+Georeferencer Status	ungeoreferenced
+Obj Height cm	21
+Image Order	009 batch016
+Publisher	Librairie Larousse
+Pub Title	Atlas Larousse Illustre. Librairie Larousse, Paris. (first unillustrated title page) Atlas Larousse Illustre. 42 Cartes. - 1158 Reproductions photographiques.
+Region	South Asia
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1900
+Short Title	Asia Orientale.
+Pub Type	World Atlas
+Pub Height cm	33
+Authors	Larousse
+List No	0418.231
+Media item filename	0418231.jp2
+Publication Author	Larousse
+Image No	0418231.jp2
+Publisher Location	Paris
+Page No	(312A), 36
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/0418231.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	0418.000_232
+Full Title	Asia Orientale.
+Obj Width cm	28
+Pub List No	0418.000
+Engraver or Printer	Rougeron Vignerot Demoulin
+Pub Maps	42
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null

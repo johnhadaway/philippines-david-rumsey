@@ -1,0 +1,34 @@
+Date	1654
+Country	[Philippines, Indonesia, Malaysia]
+Series No	125
+Type	Atlas Map
+Pub Note	This is a very rare edition of Sanson's maps, published by his son, Guillaume Sanson. The title page is dated 1697 but the latest date on a map in the atlas is 1709. In French and Latin. Three volume set. Volume I is a huge set of hierarchies presenting the relative arrangement of thousands of places. Each page has from four to six levels of places, for example ranging from a country level down through states and counties on down to cities and towns. In cataloging, for the title of each page,we just list the first highest level place on the page. In the Short Title, liberty as been taken to explain the subjects of the page in English in more detail. Relief shown by sketches. Outline color.
+Pub Width cm	36
+Scale 1	10,700,000
+Author	[Sanson, Nicolas, 1600-1667, Sanson, Guillaume (1633-1703)]
+Georeferencer Status	georeferenced
+Obj Height cm	41
+Image Order	.689 batch017
+Publisher	Cloistre de S Nicolas du Louvre
+Pub Title	Cartes et Tables de la Geographie Ancienne et Nouvelle ou Methode pour s'Instruire Avec facilite de la Geographie, et Connoistre des Empires, Monarchies, Royaumes, Estats, Republiques, et Peuples ... Par les Srs. Sanson, Geographes du Roy ... A Paris. Chez l'Autheur ... 1697. (Maps and Tables of Geography Ancient and Modern or Methods for Easy Instruction of the Geography and Understanding of Empires, Monarchies, Kingdoms, States, Republics, and Peoples ... By Srs. Sanson, Geographers to the King ... In Paris ... House of the Author ... 1697.)
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Pub Date	1697
+Short Title	Philippines, Indonesia, and Malaysia
+Pub Type	[World Atlas, Classical Atlas]
+Pub Height cm	47
+Authors	Sanson, Nicolas (1600-1667); Sanson, Guillaume (1633-1703)
+List No	9741.125
+Media item filename	9741125.jp2
+Publication Author	[Sanson, Nicolas, 1600-1667, Sanson, Guillaume (1633-1703)]
+Image No	9741125.jp2
+Publisher Location	Paris
+Page No	10
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9741125.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Pub List No InitialSort	9741.000_125
+Full Title	Les Isles Philippines, Molucques, et de la Sonde (Philippines Isles, Molucca and Sunda).
+Obj Width cm	56
+Pub List No	9741.000
+Pub Maps	227
+Processed Date	null
+Processed Date (epoch)	null
+CanonicalServerAddress	null
